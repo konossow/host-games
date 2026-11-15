@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'digital';
+  src: url('./assets/fonts/digital.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+  background-color: #FAFBFC;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.turbo {
+  color: #24292E;
+  font-family: digital;
+  font-size: 20vw;
+  text-align: center;
+}

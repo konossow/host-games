@@ -1,0 +1,130 @@
+.stream {
+  display: grid;
+  grid-template-columns: 10% 80% 10%;
+  grid-template-rows: 25% 75%;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100%;
+  user-select: none;
+  padding: 48px;
+}
+
+.team-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  grid-row: span 2;
+}
+
+.name {
+  font-size: 48px;
+  text-align: center;
+}
+
+.score {
+  font-size: 100px;
+  letter-spacing: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.error {
+  font-size: 64px;
+}
+
+.error path {
+  color: #FF3B30;
+}
+
+.error:not(.active) {
+  filter: grayscale(1);
+}
+
+.toolbar {
+  font-size: 120px;
+  letter-spacing: 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.mainboard {
+  font-size: 80px;
+  letter-spacing: 10px;
+  overflow: hidden;
+}
+
+.answer {
+  line-height: 160px;
+  cursor: pointer;
+  display: grid;
+  grid-template-columns: 80px calc(100% - 240px) 160px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.answer .id {
+  width: 80px;
+}
+
+.answer .description {
+  visibility: hidden;
+  position: absolute;
+  flex-grow: 1;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.answer.revealed .description {
+  visibility: visible;
+  position: relative;
+  opacity: 1;
+}
+
+.answer .points {
+  visibility: hidden;
+  position: absolute;
+  text-align: right;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.answer.revealed .points {
+  visibility: visible;
+  position: relative;
+  opacity: 1;
+}
+
+.answer .placeholder {
+  overflow: hidden;
+  column-span: 2;
+}
+
+.answer.revealed .placeholder {
+  display: none;
+}
+
+.stopwatch {
+  position: absolute;
+  bottom: 64px;
+  left: 64px;
+}
+
+.round-counter {
+  position: absolute;
+  bottom: 64px;
+  right: 64px;
+}
+
+.game-info {
+  font-size: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  row-gap: 100px;
+  text-align: center;
+  height: 100%;
+}

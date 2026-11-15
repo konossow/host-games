@@ -1,0 +1,850 @@
+[
+  {
+    "id": 0,
+    "answer": "2PAC",
+    "themes": [
+      "valhalla-2026"
+    ],
+    "image_path": "mainstream/riddles/2pac.png"
+  },
+  {
+    "id": 1,
+    "answer": "30 Seconds To Mars",
+    "themes": [],
+    "image_path": "mainstream/riddles/30-seconds-to-mars.png"
+  },
+  {
+    "id": 2,
+    "answer": "50 Cent",
+    "themes": [],
+    "image_path": "mainstream/riddles/50-cent.png"
+  },
+  {
+    "id": 3,
+    "answer": "ACDC",
+    "themes": [],
+    "image_path": "mainstream/riddles/acdc.png"
+  },
+  {
+    "id": 4,
+    "answer": "Aerosmith",
+    "themes": [],
+    "image_path": "mainstream/riddles/aerosmith.png"
+  },
+  {
+    "id": 5,
+    "answer": "Alice in Chains",
+    "themes": [],
+    "image_path": "mainstream/riddles/alice-in-chains.png"
+  },
+  {
+    "id": 6,
+    "answer": "Alphaville",
+    "themes": [],
+    "image_path": "mainstream/riddles/alphaville.png"
+  },
+  {
+    "id": 7,
+    "answer": "Arctic Monkeys",
+    "themes": [],
+    "image_path": "mainstream/riddles/arctic-monkeys.png"
+  },
+  {
+    "id": 8,
+    "answer": "Audioslave",
+    "themes": [],
+    "image_path": "mainstream/riddles/audioslave.png"
+  },
+  {
+    "id": 9,
+    "answer": "Black Sabaath",
+    "themes": [],
+    "image_path": "mainstream/riddles/black-sabaath.png"
+  },
+  {
+    "id": 10,
+    "answer": "Bloodhound Gang",
+    "themes": [],
+    "image_path": "mainstream/riddles/bloodhound-gang.png"
+  },
+  {
+    "id": 11,
+    "answer": "Blue Cafe",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/blue-cafe.png"
+  },
+  {
+    "id": 12,
+    "answer": "Bruno Mars",
+    "themes": [],
+    "image_path": "mainstream/riddles/bruno-mars.png"
+  },
+  {
+    "id": 13,
+    "answer": "Budka Suflera",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/budka-suflera.png"
+  },
+  {
+    "id": 14,
+    "answer": "Bullet For My Valentine",
+    "themes": [],
+    "image_path": "mainstream/riddles/bullet-for-my-valentine.png"
+  },
+  {
+    "id": 15,
+    "answer": "Coldplay",
+    "themes": [],
+    "image_path": "mainstream/riddles/coldplay.png"
+  },
+  {
+    "id": 16,
+    "answer": "Crazy Loop",
+    "themes": [],
+    "image_path": "mainstream/riddles/crazy-loop.png"
+  },
+  {
+    "id": 17,
+    "answer": "Creedence Clearwater Revival",
+    "themes": [],
+    "image_path": "mainstream/riddles/creedence-clearwater-revival.png"
+  },
+  {
+    "id": 18,
+    "answer": "Dead or Alive",
+    "themes": [],
+    "image_path": "mainstream/riddles/dead-or-alive.png"
+  },
+  {
+    "id": 19,
+    "answer": "Deadmou5e",
+    "themes": [],
+    "image_path": "mainstream/riddles/deadmou5e.png"
+  },
+  {
+    "id": 20,
+    "answer": "Deep Purple",
+    "themes": [
+      "valhalla-2026"
+    ],
+    "image_path": "mainstream/riddles/deep-purple.png"
+  },
+  {
+    "id": 21,
+    "answer": "Dragonforce",
+    "themes": [],
+    "image_path": "mainstream/riddles/dragonforce.png"
+  },
+  {
+    "id": 22,
+    "answer": "Dżem",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/dzem.png"
+  },
+  {
+    "id": 23,
+    "answer": "Eiffel 65",
+    "themes": [],
+    "image_path": "mainstream/riddles/eiffel-65.png"
+  },
+  {
+    "id": 24,
+    "answer": "Electric Light Orchestra",
+    "themes": [],
+    "image_path": "mainstream/riddles/electric-light-orchestra.png"
+  },
+  {
+    "id": 25,
+    "answer": "Eminem",
+    "themes": [],
+    "image_path": "mainstream/riddles/eminem.png"
+  },
+  {
+    "id": 26,
+    "answer": "Enigma",
+    "themes": [],
+    "image_path": "mainstream/riddles/enigma.png"
+  },
+  {
+    "id": 27,
+    "answer": "eRa",
+    "themes": [],
+    "image_path": "mainstream/riddles/era.png"
+  },
+  {
+    "id": 28,
+    "answer": "Europe",
+    "themes": [],
+    "image_path": "mainstream/riddles/europe.png"
+  },
+  {
+    "id": 29,
+    "answer": "Fall Out Boy",
+    "themes": [],
+    "image_path": "mainstream/riddles/fall-out-boy.png"
+  },
+  {
+    "id": 30,
+    "answer": "Fatboy Slim",
+    "themes": [],
+    "image_path": "mainstream/riddles/fatboy-slim.png"
+  },
+  {
+    "id": 31,
+    "answer": "Fleetwood Mac",
+    "themes": [],
+    "image_path": "mainstream/riddles/fleetwood-mac.png"
+  },
+  {
+    "id": 32,
+    "answer": "Flo Rida",
+    "themes": [],
+    "image_path": "mainstream/riddles/flo-rida.png"
+  },
+  {
+    "id": 33,
+    "answer": "Foreigner",
+    "themes": [],
+    "image_path": "mainstream/riddles/foreigner.png"
+  },
+  {
+    "id": 34,
+    "answer": "Fort Minor",
+    "themes": [],
+    "image_path": "mainstream/riddles/fort-minor.png"
+  },
+  {
+    "id": 35,
+    "answer": "Golden Life",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/golden-life.png"
+  },
+  {
+    "id": 36,
+    "answer": "Gorillaz",
+    "themes": [],
+    "image_path": "mainstream/riddles/gorillaz.png"
+  },
+  {
+    "id": 37,
+    "answer": "Green Day",
+    "themes": [],
+    "image_path": "mainstream/riddles/green-day.png"
+  },
+  {
+    "id": 38,
+    "answer": "Guns n Roses",
+    "themes": [],
+    "image_path": "mainstream/riddles/guns-n-roses.png"
+  },
+  {
+    "id": 39,
+    "answer": "Gypsy Kings",
+    "themes": [
+      "valhalla-2026"
+    ],
+    "image_path": "mainstream/riddles/gypsy-kings.png"
+  },
+  {
+    "id": 40,
+    "answer": "Hall & Oates",
+    "themes": [],
+    "image_path": "mainstream/riddles/hall-oates.png"
+  },
+  {
+    "id": 41,
+    "answer": "Happysad",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/happysad.png"
+  },
+  {
+    "id": 42,
+    "answer": "Hurts",
+    "themes": [],
+    "image_path": "mainstream/riddles/hurts.png"
+  },
+  {
+    "id": 43,
+    "answer": "Ice Cube",
+    "themes": [],
+    "image_path": "mainstream/riddles/ice-cube.png"
+  },
+  {
+    "id": 44,
+    "answer": "Imagine Dragons",
+    "themes": [],
+    "image_path": "mainstream/riddles/imagine-dragons.png"
+  },
+  {
+    "id": 45,
+    "answer": "Iron Maiden",
+    "themes": [],
+    "image_path": "mainstream/riddles/iron-maiden.png"
+  },
+  {
+    "id": 46,
+    "answer": "Jimmy Eat World",
+    "themes": [],
+    "image_path": "mainstream/riddles/jimmy-eat-world.png"
+  },
+  {
+    "id": 47,
+    "answer": "Judas Priest",
+    "themes": [],
+    "image_path": "mainstream/riddles/judas-priest.png"
+  },
+  {
+    "id": 48,
+    "answer": "Kings Of Leon",
+    "themes": [],
+    "image_path": "mainstream/riddles/kings-of-leon.png"
+  },
+  {
+    "id": 49,
+    "answer": "KISS",
+    "themes": [],
+    "image_path": "mainstream/riddles/kiss.png"
+  },
+  {
+    "id": 50,
+    "answer": "KULT",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/kult.png"
+  },
+  {
+    "id": 51,
+    "answer": "Kwiat Jabłoni",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/kwiat-jabloni.png"
+  },
+  {
+    "id": 52,
+    "answer": "Lady Pank",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/lady-pank.png"
+  },
+  {
+    "id": 53,
+    "answer": "Las Ketchup",
+    "themes": [],
+    "image_path": "mainstream/riddles/las-ketchup.png"
+  },
+  {
+    "id": 54,
+    "answer": "Led Zeppelin",
+    "themes": [],
+    "image_path": "mainstream/riddles/led-zeppelin.png"
+  },
+  {
+    "id": 55,
+    "answer": "Limp Bizkit",
+    "themes": [],
+    "image_path": "mainstream/riddles/limp-bizkit.png"
+  },
+  {
+    "id": 56,
+    "answer": "Linkin Park",
+    "themes": [],
+    "image_path": "mainstream/riddles/linkin-park.png"
+  },
+  {
+    "id": 57,
+    "answer": "Lionel Richie",
+    "themes": [],
+    "image_path": "mainstream/riddles/lionel-richie.png"
+  },
+  {
+    "id": 58,
+    "answer": "Lombard",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/lombard.png"
+  },
+  {
+    "id": 59,
+    "answer": "Luxtorpeda",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/luxtorpeda.png"
+  },
+  {
+    "id": 60,
+    "answer": "Maroon 5",
+    "themes": [],
+    "image_path": "mainstream/riddles/maroon-5.png"
+  },
+  {
+    "id": 61,
+    "answer": "Mata",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/mata.png"
+  },
+  {
+    "id": 62,
+    "answer": "MC Hammer",
+    "themes": [],
+    "image_path": "mainstream/riddles/mc-hammer.png"
+  },
+  {
+    "id": 63,
+    "answer": "Men at Work",
+    "themes": [],
+    "image_path": "mainstream/riddles/men-at-work.png"
+  },
+  {
+    "id": 64,
+    "answer": "Modern Talking",
+    "themes": [],
+    "image_path": "mainstream/riddles/modern-talking.png"
+  },
+  {
+    "id": 65,
+    "answer": "Mr. President",
+    "themes": [],
+    "image_path": "mainstream/riddles/mr-president.png"
+  },
+  {
+    "id": 66,
+    "answer": "Nickelback",
+    "themes": [],
+    "image_path": "mainstream/riddles/nickelback.png"
+  },
+  {
+    "id": 67,
+    "answer": "Nine Inch Nails",
+    "themes": [],
+    "image_path": "mainstream/riddles/nine-inch-nails.png"
+  },
+  {
+    "id": 68,
+    "answer": "Nirvana",
+    "themes": [],
+    "image_path": "mainstream/riddles/nirvana.png"
+  },
+  {
+    "id": 69,
+    "answer": "O-Zone",
+    "themes": [],
+    "image_path": "mainstream/riddles/o-zone.png"
+  },
+  {
+    "id": 70,
+    "answer": "Oceana",
+    "themes": [],
+    "image_path": "mainstream/riddles/oceana.png"
+  },
+  {
+    "id": 71,
+    "answer": "One Direction",
+    "themes": [],
+    "image_path": "mainstream/riddles/one-direction.png"
+  },
+  {
+    "id": 72,
+    "answer": "One Republic",
+    "themes": [],
+    "image_path": "mainstream/riddles/one-republic.png"
+  },
+  {
+    "id": 73,
+    "answer": "Panic! at the Disco",
+    "themes": [],
+    "image_path": "mainstream/riddles/panic-at-the-disco.png"
+  },
+  {
+    "id": 74,
+    "answer": "Pearl Jam",
+    "themes": [],
+    "image_path": "mainstream/riddles/pearl-jam.png"
+  },
+  {
+    "id": 75,
+    "answer": "Pendulum",
+    "themes": [],
+    "image_path": "mainstream/riddles/pendulum.png"
+  },
+  {
+    "id": 76,
+    "answer": "Pink",
+    "themes": [],
+    "image_path": "mainstream/riddles/pink.png"
+  },
+  {
+    "id": 77,
+    "answer": "Pitbull",
+    "themes": [],
+    "image_path": "mainstream/riddles/pitbull.png"
+  },
+  {
+    "id": 78,
+    "answer": "Prince",
+    "themes": [],
+    "image_path": "mainstream/riddles/prince.png"
+  },
+  {
+    "id": 79,
+    "answer": "Pussycat Dolls",
+    "themes": [],
+    "image_path": "mainstream/riddles/pussycat-dolls.png"
+  },
+  {
+    "id": 80,
+    "answer": "Queen",
+    "themes": [],
+    "image_path": "mainstream/riddles/queen.png"
+  },
+  {
+    "id": 81,
+    "answer": "Radiohead",
+    "themes": [],
+    "image_path": "mainstream/riddles/radiohead.png"
+  },
+  {
+    "id": 82,
+    "answer": "Red Hot Chilli Peppers",
+    "themes": [],
+    "image_path": "mainstream/riddles/red-hot-chilli-peppers.png"
+  },
+  {
+    "id": 83,
+    "answer": "Ringo Starr",
+    "themes": [],
+    "image_path": "mainstream/riddles/ringo-starr.png"
+  },
+  {
+    "id": 84,
+    "answer": "Rod Stewart",
+    "themes": [],
+    "image_path": "mainstream/riddles/rod-stewart.png"
+  },
+  {
+    "id": 85,
+    "answer": "Savage Garden",
+    "themes": [],
+    "image_path": "mainstream/riddles/savage-garden.png"
+  },
+  {
+    "id": 86,
+    "answer": "Scorpions",
+    "themes": [],
+    "image_path": "mainstream/riddles/scorpions.png"
+  },
+  {
+    "id": 87,
+    "answer": "Seal",
+    "themes": [],
+    "image_path": "mainstream/riddles/seal.png"
+  },
+  {
+    "id": 88,
+    "answer": "Sex Pistols",
+    "themes": [],
+    "image_path": "mainstream/riddles/sex-pistols.png"
+  },
+  {
+    "id": 89,
+    "answer": "Simply Red",
+    "themes": [],
+    "image_path": "mainstream/riddles/simply-red.png"
+  },
+  {
+    "id": 90,
+    "answer": "Slayer",
+    "themes": [],
+    "image_path": "mainstream/riddles/slayer.png"
+  },
+  {
+    "id": 91,
+    "answer": "Smash Mouth",
+    "themes": [],
+    "image_path": "mainstream/riddles/smash-mouth.png"
+  },
+  {
+    "id": 92,
+    "answer": "Snoop Dog",
+    "themes": [],
+    "image_path": "mainstream/riddles/snoop-dog.png"
+  },
+  {
+    "id": 93,
+    "answer": "Spice Girls",
+    "themes": [],
+    "image_path": "mainstream/riddles/spice-girls.png"
+  },
+  {
+    "id": 94,
+    "answer": "Sunrise Avenue",
+    "themes": [],
+    "image_path": "mainstream/riddles/sunrise-avenue.png"
+  },
+  {
+    "id": 95,
+    "answer": "Survivor",
+    "themes": [],
+    "image_path": "mainstream/riddles/survivor.png"
+  },
+  {
+    "id": 96,
+    "answer": "Swedish House Mafia",
+    "themes": [],
+    "image_path": "mainstream/riddles/swedish-house-mafia.png"
+  },
+  {
+    "id": 97,
+    "answer": "Taco Hemingway",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/taco-hemingway.png"
+  },
+  {
+    "id": 98,
+    "answer": "Taylor Swift",
+    "themes": [],
+    "image_path": "mainstream/riddles/taylor-swift.png"
+  },
+  {
+    "id": 99,
+    "answer": "The Animals",
+    "themes": [],
+    "image_path": "mainstream/riddles/the-animals.png"
+  },
+  {
+    "id": 100,
+    "answer": "The Beatles",
+    "themes": [
+      "valhalla-2026"
+    ],
+    "image_path": "mainstream/riddles/the-beatles.png"
+  },
+  {
+    "id": 101,
+    "answer": "The Black Eyed Peas",
+    "themes": [],
+    "image_path": "mainstream/riddles/the-black-eyed-peas.png"
+  },
+  {
+    "id": 102,
+    "answer": "The Chainsmokers",
+    "themes": [],
+    "image_path": "mainstream/riddles/the-chainsmokers.png"
+  },
+  {
+    "id": 103,
+    "answer": "The Cranberries",
+    "themes": [
+      "valhalla-2026"
+    ],
+    "image_path": "mainstream/riddles/the-cranberries.png"
+  },
+  {
+    "id": 104,
+    "answer": "The Doors",
+    "themes": [],
+    "image_path": "mainstream/riddles/the-doors.png"
+  },
+  {
+    "id": 105,
+    "answer": "The Eagles",
+    "themes": [],
+    "image_path": "mainstream/riddles/the-eagles.png"
+  },
+  {
+    "id": 106,
+    "answer": "The Killers",
+    "themes": [],
+    "image_path": "mainstream/riddles/the-killers.png"
+  },
+  {
+    "id": 107,
+    "answer": "The Pointer Sisters",
+    "themes": [
+      "valhalla-2026"
+    ],
+    "image_path": "mainstream/riddles/the-pointer-sisters.png"
+  },
+  {
+    "id": 108,
+    "answer": "The Rolling Stones",
+    "themes": [],
+    "image_path": "mainstream/riddles/the-rolling-stones.png"
+  },
+  {
+    "id": 109,
+    "answer": "The Smashing Pumpkins",
+    "themes": [],
+    "image_path": "mainstream/riddles/the-smashing-pumpkins.png"
+  },
+  {
+    "id": 110,
+    "answer": "The Weeknd",
+    "themes": [],
+    "image_path": "mainstream/riddles/the-weeknd.png"
+  },
+  {
+    "id": 111,
+    "answer": "The White Stripes",
+    "themes": [],
+    "image_path": "mainstream/riddles/the-white-stripes.png"
+  },
+  {
+    "id": 112,
+    "answer": "Tokio Hotel",
+    "themes": [],
+    "image_path": "mainstream/riddles/tokio-hotel.png"
+  },
+  {
+    "id": 113,
+    "answer": "Twenty-One Pilots",
+    "themes": [],
+    "image_path": "mainstream/riddles/twenty-one-pilots.png"
+  },
+  {
+    "id": 114,
+    "answer": "Video",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/video.png"
+  },
+  {
+    "id": 115,
+    "answer": "Wet Fingers",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/wet-fingers.png"
+  },
+  {
+    "id": 116,
+    "answer": "Wilki",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/wilki.png"
+  },
+  {
+    "id": 117,
+    "answer": "Łzy",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/lzy.png"
+  },
+  {
+    "id": 118,
+    "answer": "Elvis Presley",
+    "themes": [],
+    "image_path": "mainstream/riddles/elvis-presley.png"
+  },
+  {
+    "id": 119,
+    "answer": "Flashdance",
+    "themes": [],
+    "image_path": "mainstream/riddles/flashdance.png"
+  },
+  {
+    "id": 120,
+    "answer": "Johnny Hates Jazz",
+    "themes": [],
+    "image_path": "mainstream/riddles/johnny-hates-jazz.png"
+  },
+  {
+    "id": 121,
+    "answer": "Justin Timberlake",
+    "themes": [],
+    "image_path": "mainstream/riddles/justin-timberlake.png"
+  },
+  {
+    "id": 122,
+    "answer": "Motorhead",
+    "themes": [],
+    "image_path": "mainstream/riddles/motorhead.png"
+  },
+  {
+    "id": 123,
+    "answer": "Oasis",
+    "themes": [],
+    "image_path": "mainstream/riddles/oasis.png"
+  },
+  {
+    "id": 124,
+    "answer": "Queens of the Stone Age",
+    "themes": [],
+    "image_path": "mainstream/riddles/queens-of-the-stone-age.png"
+  },
+  {
+    "id": 125,
+    "answer": "Ramones",
+    "themes": [],
+    "image_path": "mainstream/riddles/ramones.png"
+  },
+  {
+    "id": 126,
+    "answer": "Scooter",
+    "themes": [],
+    "image_path": "mainstream/riddles/scooter.png"
+  },
+  {
+    "id": 127,
+    "answer": "Tears for Fears",
+    "themes": [],
+    "image_path": "mainstream/riddles/tears-for-fears.png"
+  },
+  {
+    "id": 128,
+    "answer": "The S.O.S. Band",
+    "themes": [],
+    "image_path": "mainstream/riddles/the-s-o-s-band.png"
+  },
+  {
+    "id": 129,
+    "answer": "Van Halen",
+    "themes": [],
+    "image_path": "mainstream/riddles/van-halen.png"
+  },
+  {
+    "id": 130,
+    "answer": "Behemoth",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/behemoth.png"
+  },
+  {
+    "id": 131,
+    "answer": "Czerwone Gitary",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/czerwone-gitary.png"
+  },
+  {
+    "id": 132,
+    "answer": "Elektryczne Gitary",
+    "themes": [
+      "pl"
+    ],
+    "image_path": "mainstream/riddles/elektryczne-gitary.png"
+  }
+]

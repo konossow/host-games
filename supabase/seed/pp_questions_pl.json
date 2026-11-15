@@ -1,0 +1,9684 @@
+[
+  {
+    "id": 0,
+    "description": "Podaj przykład czarno-białego zwierzęcia",
+    "answers": [
+      {
+        "description": "ZEBRA",
+        "points": 28
+      },
+      {
+        "description": "KROWA",
+        "points": 18
+      },
+      {
+        "description": "PINGWIN",
+        "points": 17
+      },
+      {
+        "description": "PANDA",
+        "points": 14
+      },
+      {
+        "description": "BOCIAN",
+        "points": 12
+      },
+      {
+        "description": "SKUNKS",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "description": "Podaj przykład pirackiego atrybutu",
+    "answers": [
+      {
+        "description": "OPASKA NA OKO",
+        "points": 29
+      },
+      {
+        "description": "HAK",
+        "points": 22
+      },
+      {
+        "description": "DREWNIANA NOGA",
+        "points": 14
+      },
+      {
+        "description": "PAPUGA",
+        "points": 13
+      },
+      {
+        "description": "SZABLA",
+        "points": 12
+      },
+      {
+        "description": "RUM",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "description": "Podaj przykład koloru na literę F",
+    "answers": [
+      {
+        "description": "FIOLETOWY",
+        "points": 39
+      },
+      {
+        "description": "FUKSJA",
+        "points": 32
+      },
+      {
+        "description": "FIOŁKOWY",
+        "points": 29
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "description": "Podaj przykład profesji, której nie darzymy zaufaniem",
+    "themes": ["favourite"],
+    "answers": [
+      {
+        "description": "POLITYK",
+        "points": 31
+      },
+      {
+        "description": "MECHANIK",
+        "points": 24
+      },
+      {
+        "description": "SPRZEDAWCA",
+        "points": 15
+      },
+      {
+        "description": "TELEMARKETER",
+        "points": 12
+      },
+      {
+        "description": "POLICJANT",
+        "points": 10
+      },
+      {
+        "description": "AGENT NIERUCHOMOŚCI",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "description": "Wymień greckich Bogów na literę H",
+    "answers": [
+      {
+        "description": "HADES",
+        "points": 30
+      },
+      {
+        "description": "HERA",
+        "points": 21
+      },
+      {
+        "description": "HERMES",
+        "points": 18
+      },
+      {
+        "description": "HEFAJSTOS",
+        "points": 14
+      },
+      {
+        "description": "HELIOS",
+        "points": 9
+      },
+      {
+        "description": "HESTIA",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "description": "Wymień królów Polski",
+    "answers": [
+      {
+        "description": "BOLESŁAW CHROBRY",
+        "points": 31
+      },
+      {
+        "description": "KAZIMIERZ WIELKI",
+        "points": 24
+      },
+      {
+        "description": "WŁADYSŁAW JAGIEŁŁO",
+        "points": 20
+      },
+      {
+        "description": "JAN III SOBIESKI",
+        "points": 10
+      },
+      {
+        "description": "ZYGMUNT STARY",
+        "points": 8
+      },
+      {
+        "description": "STANISŁAW AUGUST PONIATOWSKI",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "description": "Podaj przykład powszechnie stosowanego produktu, którego nazwa wywodzi się od firmy",
+    "answers": [
+      {
+        "description": "ADIDASY",
+        "points": 29
+      },
+      {
+        "description": "PAMPERS",
+        "points": 26
+      },
+      {
+        "description": "COLA",
+        "points": 19
+      },
+      {
+        "description": "KARCHER",
+        "points": 10
+      },
+      {
+        "description": "ASPIRYNA",
+        "points": 9
+      },
+      {
+        "description": "KAMERKA GO PRO",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "description": "Podaj przykład przedmiotu na szafce koło łóżka",
+    "answers": [
+      {
+        "description": "LAMPKA",
+        "points": 27
+      },
+      {
+        "description": "TELEFON",
+        "points": 18
+      },
+      {
+        "description": "BUDZIK",
+        "points": 16
+      },
+      {
+        "description": "KSIĄŻKA",
+        "points": 15
+      },
+      {
+        "description": "OKULARY",
+        "points": 13
+      },
+      {
+        "description": "CHUSTECZKI",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "description": "Jak potocznie powiemy na męskiego członka?",
+    "answers": [
+      {
+        "description": "PENIS",
+        "points": 27
+      },
+      {
+        "description": "SIUSIAK",
+        "points": 22
+      },
+      {
+        "description": "PTASZEK",
+        "points": 17
+      },
+      {
+        "description": "WACEK",
+        "points": 13
+      },
+      {
+        "description": "PINDOL",
+        "points": 12
+      },
+      {
+        "description": "FIUT",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "description": "Jak potocznie powiemy na żeńskie narządy płciowe",
+    "answers": [
+      {
+        "description": "CIPA",
+        "points": 28
+      },
+      {
+        "description": "WAGINA",
+        "points": 21
+      },
+      {
+        "description": "PUSIA",
+        "points": 20
+      },
+      {
+        "description": "POCHWA",
+        "points": 18
+      },
+      {
+        "description": "DZIURKA",
+        "points": 7
+      },
+      {
+        "description": "ŁONO",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "description": "Gdzie czekamy w kolejce?",
+    "themes": ["favourite"],
+    "answers": [
+      {
+        "description": "W SKLEPIE",
+        "points": 37
+      },
+      {
+        "description": "U LEKARZA",
+        "points": 34
+      },
+      {
+        "description": "W URZĘDZIE",
+        "points": 11
+      },
+      {
+        "description": "DO TOALETY",
+        "points": 7
+      },
+      {
+        "description": "NA POCZCIE",
+        "points": 6
+      },
+      {
+        "description": "W WESOŁYM MIASTECZKU",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "themes": ["wedding", "favourite"],
+    "description": "Czego życzymy?",
+    "answers": [
+      {
+        "description": "ZDROWIA",
+        "points": 35
+      },
+      {
+        "description": "SZCZĘŚCIA",
+        "points": 30
+      },
+      {
+        "description": "SPEŁNIENIA MARZEŃ",
+        "points": 12
+      },
+      {
+        "description": "POMYŚLNOŚCI",
+        "points": 9
+      },
+      {
+        "description": "STO LAT",
+        "points": 8
+      },
+      {
+        "description": "WSZYSTKIEGO NAJLEPSZEGO",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "description": "Podaj nazwę sera, który jest biały",
+    "answers": [
+      {
+        "description": "TWARÓG",
+        "points": 33
+      },
+      {
+        "description": "MOZZARELLA",
+        "points": 27
+      },
+      {
+        "description": "FETA",
+        "points": 20
+      },
+      {
+        "description": "MASCARPONE",
+        "points": 8
+      },
+      {
+        "description": "KOZI",
+        "points": 7
+      },
+      {
+        "description": "CAMEMBERT",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "description": "Podaj przykład popularnego leku przeciwbólowego",
+    "answers": [
+      {
+        "description": "APAP",
+        "points": 26
+      },
+      {
+        "description": "IBUPROM",
+        "points": 23
+      },
+      {
+        "description": "ETOPIRYNA",
+        "points": 17
+      },
+      {
+        "description": "KETANOL",
+        "points": 15
+      },
+      {
+        "description": "PYRALGINA",
+        "points": 11
+      },
+      {
+        "description": "IBUM",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "description": "Podaj przykład europejskiego kraju, którego nazwa kończy się na -nia",
+    "answers": [
+      {
+        "description": "HISZPANIA",
+        "points": 31
+      },
+      {
+        "description": "DANIA",
+        "points": 27
+      },
+      {
+        "description": "SŁOWENIA",
+        "points": 13
+      },
+      {
+        "description": "WIELKA BRYTANIA",
+        "points": 11
+      },
+      {
+        "description": "ESTONIA",
+        "points": 10
+      },
+      {
+        "description": "RUMUNIA",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "themes": ["favourite"],
+    "description": "Co może być czarne, ale nie dosłownie?",
+    "answers": [
+      {
+        "description": "HUMOR",
+        "points": 29
+      },
+      {
+        "description": "MYŚLI",
+        "points": 18
+      },
+      {
+        "description": "GODZINA",
+        "points": 16
+      },
+      {
+        "description": "MAGIA",
+        "points": 14
+      },
+      {
+        "description": "DZIURA",
+        "points": 12
+      },
+      {
+        "description": "RYNEK",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "description": "Jaki owoc zazwyczaj suszymy?",
+    "answers": [
+      {
+        "description": "ŚLIWKA",
+        "points": 29
+      },
+      {
+        "description": "JABŁKO",
+        "points": 20
+      },
+      {
+        "description": "WINOGRONO",
+        "points": 19
+      },
+      {
+        "description": "MORELA",
+        "points": 16
+      },
+      {
+        "description": "BANAN",
+        "points": 9
+      },
+      {
+        "description": "DAKTYLE",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "description": "Co znajduje się na szachowej planszy?",
+    "answers": [
+      {
+        "description": "PION",
+        "points": 30
+      },
+      {
+        "description": "SKOCZEK",
+        "points": 19
+      },
+      {
+        "description": "KRÓL",
+        "points": 18
+      },
+      {
+        "description": "GONIEC",
+        "points": 12
+      },
+      {
+        "description": "HETMAN",
+        "points": 11
+      },
+      {
+        "description": "WIEŻA",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "themes": ["favourite"],
+    "description": "Kiedy robimy sobie z kogoś żarty, to robimy go w...?",
+    "answers": [
+      {
+        "description": "KONIA",
+        "points": 34
+      },
+      {
+        "description": "BALONA",
+        "points": 32
+      },
+      {
+        "description": "BAMBUKO",
+        "points": 25
+      },
+      {
+        "description": "TRĄBĘ",
+        "points": 4
+      },
+      {
+        "description": "JAJO",
+        "points": 3
+      },
+      {
+        "description": "WAŁA",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "themes": ["wedding"],
+    "description": "Podaj przykład wysokoprocentowego alkoholu",
+    "answers": [
+      {
+        "description": "WÓDKA",
+        "points": 27
+      },
+      {
+        "description": "WHISKEY",
+        "points": 24
+      },
+      {
+        "description": "SPIRYTUS",
+        "points": 16
+      },
+      {
+        "description": "KONIAK",
+        "points": 12
+      },
+      {
+        "description": "GIN",
+        "points": 11
+      },
+      {
+        "description": "RUM",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "description": "Podaj przykład przyrządu optycznego",
+    "answers": [
+      {
+        "description": "OKULAR",
+        "points": 37
+      },
+      {
+        "description": "LUPA",
+        "points": 33
+      },
+      {
+        "description": "TELESKOP",
+        "points": 11
+      },
+      {
+        "description": "LUNETA",
+        "points": 8
+      },
+      {
+        "description": "LORNETA",
+        "points": 7
+      },
+      {
+        "description": "MIKROSKOP",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "description": "Podaj przykład popularnego nazwiska w Polsce",
+    "answers": [
+      {
+        "description": "KOWALSKI",
+        "points": 45
+      },
+      {
+        "description": "NOWAK",
+        "points": 38
+      },
+      {
+        "description": "LEWANDOWSKI",
+        "points": 17
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "themes": ["favourite"],
+    "description": "Co może być kontaktowe?",
+    "answers": [
+      {
+        "description": "SOCZEWKA",
+        "points": 27
+      },
+      {
+        "description": "SPORT",
+        "points": 18
+      },
+      {
+        "description": "NUMER",
+        "points": 16
+      },
+      {
+        "description": "FORMULARZ",
+        "points": 14
+      },
+      {
+        "description": "OSOBA",
+        "points": 13
+      },
+      {
+        "description": "BRAMKA",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "description": "W jakiej jednostce możemy wyrazić energię?",
+    "answers": [
+      {
+        "description": "DŻUL",
+        "points": 44
+      },
+      {
+        "description": "KWH",
+        "points": 37
+      },
+      {
+        "description": "KALORIA",
+        "points": 19
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "themes": ["favourite"],
+    "description": "Co mierzymy?",
+    "answers": [
+      {
+        "description": "CIŚNIENIE",
+        "points": 25
+      },
+      {
+        "description": "ODLEGŁOŚĆ",
+        "points": 20
+      },
+      {
+        "description": "TEMPERATURĘ",
+        "points": 18
+      },
+      {
+        "description": "CZAS",
+        "points": 16
+      },
+      {
+        "description": "UBRANIA",
+        "points": 11
+      },
+      {
+        "description": "PRĘDKOŚĆ",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "themes": ["favourite"],
+    "description": "Co może być w kratkę?",
+    "answers": [
+      {
+        "description": "POGODA",
+        "points": 26
+      },
+      {
+        "description": "KOSZULA",
+        "points": 24
+      },
+      {
+        "description": "ZESZYT",
+        "points": 16
+      },
+      {
+        "description": "SPÓDNICA",
+        "points": 14
+      },
+      {
+        "description": "CHODZENIE DO SZKOŁY",
+        "points": 12
+      },
+      {
+        "description": "HUMOR",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "themes": ["favourite"],
+    "description": "Jaka może być kontrola?",
+    "answers": [
+      {
+        "description": "RODZICIELSKA",
+        "points": 31
+      },
+      {
+        "description": "DROGOWA",
+        "points": 25
+      },
+      {
+        "description": "SKARBOWA",
+        "points": 14
+      },
+      {
+        "description": "JAKOŚCI",
+        "points": 13
+      },
+      {
+        "description": "BEZPIECZEŃSTWA",
+        "points": 12
+      },
+      {
+        "description": "GRANICZNA",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "themes": ["wedding"],
+    "description": "Co może być panieńskie?",
+    "answers": [
+      {
+        "description": "WIECZÓR",
+        "points": 43
+      },
+      {
+        "description": "NAZWISKO",
+        "points": 38
+      },
+      {
+        "description": "ŚLUBY",
+        "points": 19
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "themes": ["favourite"],
+    "description": "Jaki może być świadek?",
+    "answers": [
+      {
+        "description": "KORONNY",
+        "points": 29
+      },
+      {
+        "description": "NA ŚLUBIE",
+        "points": 24
+      },
+      {
+        "description": "JEHOWY",
+        "points": 16
+      },
+      {
+        "description": "ZDARZENIA",
+        "points": 12
+      },
+      {
+        "description": "NAOCZNY",
+        "points": 10
+      },
+      {
+        "description": "PRZYSIĘGŁY",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "description": "Podaj przykład owocu, który jemy ze skórką",
+    "answers": [
+      {
+        "description": "JABŁKO",
+        "points": 28
+      },
+      {
+        "description": "WINOGRONO",
+        "points": 18
+      },
+      {
+        "description": "ŚLIWKA",
+        "points": 15
+      },
+      {
+        "description": "GRUSZKA",
+        "points": 14
+      },
+      {
+        "description": "WIŚNIA",
+        "points": 13
+      },
+      {
+        "description": "NEKTARYNKA",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "description": "Podaj przykład owocu, który jemy bez skórki",
+    "answers": [
+      {
+        "description": "BANAN",
+        "points": 26
+      },
+      {
+        "description": "POMARAŃCZA",
+        "points": 20
+      },
+      {
+        "description": "ARBUZ",
+        "points": 15
+      },
+      {
+        "description": "KIWI",
+        "points": 14
+      },
+      {
+        "description": "MANDARYNKA",
+        "points": 13
+      },
+      {
+        "description": "ANANAS",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "themes": ["wedding"],
+    "description": "Podaj przykład typowego polskiego dania",
+    "answers": [
+      {
+        "description": "PIEROGI",
+        "points": 33
+      },
+      {
+        "description": "KOTLET SCHABOWY",
+        "points": 30
+      },
+      {
+        "description": "BIGOS",
+        "points": 18
+      },
+      {
+        "description": "GOŁĄBKI",
+        "points": 9
+      },
+      {
+        "description": "ROSÓŁ",
+        "points": 6
+      },
+      {
+        "description": "KLUSKI",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "themes": ["favourite"],
+    "description": "Jakie mogą być płatki?",
+    "answers": [
+      {
+        "description": "ŚNIADANIOWE",
+        "points": 31
+      },
+      {
+        "description": "OWSIANE",
+        "points": 28
+      },
+      {
+        "description": "ŚNIEGU",
+        "points": 16
+      },
+      {
+        "description": "KOSMETYCZNE",
+        "points": 10
+      },
+      {
+        "description": "KWIATOWE",
+        "points": 8
+      },
+      {
+        "description": "MYDLANE",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "description": "Podaj przykład komiksowego super-bohatera",
+    "answers": [
+      {
+        "description": "SUPERMAN",
+        "points": 33
+      },
+      {
+        "description": "BATMAN",
+        "points": 26
+      },
+      {
+        "description": "SPIDER-MAN",
+        "points": 25
+      },
+      {
+        "description": "IRON MAN",
+        "points": 7
+      },
+      {
+        "description": "THOR",
+        "points": 5
+      },
+      {
+        "description": "KAPITAN AMERYKA",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "description": "Wymień sporty, który wymagają precyzji",
+    "answers": [
+      {
+        "description": "STRZELECTWO",
+        "points": 30
+      },
+      {
+        "description": "BILARD",
+        "points": 27
+      },
+      {
+        "description": "GOLF",
+        "points": 16
+      },
+      {
+        "description": "DART",
+        "points": 12
+      },
+      {
+        "description": "CURLING",
+        "points": 8
+      },
+      {
+        "description": "BULE",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "description": "Jakie ciasto zjemy u babci?",
+    "answers": [
+      {
+        "description": "SERNIK",
+        "points": 30
+      },
+      {
+        "description": "JABŁECZNIK",
+        "points": 23
+      },
+      {
+        "description": "BABKA",
+        "points": 16
+      },
+      {
+        "description": "DROŻDŻÓWKA",
+        "points": 12
+      },
+      {
+        "description": "MAKOWIEC",
+        "points": 10
+      },
+      {
+        "description": "MURZYNEK",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "description": "Podaj przykład jadalnego grzyba leśnego",
+    "answers": [
+      {
+        "description": "BOROWIK",
+        "points": 28
+      },
+      {
+        "description": "KURKA",
+        "points": 26
+      },
+      {
+        "description": "PODGRZYBEK",
+        "points": 19
+      },
+      {
+        "description": "MAŚLAK",
+        "points": 12
+      },
+      {
+        "description": "KANIA",
+        "points": 8
+      },
+      {
+        "description": "RYDZ",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "description": "Jak potocznie powiemy na osobę, która zajęła 1 miejsce?",
+    "answers": [
+      {
+        "description": "ZWYCIĘZCA",
+        "points": 29
+      },
+      {
+        "description": "WYGRANY",
+        "points": 21
+      },
+      {
+        "description": "LAUREAT",
+        "points": 17
+      },
+      {
+        "description": "LIDER",
+        "points": 12
+      },
+      {
+        "description": "MISTRZ",
+        "points": 11
+      },
+      {
+        "description": "TRIUMFATOR",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "themes": ["favourite"],
+    "description": "Co gubimy?",
+    "answers": [
+      {
+        "description": "KLUCZE",
+        "points": 28
+      },
+      {
+        "description": "PORTFEL",
+        "points": 20
+      },
+      {
+        "description": "TELEFON",
+        "points": 16
+      },
+      {
+        "description": "SKARPETKĘ",
+        "points": 13
+      },
+      {
+        "description": "PIENIĄDZE",
+        "points": 12
+      },
+      {
+        "description": "DOKUMENTY",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "description": "Co pijemy do śniadania?",
+    "answers": [
+      {
+        "description": "KAWA",
+        "points": 38
+      },
+      {
+        "description": "HERBATA",
+        "points": 35
+      },
+      {
+        "description": "SOK",
+        "points": 9
+      },
+      {
+        "description": "MLEKO",
+        "points": 8
+      },
+      {
+        "description": "KAKAO",
+        "points": 7
+      },
+      {
+        "description": "INKA",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "description": "Podaj przykład rzeczownika występującego tylko w liczbie mnogiej",
+    "answers": [
+      {
+        "description": "SPODNIE",
+        "points": 31
+      },
+      {
+        "description": "DRZWI",
+        "points": 26
+      },
+      {
+        "description": "PLECY",
+        "points": 14
+      },
+      {
+        "description": "RAJSTOPY",
+        "points": 13
+      },
+      {
+        "description": "MAJTKI",
+        "points": 10
+      },
+      {
+        "description": "NOŻYCZKI",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "description": "Podaj przykład portalu społecznościowego",
+    "answers": [
+      {
+        "description": "FACEBOOK",
+        "points": 30
+      },
+      {
+        "description": "INSTAGRAM",
+        "points": 24
+      },
+      {
+        "description": "TWITTER / X",
+        "points": 19
+      },
+      {
+        "description": "YOUTUBE",
+        "points": 12
+      },
+      {
+        "description": "TIKTOK",
+        "points": 9
+      },
+      {
+        "description": "LINKEDIN",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "description": "Wymień ptaki, które żyją w mieście",
+    "answers": [
+      {
+        "description": "GOŁĄB",
+        "points": 30
+      },
+      {
+        "description": "WRÓBEL",
+        "points": 27
+      },
+      {
+        "description": "WRONA",
+        "points": 13
+      },
+      {
+        "description": "MEWA",
+        "points": 11
+      },
+      {
+        "description": "SIKORKA",
+        "points": 10
+      },
+      {
+        "description": "SROKA",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "description": "Wymień coś tłustego do jedzenia",
+    "answers": [
+      {
+        "description": "PĄCZEK",
+        "points": 24
+      },
+      {
+        "description": "SMALEC",
+        "points": 22
+      },
+      {
+        "description": "BEKON",
+        "points": 19
+      },
+      {
+        "description": "FRYTKI",
+        "points": 14
+      },
+      {
+        "description": "ROSÓŁ",
+        "points": 11
+      },
+      {
+        "description": "GOLONKA",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "description": "Podaj przykład zielonej przyprawy",
+    "answers": [
+      {
+        "description": "OREGANO",
+        "points": 29
+      },
+      {
+        "description": "BAZYLIA",
+        "points": 27
+      },
+      {
+        "description": "KOPEREK",
+        "points": 15
+      },
+      {
+        "description": "MAJERANEK",
+        "points": 11
+      },
+      {
+        "description": "PIETRUSZKA",
+        "points": 10
+      },
+      {
+        "description": "LIŚĆ LAUROWY",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "themes": ["favourite"],
+    "description": "Jaki może być agent?",
+    "answers": [
+      {
+        "description": "TAJNY",
+        "points": 28
+      },
+      {
+        "description": "NIERUCHOMOŚCI",
+        "points": 23
+      },
+      {
+        "description": "UBEZPIECZENIOWY",
+        "points": 20
+      },
+      {
+        "description": "SPECJALNY",
+        "points": 16
+      },
+      {
+        "description": "GWIAZD",
+        "points": 7
+      },
+      {
+        "description": "TURYSTYCZNY",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "description": "Jaki może być orzech?",
+    "answers": [
+      {
+        "description": "WŁOSKI",
+        "points": 34
+      },
+      {
+        "description": "LASKOWY",
+        "points": 31
+      },
+      {
+        "description": "TWARDY",
+        "points": 15
+      },
+      {
+        "description": "ZIEMNY",
+        "points": 9
+      },
+      {
+        "description": "PISTACJOWY",
+        "points": 6
+      },
+      {
+        "description": "NERKOWCA",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "themes": ["wedding", "favourite"],
+    "description": "Wymień symbole przynoszące szczęście",
+    "answers": [
+      {
+        "description": "CZTEROLISTNA KONICZYNA",
+        "points": 27
+      },
+      {
+        "description": "PODKOWA",
+        "points": 20
+      },
+      {
+        "description": "KOMINIARZ",
+        "points": 15
+      },
+      {
+        "description": "SŁONIK",
+        "points": 14
+      },
+      {
+        "description": "GROSIK",
+        "points": 13
+      },
+      {
+        "description": "KRÓLICZA ŁAPKA",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "description": "Co zabieramy na plażę?",
+    "answers": [
+      {
+        "description": "RĘCZNIK",
+        "points": 29
+      },
+      {
+        "description": "STRÓJ KĄPIELOWY",
+        "points": 22
+      },
+      {
+        "description": "PARAWAN",
+        "points": 14
+      },
+      {
+        "description": "OKULARY PRZECIWSŁONECZNE",
+        "points": 13
+      },
+      {
+        "description": "KREM Z FILTREM",
+        "points": 12
+      },
+      {
+        "description": "PARASOL",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "themes": ["wedding"],
+    "description": "Co najczęściej dajemy w prezencie?",
+    "answers": [
+      {
+        "description": "ALKOHOL",
+        "points": 26
+      },
+      {
+        "description": "PIENIĄDZE",
+        "points": 22
+      },
+      {
+        "description": "KWIATY",
+        "points": 20
+      },
+      {
+        "description": "BOMBONIERKĘ",
+        "points": 13
+      },
+      {
+        "description": "VOUCHER",
+        "points": 12
+      },
+      {
+        "description": "KUBEK",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "themes": ["favourite"],
+    "description": "Podaj przykład przesądu, który przynosi pecha",
+    "answers": [
+      {
+        "description": "CZARNY KOT",
+        "points": 29
+      },
+      {
+        "description": "PRZEJŚCIE POD DRABINĄ",
+        "points": 22
+      },
+      {
+        "description": "STŁUCZENIE LUSTERKA",
+        "points": 21
+      },
+      {
+        "description": "PIĄTEK 13-GO",
+        "points": 11
+      },
+      {
+        "description": "ROZSYPANIE SOLI",
+        "points": 9
+      },
+      {
+        "description": "OTWIERANIE PARASOLA W POMIESZCZENIU",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "description": "Co zjadamy wprost z opakowania?",
+    "answers": [
+      {
+        "description": "CHIPSY",
+        "points": 30
+      },
+      {
+        "description": "LODY",
+        "points": 21
+      },
+      {
+        "description": "JOGURT",
+        "points": 20
+      },
+      {
+        "description": "SŁODYCZE",
+        "points": 16
+      },
+      {
+        "description": "PALUSZKI",
+        "points": 7
+      },
+      {
+        "description": "LEKI",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "description": "Podaj przykład rzeczy, która łatwo się roztapia",
+    "answers": [
+      {
+        "description": "LODY",
+        "points": 29
+      },
+      {
+        "description": "MASŁO",
+        "points": 25
+      },
+      {
+        "description": "ŚNIEG",
+        "points": 24
+      },
+      {
+        "description": "CZEKOLADA",
+        "points": 10
+      },
+      {
+        "description": "WOSK",
+        "points": 7
+      },
+      {
+        "description": "PLASTIK",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "description": "Podaj przykład drzewa liściastego",
+    "answers": [
+      {
+        "description": "DĄB",
+        "points": 33
+      },
+      {
+        "description": "KLON",
+        "points": 27
+      },
+      {
+        "description": "LIPA",
+        "points": 12
+      },
+      {
+        "description": "BRZOZA",
+        "points": 11
+      },
+      {
+        "description": "BUK",
+        "points": 10
+      },
+      {
+        "description": "JESION",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "description": "Jaki może być pilot?",
+    "answers": [
+      {
+        "description": "DO TELEWIZORA",
+        "points": 39
+      },
+      {
+        "description": "SAMOLOTOWY",
+        "points": 35
+      },
+      {
+        "description": "DO BRAMY",
+        "points": 8
+      },
+      {
+        "description": "DO SAMOCHODU",
+        "points": 7
+      },
+      {
+        "description": "WYCIECZEK",
+        "points": 6
+      },
+      {
+        "description": "RAJDOWY",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "description": "Co można ściąć?",
+    "answers": [
+      {
+        "description": "WŁOSY",
+        "points": 30
+      },
+      {
+        "description": "DRZEWO",
+        "points": 28
+      },
+      {
+        "description": "KWIATY",
+        "points": 13
+      },
+      {
+        "description": "ZAKRĘT",
+        "points": 12
+      },
+      {
+        "description": "PAZNOKCIE",
+        "points": 9
+      },
+      {
+        "description": "TRAWA",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "description": "Podaj przykład drewnianego przedmiotu, który znajduje się w kuchni",
+    "answers": [
+      {
+        "description": "ŁYŻKA",
+        "points": 35
+      },
+      {
+        "description": "DESKA DO KROJENIA",
+        "points": 29
+      },
+      {
+        "description": "WAŁEK",
+        "points": 15
+      },
+      {
+        "description": "ŁOPATKA",
+        "points": 12
+      },
+      {
+        "description": "STOLNICA",
+        "points": 5
+      },
+      {
+        "description": "TŁUCZEK",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "description": "Wymień producentów motocykli",
+    "answers": [
+      {
+        "description": "YAMAHA",
+        "points": 30
+      },
+      {
+        "description": "HARLEY-DAVIDSON",
+        "points": 24
+      },
+      {
+        "description": "KAWASAKI",
+        "points": 18
+      },
+      {
+        "description": "SUZUKI",
+        "points": 16
+      },
+      {
+        "description": "HONDA",
+        "points": 9
+      },
+      {
+        "description": "BMW",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "description": "Wymień niemieckie marki samochodów",
+    "answers": [
+      {
+        "description": "BMW",
+        "points": 31
+      },
+      {
+        "description": "VOLKSWAGEN",
+        "points": 26
+      },
+      {
+        "description": "AUDI",
+        "points": 16
+      },
+      {
+        "description": "MERCEDES-BENZ",
+        "points": 15
+      },
+      {
+        "description": "OPEL",
+        "points": 10
+      },
+      {
+        "description": "PORSCHE",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "description": "Wymień postaci z filmu Zakon Feniksa",
+    "answers": [
+      {
+        "description": "HARRY POTTER",
+        "points": 28
+      },
+      {
+        "description": "HERMIONA GRANGER",
+        "points": 19
+      },
+      {
+        "description": "RON WEASLEY",
+        "points": 15
+      },
+      {
+        "description": "ALBUS DUMBLEDORE",
+        "points": 14
+      },
+      {
+        "description": "LORD VOLDEMORT",
+        "points": 13
+      },
+      {
+        "description": "RUBEUS HAGRID",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "themes": ["favourite"],
+    "description": "Jaki może być szpital?",
+    "answers": [
+      {
+        "description": "PSYCHIATRYCZNY",
+        "points": 30
+      },
+      {
+        "description": "WOJEWÓDZKI",
+        "points": 23
+      },
+      {
+        "description": "DZIECIĘCY",
+        "points": 17
+      },
+      {
+        "description": "ONKOLOGICZNY",
+        "points": 13
+      },
+      {
+        "description": "KLINICZNY",
+        "points": 9
+      },
+      {
+        "description": "WOJSKOWY",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "description": "Jakie seriale w polskiej telewizji były emitowane najdłużej?",
+    "answers": [
+      {
+        "description": "MODA NA SUKCES",
+        "points": 31
+      },
+      {
+        "description": "M JAK MIŁOŚĆ",
+        "points": 29
+      },
+      {
+        "description": "KLAN",
+        "points": 21
+      },
+      {
+        "description": "ŚWIAT WEDŁUG KIEPSKICH",
+        "points": 8
+      },
+      {
+        "description": "NA WSPÓLNEJ",
+        "points": 7
+      },
+      {
+        "description": "NA DOBRE I NA ZŁE",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "description": "Podaj przykład tańca towarzyskiego",
+    "answers": [
+      {
+        "description": "TANGO",
+        "points": 36
+      },
+      {
+        "description": "WALC",
+        "points": 30
+      },
+      {
+        "description": "SAMBA",
+        "points": 12
+      },
+      {
+        "description": "CHA-CHA",
+        "points": 10
+      },
+      {
+        "description": "SALSA",
+        "points": 7
+      },
+      {
+        "description": "RUMBA",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "description": "Wymień najszybsze zwierzęta lądowe",
+    "answers": [
+      {
+        "description": "GEPARD",
+        "points": 30
+      },
+      {
+        "description": "STRUŚ",
+        "points": 18
+      },
+      {
+        "description": "LAMPART",
+        "points": 15
+      },
+      {
+        "description": "JAGUAR",
+        "points": 14
+      },
+      {
+        "description": "ANTYLOPA",
+        "points": 12
+      },
+      {
+        "description": "PUMA",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "themes": ["favourite"],
+    "description": "Co można wziąć, ale nie do ręki?",
+    "answers": [
+      {
+        "description": "ŚLUB",
+        "points": 32
+      },
+      {
+        "description": "KREDYT",
+        "points": 28
+      },
+      {
+        "description": "URLOP",
+        "points": 16
+      },
+      {
+        "description": "PRYSZNIC",
+        "points": 13
+      },
+      {
+        "description": "ODDECH",
+        "points": 7
+      },
+      {
+        "description": "ODPOWIEDZIALNOŚĆ",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "description": "Jaka może być umowa?",
+    "answers": [
+      {
+        "description": "O PRACĘ",
+        "points": 28
+      },
+      {
+        "description": "ZLECENIE",
+        "points": 18
+      },
+      {
+        "description": "NAJMU",
+        "points": 17
+      },
+      {
+        "description": "O DZIEŁO",
+        "points": 14
+      },
+      {
+        "description": "KUPNA-SPRZEDAŻY",
+        "points": 12
+      },
+      {
+        "description": "PISEMNA",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "description": "Co trzymamy w szafie?",
+    "answers": [
+      {
+        "description": "UBRANIA",
+        "points": 27
+      },
+      {
+        "description": "TRUPA",
+        "points": 22
+      },
+      {
+        "description": "KOCHANKA",
+        "points": 15
+      },
+      {
+        "description": "BUTY",
+        "points": 13
+      },
+      {
+        "description": "PLECAK",
+        "points": 12
+      },
+      {
+        "description": "KSIĄŻKI",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "themes": ["favourite"],
+    "description": "Co prowadzimy?",
+    "answers": [
+      {
+        "description": "POJAZD",
+        "points": 31
+      },
+      {
+        "description": "FIRMĘ",
+        "points": 25
+      },
+      {
+        "description": "ROZMOWĘ",
+        "points": 14
+      },
+      {
+        "description": "DOM",
+        "points": 11
+      },
+      {
+        "description": "LEKCJE",
+        "points": 10
+      },
+      {
+        "description": "BLOGA",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "description": "Co robimy w niezręcznej sytuacji?",
+    "answers": [
+      {
+        "description": "ZAWSTYDZAMY SIĘ",
+        "points": 29
+      },
+      {
+        "description": "ŚMIEJEMY SIĘ",
+        "points": 22
+      },
+      {
+        "description": "STRESUJEMY SIĘ",
+        "points": 18
+      },
+      {
+        "description": "ZMIENIAMY TEMAT",
+        "points": 13
+      },
+      {
+        "description": "MILCZYMY",
+        "points": 10
+      },
+      {
+        "description": "UCIEKAMY",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "description": "Co możemy malować?",
+    "answers": [
+      {
+        "description": "PAZNOKCIE",
+        "points": 33
+      },
+      {
+        "description": "OBRAZ",
+        "points": 32
+      },
+      {
+        "description": "TWARZ",
+        "points": 16
+      },
+      {
+        "description": "ŚCIANY",
+        "points": 14
+      },
+      {
+        "description": "WŁOSY",
+        "points": 3
+      },
+      {
+        "description": "JAJKA",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "description": "Podaj przykład egzotycznego zwierzęcia, które może być hodowane w domu",
+    "answers": [
+      {
+        "description": "WĄŻ",
+        "points": 32
+      },
+      {
+        "description": "PAPUGA",
+        "points": 31
+      },
+      {
+        "description": "JASZCZURKA",
+        "points": 14
+      },
+      {
+        "description": "PAJĄK",
+        "points": 12
+      },
+      {
+        "description": "ŻÓŁW",
+        "points": 6
+      },
+      {
+        "description": "KAMELEON",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "description": "Wymień zielone warzywa",
+    "answers": [
+      {
+        "description": "OGÓREK",
+        "points": 30
+      },
+      {
+        "description": "BROKUŁ",
+        "points": 27
+      },
+      {
+        "description": "GROSZEK",
+        "points": 14
+      },
+      {
+        "description": "CUKINIA",
+        "points": 11
+      },
+      {
+        "description": "SAŁATA",
+        "points": 10
+      },
+      {
+        "description": "PAPRYKA",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "description": "Podaj przykład dziecięcej zabawki",
+    "answers": [
+      {
+        "description": "LALKA",
+        "points": 29
+      },
+      {
+        "description": "MIŚ",
+        "points": 21
+      },
+      {
+        "description": "KLOCKI",
+        "points": 19
+      },
+      {
+        "description": "PIŁKA",
+        "points": 14
+      },
+      {
+        "description": "GRZECHOTKA",
+        "points": 11
+      },
+      {
+        "description": "SAMOCHODZIK",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "themes": ["wedding"],
+    "description": "Za co nastolatkowie dostają szlaban od rodziców?",
+    "answers": [
+      {
+        "description": "ZŁE OCENY",
+        "points": 27
+      },
+      {
+        "description": "WAGARY",
+        "points": 26
+      },
+      {
+        "description": "UŻYWKI",
+        "points": 20
+      },
+      {
+        "description": "KŁAMANIE",
+        "points": 13
+      },
+      {
+        "description": "PRZEKLINANIE",
+        "points": 9
+      },
+      {
+        "description": "PYSKOWANIE",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "description": "Jaki może być stół?",
+    "answers": [
+      {
+        "description": "OKRĄGŁY",
+        "points": 29
+      },
+      {
+        "description": "PINGPONGOWY",
+        "points": 17
+      },
+      {
+        "description": "BILARDOWY",
+        "points": 16
+      },
+      {
+        "description": "OPERACYJNY",
+        "points": 14
+      },
+      {
+        "description": "ROZKŁADANY",
+        "points": 13
+      },
+      {
+        "description": "SZWEDZKI",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "themes": ["favourite"],
+    "description": "Co można odwrócić?",
+    "answers": [
+      {
+        "description": "KOTA OGONEM",
+        "points": 42
+      },
+      {
+        "description": "WZROK",
+        "points": 36
+      },
+      {
+        "description": "UWAGĘ",
+        "points": 22
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "description": "Co mówimy na powitanie?",
+    "answers": [
+      {
+        "description": "CZEŚĆ",
+        "points": 33
+      },
+      {
+        "description": "DZIEŃ DOBRY",
+        "points": 30
+      },
+      {
+        "description": "HEJ",
+        "points": 22
+      },
+      {
+        "description": "SIEMA",
+        "points": 7
+      },
+      {
+        "description": "WITAM",
+        "points": 5
+      },
+      {
+        "description": "ELO",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "description": "Wymień kraje, w których mówi się po angielsku",
+    "answers": [
+      {
+        "description": "WIELKA BRYTANIA",
+        "points": 35
+      },
+      {
+        "description": "USA",
+        "points": 30
+      },
+      {
+        "description": "IRLANDIA",
+        "points": 12
+      },
+      {
+        "description": "AUSTRALIA",
+        "points": 10
+      },
+      {
+        "description": "KANADA",
+        "points": 9
+      },
+      {
+        "description": "RPA",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "description": "Podaj przykład sportu lekkoatletycznego",
+    "answers": [
+      {
+        "description": "BIEG NA 100M",
+        "points": 26
+      },
+      {
+        "description": "SKOK W DAL",
+        "points": 24
+      },
+      {
+        "description": "SKOK O TYCZCE",
+        "points": 22
+      },
+      {
+        "description": "RZUT OSZCZEPEM",
+        "points": 12
+      },
+      {
+        "description": "BIEG PRZEZ PŁOTKI",
+        "points": 10
+      },
+      {
+        "description": "PCHNIĘCIE KULĄ",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "description": "Podaj imię męskie na literę H",
+    "answers": [
+      {
+        "description": "HENRYK",
+        "points": 37
+      },
+      {
+        "description": "HUBERT",
+        "points": 33
+      },
+      {
+        "description": "HEKTOR",
+        "points": 9
+      },
+      {
+        "description": "HUGO",
+        "points": 8
+      },
+      {
+        "description": "HIERONIM",
+        "points": 7
+      },
+      {
+        "description": "HORACY",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "description": "Podaj imię żeńskie na literę L",
+    "answers": [
+      {
+        "description": "LENA",
+        "points": 26
+      },
+      {
+        "description": "LUCYNA",
+        "points": 21
+      },
+      {
+        "description": "LIDIA",
+        "points": 20
+      },
+      {
+        "description": "LAURA",
+        "points": 16
+      },
+      {
+        "description": "LUIZA",
+        "points": 9
+      },
+      {
+        "description": "LILA",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "themes": ["favourite"],
+    "description": "Czego możemy zrobić listę?",
+    "answers": [
+      {
+        "description": "ZAKUPÓW",
+        "points": 30
+      },
+      {
+        "description": "ZADAŃ",
+        "points": 18
+      },
+      {
+        "description": "GOŚCI",
+        "points": 16
+      },
+      {
+        "description": "OBECNOŚCI",
+        "points": 14
+      },
+      {
+        "description": "PRZEBOJÓW",
+        "points": 12
+      },
+      {
+        "description": "RZECZY NA WYJAZD",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "description": "Jaki rodzaj pizzy zamawiamy najczęściej?",
+    "answers": [
+      {
+        "description": "MARGHERITA",
+        "points": 31
+      },
+      {
+        "description": "CAPRICCIOSA",
+        "points": 29
+      },
+      {
+        "description": "PEPPERONI",
+        "points": 21
+      },
+      {
+        "description": "HAWAJSKA",
+        "points": 13
+      },
+      {
+        "description": "QUATRO FORMAGGI",
+        "points": 4
+      },
+      {
+        "description": "FUNGHI",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "description": "Jakie może być gniazdo?",
+    "answers": [
+      {
+        "description": "PTASIE",
+        "points": 28
+      },
+      {
+        "description": "ELEKTRYCZNE",
+        "points": 26
+      },
+      {
+        "description": "USB",
+        "points": 15
+      },
+      {
+        "description": "DOMOWE",
+        "points": 12
+      },
+      {
+        "description": "NA GŁOWIE",
+        "points": 11
+      },
+      {
+        "description": "SŁODKIE",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "description": "Kto w Polsce może legalnie posiadać broń?",
+    "answers": [
+      {
+        "description": "POLICJANT",
+        "points": 32
+      },
+      {
+        "description": "ŻOŁNIERZ",
+        "points": 26
+      },
+      {
+        "description": "MYŚLIWY",
+        "points": 15
+      },
+      {
+        "description": "LEŚNICZY",
+        "points": 10
+      },
+      {
+        "description": "SPORTOWIEC",
+        "points": 9
+      },
+      {
+        "description": "OCHRONIARZ",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "description": "Wymień rodzaje sztuk walki",
+    "answers": [
+      {
+        "description": "KARATE",
+        "points": 28
+      },
+      {
+        "description": "BOKS",
+        "points": 19
+      },
+      {
+        "description": "JUDO",
+        "points": 18
+      },
+      {
+        "description": "KUNG FU",
+        "points": 16
+      },
+      {
+        "description": "KICKBOXING",
+        "points": 11
+      },
+      {
+        "description": "SUMO",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "description": "Podaj przykład homonimu - wyrazu o wielu znaczeniach",
+    "answers": [
+      {
+        "description": "ZAMEK",
+        "points": 30
+      },
+      {
+        "description": "PILOT",
+        "points": 18
+      },
+      {
+        "description": "KOMÓRKA",
+        "points": 16
+      },
+      {
+        "description": "KOREK",
+        "points": 13
+      },
+      {
+        "description": "JĘZYK",
+        "points": 12
+      },
+      {
+        "description": "KOLEJKA",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "description": "Co można mieć na nogach?",
+    "answers": [
+      {
+        "description": "BUTY",
+        "points": 31
+      },
+      {
+        "description": "SPODNIE",
+        "points": 24
+      },
+      {
+        "description": "WŁOSY",
+        "points": 18
+      },
+      {
+        "description": "SINIAKI",
+        "points": 10
+      },
+      {
+        "description": "TATUAŻ",
+        "points": 9
+      },
+      {
+        "description": "ŻYLAKI",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "description": "Wymień wytwórnie filmów animowanych",
+    "answers": [
+      {
+        "description": "WALT DISNEY",
+        "points": 27
+      },
+      {
+        "description": "PIXAR",
+        "points": 25
+      },
+      {
+        "description": "WARNER BROS",
+        "points": 19
+      },
+      {
+        "description": "DREAMWORKS",
+        "points": 12
+      },
+      {
+        "description": "SFR BIELSKO-BIAŁA",
+        "points": 9
+      },
+      {
+        "description": "MGM",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "description": "Podaj miasto w Polsce bez litery A w nazwie",
+    "answers": [
+      {
+        "description": "ŁÓDŹ",
+        "points": 29
+      },
+      {
+        "description": "SZCZECIN",
+        "points": 17
+      },
+      {
+        "description": "SOPOT",
+        "points": 15
+      },
+      {
+        "description": "LUBLIN",
+        "points": 14
+      },
+      {
+        "description": "BYDGOSZCZ",
+        "points": 13
+      },
+      {
+        "description": "OPOLE",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "description": "Wymień żółte kwiaty",
+    "answers": [
+      {
+        "description": "ŻONKIL",
+        "points": 30
+      },
+      {
+        "description": "TULIPAN",
+        "points": 21
+      },
+      {
+        "description": "SŁONECZNIK",
+        "points": 15
+      },
+      {
+        "description": "KACZENIEC",
+        "points": 13
+      },
+      {
+        "description": "JASKIER",
+        "points": 12
+      },
+      {
+        "description": "MNISZEK LEKARSKI",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "description": "Wymień najpopularniejsze wyznania na świecie",
+    "answers": [
+      {
+        "description": "CHRZEŚCIJAŃSTWO",
+        "points": 29
+      },
+      {
+        "description": "ISLAM",
+        "points": 20
+      },
+      {
+        "description": "ATEIZM",
+        "points": 16
+      },
+      {
+        "description": "HINDUIZM",
+        "points": 13
+      },
+      {
+        "description": "BUDDYZM",
+        "points": 12
+      },
+      {
+        "description": "JUDAIZM",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "description": "Wymień popularne Pokemony",
+    "answers": [
+      {
+        "description": "PIKACHU",
+        "points": 28
+      },
+      {
+        "description": "CHARIZARD",
+        "points": 18
+      },
+      {
+        "description": "BULBASAUR",
+        "points": 15
+      },
+      {
+        "description": "SNORLAX",
+        "points": 14
+      },
+      {
+        "description": "PSYDUCK",
+        "points": 13
+      },
+      {
+        "description": "JIGGLYPUFF",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "description": "Wymień owady na literę M",
+    "answers": [
+      {
+        "description": "MUCHA",
+        "points": 34
+      },
+      {
+        "description": "MOTYL",
+        "points": 28
+      },
+      {
+        "description": "MRÓWKA",
+        "points": 15
+      },
+      {
+        "description": "MODLISZKA",
+        "points": 9
+      },
+      {
+        "description": "MOL",
+        "points": 8
+      },
+      {
+        "description": "MSZYCA",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "description": "Wymień odcienie koloru niebieskiego",
+    "answers": [
+      {
+        "description": "BŁĘKITNY",
+        "points": 29
+      },
+      {
+        "description": "GRANATOWY",
+        "points": 26
+      },
+      {
+        "description": "TURKUSOWY",
+        "points": 18
+      },
+      {
+        "description": "INDYGO",
+        "points": 11
+      },
+      {
+        "description": "CHABROWY",
+        "points": 10
+      },
+      {
+        "description": "LAZUROWY",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "themes": ["favourite"],
+    "description": "Czego się nie pożycza?",
+    "answers": [
+      {
+        "description": "PIENIĘDZY",
+        "points": 29
+      },
+      {
+        "description": "PARTNERA",
+        "points": 25
+      },
+      {
+        "description": "BIELIZNY",
+        "points": 20
+      },
+      {
+        "description": "SZCZOTECZKI DO ZĘBÓW",
+        "points": 17
+      },
+      {
+        "description": "SAMOCHODU",
+        "points": 6
+      },
+      {
+        "description": "PIÓRA",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "description": "Czego nie można kupić za pieniądze?",
+    "answers": [
+      {
+        "description": "SZCZĘŚCIA",
+        "points": 35
+      },
+      {
+        "description": "MIŁOŚCI",
+        "points": 30
+      },
+      {
+        "description": "ZDROWIA",
+        "points": 16
+      },
+      {
+        "description": "CZASU",
+        "points": 12
+      },
+      {
+        "description": "PRZYJAŹNI",
+        "points": 4
+      },
+      {
+        "description": "SZACUNKU",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "themes": ["favourite"],
+    "description": "Co może być zajęte?",
+    "answers": [
+      {
+        "description": "TOALETA",
+        "points": 34
+      },
+      {
+        "description": "MIEJSCE",
+        "points": 29
+      },
+      {
+        "description": "OSOBA",
+        "points": 17
+      },
+      {
+        "description": "NUMER",
+        "points": 9
+      },
+      {
+        "description": "TERMIN",
+        "points": 7
+      },
+      {
+        "description": "OBIEKT UCZUĆ",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "description": "Za pomocą czego można pisać?",
+    "answers": [
+      {
+        "description": "DŁUGOPIS",
+        "points": 29
+      },
+      {
+        "description": "PIÓRO",
+        "points": 23
+      },
+      {
+        "description": "KLAWIATURA",
+        "points": 16
+      },
+      {
+        "description": "OŁÓWEK",
+        "points": 14
+      },
+      {
+        "description": "KREDA",
+        "points": 10
+      },
+      {
+        "description": "RYSIK",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "themes": ["favourite"],
+    "description": "Za czym można gonić?",
+    "answers": [
+      {
+        "description": "MARZENIA",
+        "points": 34
+      },
+      {
+        "description": "SZCZĘŚCIE",
+        "points": 27
+      },
+      {
+        "description": "PIENIĄDZE",
+        "points": 14
+      },
+      {
+        "description": "AUTOBUS",
+        "points": 10
+      },
+      {
+        "description": "KRÓLICZEK",
+        "points": 9
+      },
+      {
+        "description": "MODA",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "description": "Podaj przykład jednorazowego przedmiotu",
+    "answers": [
+      {
+        "description": "CHUSTECZKI",
+        "points": 34
+      },
+      {
+        "description": "MASZYNKA DO GOLENIA",
+        "points": 29
+      },
+      {
+        "description": "SŁOMKA",
+        "points": 16
+      },
+      {
+        "description": "SZTUĆCE",
+        "points": 14
+      },
+      {
+        "description": "PREZERWATYWA",
+        "points": 4
+      },
+      {
+        "description": "TAMPON",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "themes": ["favourite"],
+    "description": "Podaj przykład zwierzęcia, z którego ścinamy runo",
+    "answers": [
+      {
+        "description": "OWCA",
+        "points": 30
+      },
+      {
+        "description": "ALPAKA",
+        "points": 24
+      },
+      {
+        "description": "LAMA",
+        "points": 19
+      },
+      {
+        "description": "KOZA",
+        "points": 16
+      },
+      {
+        "description": "KRÓLIK",
+        "points": 8
+      },
+      {
+        "description": "WIELBŁĄD",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "description": "Wymień gatunek jabłka",
+    "answers": [
+      {
+        "description": "PAPIERÓWKA",
+        "points": 27
+      },
+      {
+        "description": "CHAMPION",
+        "points": 23
+      },
+      {
+        "description": "ANTONÓWKA",
+        "points": 16
+      },
+      {
+        "description": "JONAGOLD",
+        "points": 14
+      },
+      {
+        "description": "LIGOL",
+        "points": 12
+      },
+      {
+        "description": "LOBO",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "description": "Podaj przykład filmu z polskim imieniem w tytule",
+    "answers": [
+      {
+        "description": "OCH, KAROL",
+        "points": 30
+      },
+      {
+        "description": "ALICJA W KRAINIE CZARÓW",
+        "points": 28
+      },
+      {
+        "description": "LEON ZAWODOWIEC",
+        "points": 24
+      },
+      {
+        "description": "PIOTRUŚ PAN",
+        "points": 10
+      },
+      {
+        "description": "ANIA Z ZIELONEGO WZGÓRZA",
+        "points": 5
+      },
+      {
+        "description": "KRÓL MACIUŚ I",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "description": "Jakie są typy znaków drogowych",
+    "answers": [
+      {
+        "description": "OSTRZEGAWCZE",
+        "points": 26
+      },
+      {
+        "description": "INFORMACYJNE",
+        "points": 24
+      },
+      {
+        "description": "ZAKAZU",
+        "points": 21
+      },
+      {
+        "description": "NAKAZU",
+        "points": 18
+      },
+      {
+        "description": "MIEJSCOWOŚCI",
+        "points": 7
+      },
+      {
+        "description": "POZIOME",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "description": "Podaj przykład bryły",
+    "answers": [
+      {
+        "description": "SZEŚCIAN",
+        "points": 30
+      },
+      {
+        "description": "KULA",
+        "points": 17
+      },
+      {
+        "description": "WALEC",
+        "points": 16
+      },
+      {
+        "description": "OSTROSŁUP",
+        "points": 15
+      },
+      {
+        "description": "PROSTOPADŁOŚCIAN",
+        "points": 14
+      },
+      {
+        "description": "STOŻEK",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "description": "Podaj przykład dyskontu spożywczego",
+    "answers": [
+      {
+        "description": "BIEDRONKA",
+        "points": 35
+      },
+      {
+        "description": "LIDL",
+        "points": 29
+      },
+      {
+        "description": "AUCHAN",
+        "points": 17
+      },
+      {
+        "description": "KAUFLAND",
+        "points": 12
+      },
+      {
+        "description": "NETTO",
+        "points": 4
+      },
+      {
+        "description": "ALDI",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "description": "Podaj przykład czegoś polarnego",
+    "answers": [
+      {
+        "description": "NIEDŹWIEDŹ",
+        "points": 35
+      },
+      {
+        "description": "ZORZA",
+        "points": 31
+      },
+      {
+        "description": "GWIAZDA",
+        "points": 15
+      },
+      {
+        "description": "NOC",
+        "points": 9
+      },
+      {
+        "description": "LIS",
+        "points": 6
+      },
+      {
+        "description": "POLAR",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "themes": ["favourite"],
+    "description": "Jaki może być sezon?",
+    "answers": [
+      {
+        "description": "GRZEWCZY",
+        "points": 31
+      },
+      {
+        "description": "LETNI",
+        "points": 29
+      },
+      {
+        "description": "SERIALU",
+        "points": 17
+      },
+      {
+        "description": "ŁOWIECKI",
+        "points": 10
+      },
+      {
+        "description": "OGÓRKOWY",
+        "points": 9
+      },
+      {
+        "description": "MARTWY",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "description": "W czym może być dziura?",
+    "answers": [
+      {
+        "description": "W SKARPECIE",
+        "points": 29
+      },
+      {
+        "description": "W SERZE",
+        "points": 23
+      },
+      {
+        "description": "W SAMOLOCIE",
+        "points": 17
+      },
+      {
+        "description": "W ZĘBIE",
+        "points": 16
+      },
+      {
+        "description": "W CAŁYM",
+        "points": 12
+      },
+      {
+        "description": "W PAMIĘCI",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "themes": ["favourite"],
+    "description": "Jak potocznie powiemy na osobę, która dużo mówi?",
+    "answers": [
+      {
+        "description": "GADUŁA",
+        "points": 39
+      },
+      {
+        "description": "PAPLA",
+        "points": 34
+      },
+      {
+        "description": "PLECIUGA",
+        "points": 27
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "themes": ["favourite"],
+    "description": "Co lub kto spełnia życzenia?",
+    "answers": [
+      {
+        "description": "DŻIN",
+        "points": 38
+      },
+      {
+        "description": "ZŁOTA RYBKA",
+        "points": 32
+      },
+      {
+        "description": "WRÓŻKA",
+        "points": 30
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "description": "Jaki może być aparat?",
+    "answers": [
+      {
+        "description": "FOTOGRAFICZNY",
+        "points": 48
+      },
+      {
+        "description": "ORTODONTYCZNY",
+        "points": 41
+      },
+      {
+        "description": "SŁUCHOWY",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "themes": ["favourite"],
+    "description": "Jaki może być plac?",
+    "answers": [
+      {
+        "description": "BUDOWY",
+        "points": 41
+      },
+      {
+        "description": "ZABAW",
+        "points": 36
+      },
+      {
+        "description": "MANEWROWY",
+        "points": 23
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "themes": ["wedding"],
+    "description": "Podaj przykład popularnego drinka",
+    "answers": [
+      {
+        "description": "MOJITO",
+        "points": 30
+      },
+      {
+        "description": "MARGARITA",
+        "points": 25
+      },
+      {
+        "description": "KRWAWA MARY",
+        "points": 17
+      },
+      {
+        "description": "COSMOPOLITAN",
+        "points": 12
+      },
+      {
+        "description": "LONG ISLAND",
+        "points": 11
+      },
+      {
+        "description": "PINA COLADA",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "themes": ["favourite"],
+    "description": "Jak potocznie powiemy na duży bałagan?",
+    "answers": [
+      {
+        "description": "BAJZEL",
+        "points": 31
+      },
+      {
+        "description": "BURDEL",
+        "points": 28
+      },
+      {
+        "description": "SYF",
+        "points": 15
+      },
+      {
+        "description": "ROZGARDIASZ",
+        "points": 14
+      },
+      {
+        "description": "CHLEW",
+        "points": 11
+      },
+      {
+        "description": "ŚMIETNIK",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "description": "Podaj przykład marki samochodu na literę S",
+    "answers": [
+      {
+        "description": "SKODA",
+        "points": 32
+      },
+      {
+        "description": "SEAT",
+        "points": 27
+      },
+      {
+        "description": "SUBARU",
+        "points": 19
+      },
+      {
+        "description": "SUZUKI",
+        "points": 16
+      },
+      {
+        "description": "SAAB",
+        "points": 5
+      },
+      {
+        "description": "SMART",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "description": "Podaj przykład akcesoriów rowerowych",
+    "answers": [
+      {
+        "description": "DZWONEK",
+        "points": 24
+      },
+      {
+        "description": "LAMPKA",
+        "points": 20
+      },
+      {
+        "description": "LICZNIK",
+        "points": 19
+      },
+      {
+        "description": "BIDON",
+        "points": 16
+      },
+      {
+        "description": "POMPKA",
+        "points": 11
+      },
+      {
+        "description": "KASK",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "description": "Czym może zajmować się uliczny artysta?",
+    "answers": [
+      {
+        "description": "MUZYKĄ",
+        "points": 31
+      },
+      {
+        "description": "TAŃCEM",
+        "points": 27
+      },
+      {
+        "description": "SZTUKĄ",
+        "points": 17
+      },
+      {
+        "description": "MAGIĄ",
+        "points": 15
+      },
+      {
+        "description": "KOMEDIĄ",
+        "points": 7
+      },
+      {
+        "description": "PANTOMIMĄ",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "description": "Wymień stan znajdujący się w USA",
+    "answers": [
+      {
+        "description": "KALIFORNIA",
+        "points": 20
+      },
+      {
+        "description": "FLORYDA",
+        "points": 18
+      },
+      {
+        "description": "TEKSAS",
+        "points": 17
+      },
+      {
+        "description": "NOWY JORK",
+        "points": 16
+      },
+      {
+        "description": "WASZYNGTON",
+        "points": 15
+      },
+      {
+        "description": "ALASKA",
+        "points": 14
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "description": "Zwierzę na 3 litery",
+    "answers": [
+      {
+        "description": "KOŃ",
+        "points": 30
+      },
+      {
+        "description": "KOT",
+        "points": 27
+      },
+      {
+        "description": "WĄŻ",
+        "points": 17
+      },
+      {
+        "description": "BYK",
+        "points": 12
+      },
+      {
+        "description": "LEW",
+        "points": 8
+      },
+      {
+        "description": "RAK",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "description": "Jak potocznie powiemy na diabła?",
+    "answers": [
+      {
+        "description": "SZATAN",
+        "points": 31
+      },
+      {
+        "description": "LUCYFER",
+        "points": 27
+      },
+      {
+        "description": "CZORT",
+        "points": 17
+      },
+      {
+        "description": "BELZEBUB",
+        "points": 15
+      },
+      {
+        "description": "UPADŁY ANIOŁ",
+        "points": 7
+      },
+      {
+        "description": "ANTYCHRYST",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "description": "O kim opowiadamy kawały?",
+    "answers": [
+      {
+        "description": "BLONDYNKACH",
+        "points": 30
+      },
+      {
+        "description": "JASIU",
+        "points": 24
+      },
+      {
+        "description": "MURZYNACH",
+        "points": 18
+      },
+      {
+        "description": "ŻYDACH",
+        "points": 16
+      },
+      {
+        "description": "TWOJEJ STAREJ",
+        "points": 7
+      },
+      {
+        "description": "BABIE",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "themes": ["wedding"],
+    "description": "Z jakiej okazji składamy życzenia?",
+    "answers": [
+      {
+        "description": "URODZIN",
+        "points": 25
+      },
+      {
+        "description": "IMIENIN",
+        "points": 21
+      },
+      {
+        "description": "ŚLUBU",
+        "points": 20
+      },
+      {
+        "description": "ŚWIĄT",
+        "points": 15
+      },
+      {
+        "description": "ROCZNICY",
+        "points": 10
+      },
+      {
+        "description": "NOWEGO ROKU",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "description": "Jakie produkty znajdziemy przy kasie w supermarkecie?",
+    "answers": [
+      {
+        "description": "SŁODYCZE",
+        "points": 29
+      },
+      {
+        "description": "GUMY DO ŻUCIA",
+        "points": 24
+      },
+      {
+        "description": "PAPIEROSY",
+        "points": 17
+      },
+      {
+        "description": "LEKARSTWA",
+        "points": 15
+      },
+      {
+        "description": "PREZERWATYWY",
+        "points": 8
+      },
+      {
+        "description": "BATERIE",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "themes": ["favourite"],
+    "description": "Jak potocznie powiemy na pieniądze?",
+    "answers": [
+      {
+        "description": "HAJS",
+        "points": 32
+      },
+      {
+        "description": "FORSA",
+        "points": 27
+      },
+      {
+        "description": "MAMONA",
+        "points": 13
+      },
+      {
+        "description": "KASA",
+        "points": 12
+      },
+      {
+        "description": "SZMAL",
+        "points": 9
+      },
+      {
+        "description": "KAPUSTA",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "themes": ["favourite"],
+    "description": "Komu dajemy napiwek?",
+    "answers": [
+      {
+        "description": "KELNER",
+        "points": 31
+      },
+      {
+        "description": "DOSTAWCA JEDZENIA",
+        "points": 27
+      },
+      {
+        "description": "BARMAN",
+        "points": 23
+      },
+      {
+        "description": "TAKSÓWKARZ",
+        "points": 10
+      },
+      {
+        "description": "BOY HOTELOWY",
+        "points": 7
+      },
+      {
+        "description": "STRIPTIZERKA",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "description": "Podaj przykład stopnia wojskowego",
+    "answers": [
+      {
+        "description": "KAPRAL",
+        "points": 24
+      },
+      {
+        "description": "SZEREGOWY",
+        "points": 21
+      },
+      {
+        "description": "PORUCZNIK",
+        "points": 18
+      },
+      {
+        "description": "SIERŻANT",
+        "points": 17
+      },
+      {
+        "description": "MAJOR",
+        "points": 11
+      },
+      {
+        "description": "MARSZAŁEK",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "description": "Podaj przykład stopnia marynarki wojennej",
+    "answers": [
+      {
+        "description": "KAPITAN",
+        "points": 24
+      },
+      {
+        "description": "MARYNARZ",
+        "points": 21
+      },
+      {
+        "description": "BOSMAN",
+        "points": 18
+      },
+      {
+        "description": "ADMIRAŁ",
+        "points": 17
+      },
+      {
+        "description": "KOMANDOR",
+        "points": 11
+      },
+      {
+        "description": "CHORĄŻY",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "description": "Jak potocznie powiemy na niesfornego brzdąca?",
+    "answers": [
+      {
+        "description": "ROZRABIAKA",
+        "points": 23
+      },
+      {
+        "description": "URWIS",
+        "points": 22
+      },
+      {
+        "description": "GAGATEK",
+        "points": 17
+      },
+      {
+        "description": "ŁOBUZ",
+        "points": 15
+      },
+      {
+        "description": "NICPOŃ",
+        "points": 13
+      },
+      {
+        "description": "CHULIGAN",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "themes": ["favourite"],
+    "description": "Czego może być numer?",
+    "answers": [
+      {
+        "description": "TELEFONU",
+        "points": 35
+      },
+      {
+        "description": "PESEL",
+        "points": 28
+      },
+      {
+        "description": "BUDYNKU / LOKALU",
+        "points": 27
+      },
+      {
+        "description": "BUTA",
+        "points": 7
+      },
+      {
+        "description": "LOTU",
+        "points": 2
+      },
+      {
+        "description": "POLISY",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "description": "Dodaj przedrostek do -MOWA, aby powstało nowe słowo",
+    "answers": [
+      {
+        "description": "UMOWA",
+        "points": 22
+      },
+      {
+        "description": "ROZMOWA",
+        "points": 20
+      },
+      {
+        "description": "PRZEDMOWA",
+        "points": 18
+      },
+      {
+        "description": "ODMOWA",
+        "points": 17
+      },
+      {
+        "description": "ZMOWA",
+        "points": 13
+      },
+      {
+        "description": "WYMOWA",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "description": "Co mówimy odbierając telefon?",
+    "answers": [
+      {
+        "description": "HALO?",
+        "points": 32
+      },
+      {
+        "description": "SŁUCHAM",
+        "points": 28
+      },
+      {
+        "description": "PROSZĘ?",
+        "points": 17
+      },
+      {
+        "description": "DZIEŃ DOBRY",
+        "points": 12
+      },
+      {
+        "description": "TAK?",
+        "points": 7
+      },
+      {
+        "description": "CZEGO?",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "description": "Jakie atrakcje czekają nas w wesołym miasteczku?",
+    "answers": [
+      {
+        "description": "KOLEJKA GÓRSKA",
+        "points": 31
+      },
+      {
+        "description": "KARUZELA",
+        "points": 28
+      },
+      {
+        "description": "SAMOCHODZIKI",
+        "points": 21
+      },
+      {
+        "description": "PAŁAC STRACHU",
+        "points": 12
+      },
+      {
+        "description": "GABINET ŚMIECHU",
+        "points": 5
+      },
+      {
+        "description": "STRZELNICA",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "description": "Jakie są atrybuty Świętego Mikołaja?",
+    "answers": [
+      {
+        "description": "PREZENTY",
+        "points": 34
+      },
+      {
+        "description": "CZERWONY STRÓJ",
+        "points": 29
+      },
+      {
+        "description": "SANIE",
+        "points": 15
+      },
+      {
+        "description": "RENIFERY",
+        "points": 12
+      },
+      {
+        "description": "BRODA",
+        "points": 6
+      },
+      {
+        "description": "ELFY",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "description": "Podaj przykład białego i sypkiego składnika używanego w kuchni",
+    "answers": [
+      {
+        "description": "SÓL",
+        "points": 31
+      },
+      {
+        "description": "CUKIER",
+        "points": 28
+      },
+      {
+        "description": "MĄKA",
+        "points": 24
+      },
+      {
+        "description": "PROSZEK DO PIECZENIA",
+        "points": 8
+      },
+      {
+        "description": "SODA OCZYSZCZONA",
+        "points": 6
+      },
+      {
+        "description": "KWASEK CYTRYNOWY",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "description": "Można być zdrowym jak?",
+    "answers": [
+      {
+        "description": "RYBA",
+        "points": 42
+      },
+      {
+        "description": "KOŃ",
+        "points": 38
+      },
+      {
+        "description": "RYDZ",
+        "points": 20
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "description": "Co może być usunięte z ludzkiego ciała?",
+    "answers": [
+      {
+        "description": "ZĄB",
+        "points": 28
+      },
+      {
+        "description": "MIGDAŁKI",
+        "points": 21
+      },
+      {
+        "description": "PIEPRZYK",
+        "points": 18
+      },
+      {
+        "description": "GUZ",
+        "points": 14
+      },
+      {
+        "description": "NERKA",
+        "points": 11
+      },
+      {
+        "description": "WYROSTEK ROBACZKOWY",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "themes": ["favourite"],
+    "description": "Co może być złote, ale nie dosłownie?",
+    "answers": [
+      {
+        "description": "MYŚLI",
+        "points": 26
+      },
+      {
+        "description": "RĄCZKA",
+        "points": 21
+      },
+      {
+        "description": "PRZEBOJE",
+        "points": 20
+      },
+      {
+        "description": "JESIEŃ",
+        "points": 14
+      },
+      {
+        "description": "PODZIAŁ",
+        "points": 11
+      },
+      {
+        "description": "STRZAŁ",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "themes": ["favourite"],
+    "description": "Jaki może być salon?",
+    "answers": [
+      {
+        "description": "SAMOCHODOWY",
+        "points": 26
+      },
+      {
+        "description": "PIĘKNOŚCI",
+        "points": 24
+      },
+      {
+        "description": "GIER",
+        "points": 16
+      },
+      {
+        "description": "FRYZJERSKI",
+        "points": 15
+      },
+      {
+        "description": "MEBLOWY",
+        "points": 10
+      },
+      {
+        "description": "SUKIEN ŚLUBNYCH",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "description": "Jak potocznie powiemy na osobę, która jest do przesady oszczędna?",
+    "answers": [
+      {
+        "description": "SKNERA",
+        "points": 23
+      },
+      {
+        "description": "ŻYD",
+        "points": 21
+      },
+      {
+        "description": "SKĄPIEC",
+        "points": 20
+      },
+      {
+        "description": "DUSIGROSZ",
+        "points": 19
+      },
+      {
+        "description": "ŻYŁA",
+        "points": 10
+      },
+      {
+        "description": "CENTUŚ",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "themes": ["favourite"],
+    "description": "Jeśli ktoś śpi głebokim i mocnym snem to powiemy o nim, że śpi jak?",
+    "answers": [
+      {
+        "description": "SUSEŁ",
+        "points": 23
+      },
+      {
+        "description": "ZABITY",
+        "points": 22
+      },
+      {
+        "description": "DZIECKO",
+        "points": 21
+      },
+      {
+        "description": "KAMIEŃ",
+        "points": 19
+      },
+      {
+        "description": "NIEDŹWIEDŹ",
+        "points": 9
+      },
+      {
+        "description": "ANIOŁEK",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "themes": ["favourite"],
+    "description": "Jak potocznie powiemy na osobę, która nie żyje?",
+    "answers": [
+      {
+        "description": "ZMARŁY",
+        "points": 26
+      },
+      {
+        "description": "TRUP",
+        "points": 25
+      },
+      {
+        "description": "MARTWY",
+        "points": 24
+      },
+      {
+        "description": "NIEBOSZCZYK",
+        "points": 11
+      },
+      {
+        "description": "DENAT",
+        "points": 8
+      },
+      {
+        "description": "SZTYWNY",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "description": "Podaj przykład ryby słodkowodnej?",
+    "answers": [
+      {
+        "description": "SZCZUPAK",
+        "points": 21
+      },
+      {
+        "description": "KARP",
+        "points": 20
+      },
+      {
+        "description": "OKOŃ",
+        "points": 17
+      },
+      {
+        "description": "SUM",
+        "points": 16
+      },
+      {
+        "description": "LESZCZ",
+        "points": 14
+      },
+      {
+        "description": "KARAŚ",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "description": "Podaj przykład ryby słonowodnej?",
+    "answers": [
+      {
+        "description": "ŁOSOŚ",
+        "points": 28
+      },
+      {
+        "description": "TUŃCZYK",
+        "points": 26
+      },
+      {
+        "description": "ŚLEDŹ",
+        "points": 16
+      },
+      {
+        "description": "DORSZ",
+        "points": 13
+      },
+      {
+        "description": "MAKRELA",
+        "points": 10
+      },
+      {
+        "description": "HALIBUT",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "description": "Co wypluwamy?",
+    "answers": [
+      {
+        "description": "ŚLINĘ",
+        "points": 34
+      },
+      {
+        "description": "GUMĘ",
+        "points": 31
+      },
+      {
+        "description": "PASTĘ",
+        "points": 19
+      },
+      {
+        "description": "PESTKI",
+        "points": 10
+      },
+      {
+        "description": "JEDZENIE",
+        "points": 4
+      },
+      {
+        "description": "SŁOWA",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "description": "Coś muzycznego?",
+    "answers": [
+      {
+        "description": "INSTRUMENT",
+        "points": 26
+      },
+      {
+        "description": "UTWÓR",
+        "points": 22
+      },
+      {
+        "description": "KLUB",
+        "points": 18
+      },
+      {
+        "description": "ZESPÓŁ",
+        "points": 17
+      },
+      {
+        "description": "SZKOŁA",
+        "points": 11
+      },
+      {
+        "description": "TALENT",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "description": "Podaj przykład rasy psa?",
+    "answers": [
+      {
+        "description": "OWCZAREK",
+        "points": 29
+      },
+      {
+        "description": "BULDOG",
+        "points": 27
+      },
+      {
+        "description": "LABRADOR",
+        "points": 19
+      },
+      {
+        "description": "HUSKY",
+        "points": 13
+      },
+      {
+        "description": "DALMATYŃCZYK",
+        "points": 8
+      },
+      {
+        "description": "YORK",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "description": "Podaj przykład rasy kota?",
+    "answers": [
+      {
+        "description": "BRYTYJSKI",
+        "points": 27
+      },
+      {
+        "description": "MAINE COON",
+        "points": 21
+      },
+      {
+        "description": "PERSKI",
+        "points": 18
+      },
+      {
+        "description": "SZKOCKI",
+        "points": 17
+      },
+      {
+        "description": "SYJAMSKI",
+        "points": 12
+      },
+      {
+        "description": "RAGDOLL",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "description": "Jak potocznie powiemy na dwuosobowy zespół?",
+    "answers": [
+      {
+        "description": "PARA",
+        "points": 41
+      },
+      {
+        "description": "DUET",
+        "points": 36
+      },
+      {
+        "description": "TANDEM",
+        "points": 23
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "description": "Jak potocznie powiemy na sklep z używaną odzieżą?",
+    "answers": [
+      {
+        "description": "LUMPEKS",
+        "points": 39
+      },
+      {
+        "description": "SECOND HAND",
+        "points": 32
+      },
+      {
+        "description": "CIUCHOLAND",
+        "points": 29
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "themes": ["wedding"],
+    "description": "Kiedy idziemy ze znajomymi się zabawić, to mówimy, że idziemy na?",
+    "answers": [
+      {
+        "description": "IMPREZĘ",
+        "points": 27
+      },
+      {
+        "description": "BALETY",
+        "points": 21
+      },
+      {
+        "description": "MIASTO",
+        "points": 18
+      },
+      {
+        "description": "MELANŻ",
+        "points": 17
+      },
+      {
+        "description": "KLUBY",
+        "points": 12
+      },
+      {
+        "description": "BALANGĘ",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "description": "Jakie są mitologie?",
+    "answers": [
+      {
+        "description": "GRECKA",
+        "points": 26
+      },
+      {
+        "description": "RZYMSKA",
+        "points": 24
+      },
+      {
+        "description": "EGIPSKA",
+        "points": 19
+      },
+      {
+        "description": "NORDYCKA",
+        "points": 18
+      },
+      {
+        "description": "SŁOWIAŃSKA",
+        "points": 11
+      },
+      {
+        "description": "CHIŃSKA",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "description": "Jaka może być strefa?",
+    "answers": [
+      {
+        "description": "BEZCŁOWA",
+        "points": 25
+      },
+      {
+        "description": "KOMFORTU",
+        "points": 24
+      },
+      {
+        "description": "SZARA",
+        "points": 22
+      },
+      {
+        "description": "CZASOWA",
+        "points": 13
+      },
+      {
+        "description": "PŁATNEGO PARKOWANIA",
+        "points": 12
+      },
+      {
+        "description": "51",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "description": "Pójść do więzienia to inaczej pójść do?",
+    "answers": [
+      {
+        "description": "PUDŁA",
+        "points": 27
+      },
+      {
+        "description": "KICIA",
+        "points": 25
+      },
+      {
+        "description": "PAKI",
+        "points": 21
+      },
+      {
+        "description": "CIUPY",
+        "points": 15
+      },
+      {
+        "description": "KRYMINAŁU",
+        "points": 8
+      },
+      {
+        "description": "MAMRA",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "themes": ["favourite"],
+    "description": "Podaj przykład zwierzęcia, które porusza się skacząc",
+    "answers": [
+      {
+        "description": "KANGUR",
+        "points": 27
+      },
+      {
+        "description": "KRÓLIK",
+        "points": 25
+      },
+      {
+        "description": "ŻABA",
+        "points": 21
+      },
+      {
+        "description": "KONIK POLNY",
+        "points": 15
+      },
+      {
+        "description": "PCHŁA",
+        "points": 8
+      },
+      {
+        "description": "WRÓBEL",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "themes": ["wedding"],
+    "description": "Jakie kwiaty dajemy na prezent?",
+    "answers": [
+      {
+        "description": "TULIPANY",
+        "points": 30
+      },
+      {
+        "description": "GOŹDZIKI",
+        "points": 25
+      },
+      {
+        "description": "GERBERY",
+        "points": 18
+      },
+      {
+        "description": "RÓŻE",
+        "points": 17
+      },
+      {
+        "description": "FREZJE",
+        "points": 8
+      },
+      {
+        "description": "LILIE",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "description": "Podaj przykład rośliny domowej",
+    "answers": [
+      {
+        "description": "MONSTERA",
+        "points": 28
+      },
+      {
+        "description": "PAPROTKA",
+        "points": 22
+      },
+      {
+        "description": "KAKTUS",
+        "points": 17
+      },
+      {
+        "description": "ALOES",
+        "points": 16
+      },
+      {
+        "description": "FIKUS",
+        "points": 14
+      },
+      {
+        "description": "PALMA",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "description": "Co kupujemy w słoiku?",
+    "answers": [
+      {
+        "description": "DŻEM",
+        "points": 36
+      },
+      {
+        "description": "OGÓRKI",
+        "points": 33
+      },
+      {
+        "description": "SOSY",
+        "points": 11
+      },
+      {
+        "description": "MIÓD",
+        "points": 8
+      },
+      {
+        "description": "BURACZKI",
+        "points": 7
+      },
+      {
+        "description": "ZUPĘ",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "description": "Podaj przykład znanego filmu z Leonardo Di Caprio?",
+    "answers": [
+      {
+        "description": "TITANIC",
+        "points": 32
+      },
+      {
+        "description": "INCEPCJA",
+        "points": 30
+      },
+      {
+        "description": "WIELKI GATSBY",
+        "points": 17
+      },
+      {
+        "description": "WILK Z WALL STREET",
+        "points": 14
+      },
+      {
+        "description": "NIE PATRZ W GÓRĘ",
+        "points": 5
+      },
+      {
+        "description": "WYSPA TAJEMNIC",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "description": "Podaj przykład dinozaura",
+    "answers": [
+      {
+        "description": "TYRANOZAUR",
+        "points": 28
+      },
+      {
+        "description": "PTERODAKTYL",
+        "points": 22
+      },
+      {
+        "description": "WELOCIRAPTOR",
+        "points": 17
+      },
+      {
+        "description": "TRICERATOPS",
+        "points": 16
+      },
+      {
+        "description": "STEGOZAUR",
+        "points": 14
+      },
+      {
+        "description": "DIPLODOK",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "themes": ["favourite"],
+    "description": "Podaj przykład polskiego miasta na literę W",
+    "answers": [
+      {
+        "description": "WARSZAWA",
+        "points": 28
+      },
+      {
+        "description": "WROCŁAW",
+        "points": 21
+      },
+      {
+        "description": "WAŁBRZYCH",
+        "points": 16
+      },
+      {
+        "description": "WEJHEROWO",
+        "points": 15
+      },
+      {
+        "description": "WŁADYSŁAWOWO",
+        "points": 13
+      },
+      {
+        "description": "WIELICZKA",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "themes": ["favourite"],
+    "description": "Co może być nagrodą za dobrze wykonaną pracę?",
+    "answers": [
+      {
+        "description": "PODWYŻKA",
+        "points": 32
+      },
+      {
+        "description": "AWANS",
+        "points": 25
+      },
+      {
+        "description": "PREMIA",
+        "points": 14
+      },
+      {
+        "description": "POCHWAŁA",
+        "points": 12
+      },
+      {
+        "description": "SATYSFAKCJA",
+        "points": 10
+      },
+      {
+        "description": "URLOP",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "description": "Podaj tytuł baśni na dobranoc",
+    "answers": [
+      {
+        "description": "KRÓLEWNA ŚNIEŻKA",
+        "points": 28
+      },
+      {
+        "description": "CZERWONY KAPTUREK",
+        "points": 20
+      },
+      {
+        "description": "KOPCIUSZEK",
+        "points": 17
+      },
+      {
+        "description": "JAŚ I MAŁGOSIA",
+        "points": 14
+      },
+      {
+        "description": "ŚPIĄCA KRÓLEWNA",
+        "points": 12
+      },
+      {
+        "description": "BRZYDKIE KACZĄTKO",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "description": "Jak powiemy pieszczotliwie o dziecku",
+    "answers": [
+      {
+        "description": "BRZDĄC",
+        "points": 26
+      },
+      {
+        "description": "SMYK",
+        "points": 22
+      },
+      {
+        "description": "SZKRAB",
+        "points": 19
+      },
+      {
+        "description": "MALEC",
+        "points": 15
+      },
+      {
+        "description": "BĄBELEK",
+        "points": 11
+      },
+      {
+        "description": "BERBEĆ",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "description": "Jak potocznie powiemy na ducha?",
+    "answers": [
+      {
+        "description": "ZJAWA",
+        "points": 39
+      },
+      {
+        "description": "MARA",
+        "points": 32
+      },
+      {
+        "description": "UPIÓR",
+        "points": 29
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "description": "Jak potocznie powiemy na krowę?",
+    "answers": [
+      {
+        "description": "MUĆKA",
+        "points": 39
+      },
+      {
+        "description": "KRASULA",
+        "points": 33
+      },
+      {
+        "description": "ŁACIATA",
+        "points": 28
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "description": "Jak potocznie powiemy na znajomego?",
+    "answers": [
+      {
+        "description": "KOLEGA",
+        "points": 22
+      },
+      {
+        "description": "KUMPEL",
+        "points": 20
+      },
+      {
+        "description": "ZIOMEK",
+        "points": 19
+      },
+      {
+        "description": "DRUH",
+        "points": 15
+      },
+      {
+        "description": "KOMPAN",
+        "points": 13
+      },
+      {
+        "description": "KAMRAT",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "description": "Podaj tytuł kultowej polskiej komedii?",
+    "answers": [
+      {
+        "description": "KILER",
+        "points": 26
+      },
+      {
+        "description": "DZIEŃ ŚWIRA",
+        "points": 21
+      },
+      {
+        "description": "CHŁOPAKI NIE PŁACZĄ",
+        "points": 20
+      },
+      {
+        "description": "SEKSMISJA",
+        "points": 14
+      },
+      {
+        "description": "KILER-ÓW 2-ÓCH",
+        "points": 13
+      },
+      {
+        "description": "MIŚ",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "description": "Jaki może być rok?",
+    "answers": [
+      {
+        "description": "KALENDARZOWY",
+        "points": 31
+      },
+      {
+        "description": "PRZESTĘPNY",
+        "points": 27
+      },
+      {
+        "description": "SZKOLNY",
+        "points": 18
+      },
+      {
+        "description": "AKADEMICKI",
+        "points": 12
+      },
+      {
+        "description": "ŚWIETLNY",
+        "points": 7
+      },
+      {
+        "description": "LITURGICZNY",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "description": "Jaka może być woda?",
+    "answers": [
+      {
+        "description": "GAZOWANA / NIEGAZOWANA",
+        "points": 31
+      },
+      {
+        "description": "MINERALNA",
+        "points": 26
+      },
+      {
+        "description": "ŚWIĘCONA",
+        "points": 18
+      },
+      {
+        "description": "SMAKOWA",
+        "points": 10
+      },
+      {
+        "description": "TOALETOWA",
+        "points": 8
+      },
+      {
+        "description": "UTLENIONA",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "themes": ["favourite"],
+    "description": "Co może być ślepe, ale nie dosłownie?",
+    "answers": [
+      {
+        "description": "MIŁOŚĆ",
+        "points": 25
+      },
+      {
+        "description": "LOS",
+        "points": 21
+      },
+      {
+        "description": "ULICZKA",
+        "points": 18
+      },
+      {
+        "description": "NABÓJ",
+        "points": 15
+      },
+      {
+        "description": "KISZKA",
+        "points": 14
+      },
+      {
+        "description": "KUCHNIA",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "description": "W jakie gry można zagrać w kasynie?",
+    "answers": [
+      {
+        "description": "POKER",
+        "points": 26
+      },
+      {
+        "description": "RULETKA",
+        "points": 20
+      },
+      {
+        "description": "BLACKJACK",
+        "points": 19
+      },
+      {
+        "description": "KOŚCI",
+        "points": 16
+      },
+      {
+        "description": "JEDNORĘKI BANDYTA",
+        "points": 15
+      },
+      {
+        "description": "BAKARAT",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "themes": ["favourite"],
+    "description": "Coś mlecznego, ale nie dosłownie?",
+    "answers": [
+      {
+        "description": "ZĄB",
+        "points": 37
+      },
+      {
+        "description": "BAR",
+        "points": 33
+      },
+      {
+        "description": "DROGA",
+        "points": 30
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "themes": ["favourite"],
+    "description": "Co nie jest człowiekiem, a bywa święte?",
+    "answers": [
+      {
+        "description": "SPOKÓJ",
+        "points": 43
+      },
+      {
+        "description": "PRAWDA",
+        "points": 39
+      },
+      {
+        "description": "KROWA",
+        "points": 18
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "description": "W reklamach jakich firm występował Robert Lewandowski?",
+    "answers": [
+      {
+        "description": "HUAWEI",
+        "points": 26
+      },
+      {
+        "description": "T-MOBILE",
+        "points": 23
+      },
+      {
+        "description": "HEAD & SHOULDERS",
+        "points": 21
+      },
+      {
+        "description": "GILLETE",
+        "points": 18
+      },
+      {
+        "description": "NIKE",
+        "points": 8
+      },
+      {
+        "description": "VISTULA",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "description": "Jaka może być gałka?",
+    "answers": [
+      {
+        "description": "LODÓW",
+        "points": 27
+      },
+      {
+        "description": "MUSZKATOŁOWA",
+        "points": 23
+      },
+      {
+        "description": "DO DRZWI",
+        "points": 19
+      },
+      {
+        "description": "OCZNA",
+        "points": 18
+      },
+      {
+        "description": "ZMIANY BIEGÓW",
+        "points": 10
+      },
+      {
+        "description": "RADIA",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "description": "Co możemy nazwać jako organy?",
+    "answers": [
+      {
+        "description": "INSTRUMENT",
+        "points": 40
+      },
+      {
+        "description": "NARZĄDY",
+        "points": 35
+      },
+      {
+        "description": "INSTYTUCJE",
+        "points": 25
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "description": "Podaj przykłady darmowych przedmiotów jakimi reklamują się firmy?",
+    "answers": [
+      {
+        "description": "DŁUGOPISY",
+        "points": 25
+      },
+      {
+        "description": "KUBKI",
+        "points": 22
+      },
+      {
+        "description": "SMYCZE",
+        "points": 21
+      },
+      {
+        "description": "KALENDARZE",
+        "points": 12
+      },
+      {
+        "description": "NOTESY",
+        "points": 11
+      },
+      {
+        "description": "KOSZULKI",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "description": "Jak potocznie powiemy na mężczyznę?",
+    "answers": [
+      {
+        "description": "FACET",
+        "points": 26
+      },
+      {
+        "description": "KOLEŚ",
+        "points": 18
+      },
+      {
+        "description": "TYP",
+        "points": 17
+      },
+      {
+        "description": "CHŁOP",
+        "points": 15
+      },
+      {
+        "description": "GOŚCIU",
+        "points": 14
+      },
+      {
+        "description": "ZIOMEK",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "description": "Jak potocznie powiemy na las?",
+    "answers": [
+      {
+        "description": "PUSZCZA",
+        "points": 31
+      },
+      {
+        "description": "BÓR",
+        "points": 25
+      },
+      {
+        "description": "GAJ",
+        "points": 19
+      },
+      {
+        "description": "DŻUNGLA",
+        "points": 15
+      },
+      {
+        "description": "KNIEJA",
+        "points": 6
+      },
+      {
+        "description": "OSTĘP",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "description": "Jak potocznie powiemy na popularną osobę?",
+    "answers": [
+      {
+        "description": "GWIAZDA",
+        "points": 38
+      },
+      {
+        "description": "CELEBRYTA",
+        "points": 33
+      },
+      {
+        "description": "SŁAWA",
+        "points": 29
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "description": "Jak potocznie powiemy na ziemniaki?",
+    "answers": [
+      {
+        "description": "KARTOFLE",
+        "points": 39
+      },
+      {
+        "description": "BULWY",
+        "points": 32
+      },
+      {
+        "description": "PYRY",
+        "points": 29
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "description": "Podaj przykład firmy, która ma zwierzę w swoim logotypie?",
+    "answers": [
+      {
+        "description": "BIEDRONKA",
+        "points": 29
+      },
+      {
+        "description": "RED BULL",
+        "points": 27
+      },
+      {
+        "description": "JAGUAR",
+        "points": 13
+      },
+      {
+        "description": "LACOSTE",
+        "points": 12
+      },
+      {
+        "description": "ING BANK",
+        "points": 10
+      },
+      {
+        "description": "PLAYBOY",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "description": "Jaka może być kasza?",
+    "answers": [
+      {
+        "description": "MANNA",
+        "points": 27
+      },
+      {
+        "description": "GRYCZANA",
+        "points": 25
+      },
+      {
+        "description": "KUSKUS",
+        "points": 17
+      },
+      {
+        "description": "JAGLANA",
+        "points": 12
+      },
+      {
+        "description": "BULGUR",
+        "points": 10
+      },
+      {
+        "description": "PĘCZAK",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "description": "Jaka może być sesja?",
+    "answers": [
+      {
+        "description": "ZDJĘCIOWA",
+        "points": 32
+      },
+      {
+        "description": "EGZAMINACYJNA",
+        "points": 28
+      },
+      {
+        "description": "TERAPEUTYCZNA",
+        "points": 17
+      },
+      {
+        "description": "RADY MIASTA",
+        "points": 13
+      },
+      {
+        "description": "BANKOWA",
+        "points": 7
+      },
+      {
+        "description": "UŻYTKOWNIKA",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "themes": ["favourite"],
+    "description": "Jaka może być sieć?",
+    "answers": [
+      {
+        "description": "KOMÓRKOWA",
+        "points": 28
+      },
+      {
+        "description": "KOMPUTEROWA",
+        "points": 24
+      },
+      {
+        "description": "RYBACKA",
+        "points": 21
+      },
+      {
+        "description": "PAJĘCZA",
+        "points": 15
+      },
+      {
+        "description": "TRAKCYJNA",
+        "points": 8
+      },
+      {
+        "description": "NEURONOWA",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "themes": ["favourite"],
+    "description": "Jaki może być klucz?",
+    "answers": [
+      {
+        "description": "DO DRZWI",
+        "points": 29
+      },
+      {
+        "description": "FRANCUSKI",
+        "points": 23
+      },
+      {
+        "description": "WIOLINOWY",
+        "points": 19
+      },
+      {
+        "description": "PTAKÓW",
+        "points": 15
+      },
+      {
+        "description": "ODPOWIEDZI",
+        "points": 10
+      },
+      {
+        "description": "AKTYWACYJNY",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "description": "Co jest najważniejsze w życiu?",
+    "answers": [
+      {
+        "description": "MIŁOŚĆ",
+        "points": 30
+      },
+      {
+        "description": "RODZINA",
+        "points": 28
+      },
+      {
+        "description": "ZDROWIE",
+        "points": 18
+      },
+      {
+        "description": "PRACA",
+        "points": 10
+      },
+      {
+        "description": "PIENIĄDZE",
+        "points": 8
+      },
+      {
+        "description": "HOBBY",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "description": "Jakie są najpopularniejsze imiona w Polsce?",
+    "answers": [
+      {
+        "description": "JAN",
+        "points": 29
+      },
+      {
+        "description": "ANNA",
+        "points": 26
+      },
+      {
+        "description": "KATARZYNA",
+        "points": 16
+      },
+      {
+        "description": "PIOTR",
+        "points": 12
+      },
+      {
+        "description": "MARIA",
+        "points": 11
+      },
+      {
+        "description": "ANDRZEJ",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "description": "Jakie są najczęstsze sposoby spędzania wolnego czasu?",
+    "answers": [
+      {
+        "description": "OGLĄDANIE FILMÓW/SERIALI",
+        "points": 31
+      },
+      {
+        "description": "SPORT",
+        "points": 25
+      },
+      {
+        "description": "CZYTANIE KSIĄŻEK",
+        "points": 20
+      },
+      {
+        "description": "GRY KOMPUTEROWE",
+        "points": 10
+      },
+      {
+        "description": "WYPOCZYNEK NA ŁONIE NATURY",
+        "points": 9
+      },
+      {
+        "description": "SŁUCHANIE MUZYKI",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "description": "Jak potocznie powiemy na rabat?",
+    "answers": [
+      {
+        "description": "PROMOCJA",
+        "points": 30
+      },
+      {
+        "description": "PRZECENA",
+        "points": 23
+      },
+      {
+        "description": "ZNIŻKA",
+        "points": 18
+      },
+      {
+        "description": "OPUST",
+        "points": 11
+      },
+      {
+        "description": "OKAZJA",
+        "points": 10
+      },
+      {
+        "description": "ULGA",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "description": "Co najczęściej Polacy wybierają na śniadanie?",
+    "answers": [
+      {
+        "description": "KANAPKI",
+        "points": 30
+      },
+      {
+        "description": "JAJECZNICĘ",
+        "points": 26
+      },
+      {
+        "description": "OWSIANKĘ",
+        "points": 16
+      },
+      {
+        "description": "PŁATKI Z MLEKIEM",
+        "points": 11
+      },
+      {
+        "description": "PARÓWKI",
+        "points": 9
+      },
+      {
+        "description": "NIC",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "description": "Dodaj przedrostek do -KAZ, aby powstało nowe słowo",
+    "answers": [
+      {
+        "description": "NAKAZ",
+        "points": 31
+      },
+      {
+        "description": "ZAKAZ",
+        "points": 27
+      },
+      {
+        "description": "POKAZ",
+        "points": 16
+      },
+      {
+        "description": "ROZKAZ",
+        "points": 11
+      },
+      {
+        "description": "WYKAZ",
+        "points": 9
+      },
+      {
+        "description": "OKAZ",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "description": "Co każdy mężczyzna powinien mieć w skrzynce z narzędziami?",
+    "answers": [
+      {
+        "description": "ŚRUBOKRĘT",
+        "points": 30
+      },
+      {
+        "description": "KLUCZE",
+        "points": 20
+      },
+      {
+        "description": "IMBUSY",
+        "points": 18
+      },
+      {
+        "description": "KOMBINERKI",
+        "points": 15
+      },
+      {
+        "description": "CENTYMETR",
+        "points": 10
+      },
+      {
+        "description": "MŁOTEK",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "description": "Jaka lub czego może być część?",
+    "answers": [
+      {
+        "description": "CIAŁA",
+        "points": 26
+      },
+      {
+        "description": "KSIĄŻKI/FILMU",
+        "points": 24
+      },
+      {
+        "description": "MIASTA",
+        "points": 17
+      },
+      {
+        "description": "ZAMIENNA",
+        "points": 14
+      },
+      {
+        "description": "MOWY",
+        "points": 12
+      },
+      {
+        "description": "WSPÓLNA",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "description": "Podaj przykład jedzenia typu fast-food?",
+    "answers": [
+      {
+        "description": "PIZZA",
+        "points": 30
+      },
+      {
+        "description": "BURGER",
+        "points": 25
+      },
+      {
+        "description": "KEBAB",
+        "points": 20
+      },
+      {
+        "description": "HOT-DOG",
+        "points": 10
+      },
+      {
+        "description": "WRAP/TORTILLA",
+        "points": 8
+      },
+      {
+        "description": "FRYTKI",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "description": "Dzień kogo obchodzimy w Polsce?",
+    "answers": [
+      {
+        "description": "MATKI/OJCA",
+        "points": 25
+      },
+      {
+        "description": "BABCI/DZIADKA",
+        "points": 20
+      },
+      {
+        "description": "KOBIET/MĘŻCZYZNY",
+        "points": 18
+      },
+      {
+        "description": "DZIECKA",
+        "points": 15
+      },
+      {
+        "description": "NAUCZYCIELA",
+        "points": 12
+      },
+      {
+        "description": "ZAKOCHANYCH",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "description": "Jakie nowe słowo można utworzyć z liter słowa KRAB?",
+    "answers": [
+      {
+        "description": "BRAK",
+        "points": 28
+      },
+      {
+        "description": "RAK",
+        "points": 25
+      },
+      {
+        "description": "BAR",
+        "points": 18
+      },
+      {
+        "description": "BARK",
+        "points": 15
+      },
+      {
+        "description": "BAK",
+        "points": 9
+      },
+      {
+        "description": "AR",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "description": "Na co zwracamy uwagę gdy kupujemy odzież?",
+    "answers": [
+      {
+        "description": "KOLOR",
+        "points": 31
+      },
+      {
+        "description": "CENĘ",
+        "points": 25
+      },
+      {
+        "description": "ROZMIAR",
+        "points": 20
+      },
+      {
+        "description": "MARKĘ",
+        "points": 12
+      },
+      {
+        "description": "JAKOŚĆ",
+        "points": 7
+      },
+      {
+        "description": "MATERIAŁ WYKONANIA",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "description": "Najważniejszy zdrowe nawyki to?",
+    "answers": [
+      {
+        "description": "DOBRA DIETA",
+        "points": 28
+      },
+      {
+        "description": "REGULARNE ĆWICZENIA",
+        "points": 24
+      },
+      {
+        "description": "8 GODZIN SNU",
+        "points": 19
+      },
+      {
+        "description": "BRAK UŻYWEK",
+        "points": 13
+      },
+      {
+        "description": "PICIE WODY",
+        "points": 10
+      },
+      {
+        "description": "KONTROLNE WIZYTY U LEKARZY",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "description": "Gdzie dzwonimy jeśli mieliśmy wypadek?",
+    "answers": [
+      {
+        "description": "NA POGOTOWIE",
+        "points": 30
+      },
+      {
+        "description": "NA POLICJĘ",
+        "points": 25
+      },
+      {
+        "description": "DO RODZINY",
+        "points": 18
+      },
+      {
+        "description": "DO UBEZPIECZYCIELA",
+        "points": 12
+      },
+      {
+        "description": "PO LAWETĘ",
+        "points": 10
+      },
+      {
+        "description": "DO PRACY",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "description": "Co może być czynne całodobowo?",
+    "answers": [
+      {
+        "description": "SZPITAL",
+        "points": 30
+      },
+      {
+        "description": "APTEKA",
+        "points": 26
+      },
+      {
+        "description": "DWORZEC",
+        "points": 19
+      },
+      {
+        "description": "STACJA BENZYNOWA",
+        "points": 13
+      },
+      {
+        "description": "RESTAURACJA FAST-FOOD",
+        "points": 7
+      },
+      {
+        "description": "SKLEP MONOPOLOWY",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "themes": ["favourite"],
+    "description": "Dlaczego dmuchamy?",
+    "answers": [
+      {
+        "description": "ŻEBY COŚ ZDMUCHNĄĆ",
+        "points": 30
+      },
+      {
+        "description": "ŻEBY NADMUCHAĆ BALON",
+        "points": 22
+      },
+      {
+        "description": "ŻEBY COŚ OSTUDZIĆ",
+        "points": 17
+      },
+      {
+        "description": "BO SIĘ OPARZYLIŚMY",
+        "points": 14
+      },
+      {
+        "description": "KONTROLA TRZEŹWOŚCI",
+        "points": 10
+      },
+      {
+        "description": "ŻEBY WZNIECIĆ PŁOMIEŃ",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "description": "Podaj przykład koloru, który wziął nazwę od owocu?",
+    "answers": [
+      {
+        "description": "POMARAŃCZOWY",
+        "points": 30
+      },
+      {
+        "description": "ŚLIWKOWY",
+        "points": 25
+      },
+      {
+        "description": "WIŚNIOWY",
+        "points": 20
+      },
+      {
+        "description": "BRZOSKWINIOWY",
+        "points": 12
+      },
+      {
+        "description": "CYTRYNOWY",
+        "points": 8
+      },
+      {
+        "description": "MALINOWY",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "description": "Co robimy na wiosenne porządki?",
+    "answers": [
+      {
+        "description": "MYJEMY OKNA",
+        "points": 30
+      },
+      {
+        "description": "ODKURZAMY",
+        "points": 26
+      },
+      {
+        "description": "PIERZEMY",
+        "points": 19
+      },
+      {
+        "description": "CZYŚCIMY SPRZĘT AGD",
+        "points": 13
+      },
+      {
+        "description": "MYJEMY PODŁOGI",
+        "points": 7
+      },
+      {
+        "description": "WYRZUCAMY GRATY",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "description": "Gdzie najczęściej śpiewamy?",
+    "answers": [
+      {
+        "description": "NA KONCERCIE",
+        "points": 30
+      },
+      {
+        "description": "NA URODZINACH",
+        "points": 25
+      },
+      {
+        "description": "NA KARAOKE",
+        "points": 20
+      },
+      {
+        "description": "NA WESELU",
+        "points": 12
+      },
+      {
+        "description": "POD PRYSZNICEM",
+        "points": 8
+      },
+      {
+        "description": "W KOŚCIELE",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "description": "Przymiotnik określający lisa?",
+    "answers": [
+      {
+        "description": "RUDY",
+        "points": 28
+      },
+      {
+        "description": "CHYTRY",
+        "points": 25
+      },
+      {
+        "description": "SZCZWANY",
+        "points": 18
+      },
+      {
+        "description": "SPRYTNY",
+        "points": 12
+      },
+      {
+        "description": "PRZEBIEGŁY",
+        "points": 10
+      },
+      {
+        "description": "FARBOWANY",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "description": "Jakie są najpopularniejsze miejscowości turystyczne w Polsce?",
+    "answers": [
+      {
+        "description": "KRAKÓW",
+        "points": 26
+      },
+      {
+        "description": "WARSZAWA",
+        "points": 23
+      },
+      {
+        "description": "ZAKOPANE",
+        "points": 17
+      },
+      {
+        "description": "GDAŃSK",
+        "points": 14
+      },
+      {
+        "description": "WROCŁAW",
+        "points": 11
+      },
+      {
+        "description": "TORUŃ",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "description": "Jakie są najpopularniejsze marki odzieżowe w Polsce?",
+    "answers": [
+      {
+        "description": "RESERVED",
+        "points": 31
+      },
+      {
+        "description": "CROPP",
+        "points": 24
+      },
+      {
+        "description": "H&M",
+        "points": 15
+      },
+      {
+        "description": "ZARA",
+        "points": 13
+      },
+      {
+        "description": "MOHITO",
+        "points": 12
+      },
+      {
+        "description": "HOUSE",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "description": "Jakie są najważniejsze cechy dobrego nauczyciela?",
+    "answers": [
+      {
+        "description": "WIEDZA",
+        "points": 25
+      },
+      {
+        "description": "PODEJŚCIE",
+        "points": 21
+      },
+      {
+        "description": "ZAANGAŻOWANIE",
+        "points": 18
+      },
+      {
+        "description": "CIERPLIWOŚĆ",
+        "points": 14
+      },
+      {
+        "description": "EMPATIA",
+        "points": 13
+      },
+      {
+        "description": "POCZUCIE HUMORU",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "description": "Jakie są najczęstsze przyczyny stresu?",
+    "answers": [
+      {
+        "description": "PRACA",
+        "points": 28
+      },
+      {
+        "description": "PROBLEMY RODZINNE",
+        "points": 25
+      },
+      {
+        "description": "PROBLEMY FINANSOWE",
+        "points": 22
+      },
+      {
+        "description": "ZDROWIE",
+        "points": 13
+      },
+      {
+        "description": "KŁOPOTY Z NAUKĄ",
+        "points": 8
+      },
+      {
+        "description": "KONFLIKTY Z LUDŹMI",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "description": "Jak potocznie powiemy o broni palnej?",
+    "answers": [
+      {
+        "description": "PISTOLET",
+        "points": 31
+      },
+      {
+        "description": "KARABIN",
+        "points": 30
+      },
+      {
+        "description": "SPLUWA",
+        "points": 14
+      },
+      {
+        "description": "GIWERA",
+        "points": 12
+      },
+      {
+        "description": "GNAT",
+        "points": 10
+      },
+      {
+        "description": "PUKAWKA",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "themes": ["favourite"],
+    "description": "Coś włoskiego?",
+    "answers": [
+      {
+        "description": "KUCHNIA",
+        "points": 30
+      },
+      {
+        "description": "ORZECH",
+        "points": 22
+      },
+      {
+        "description": "LODY",
+        "points": 20
+      },
+      {
+        "description": "KOPER",
+        "points": 16
+      },
+      {
+        "description": "JĘZYK",
+        "points": 8
+      },
+      {
+        "description": "MODA",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "description": "Coś soczystego?",
+    "answers": [
+      {
+        "description": "OWOC",
+        "points": 40
+      },
+      {
+        "description": "MIĘSO",
+        "points": 34
+      },
+      {
+        "description": "BUZIAK",
+        "points": 26
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "description": "Jak potocznie powiemy na osobę, która lubi jeść?",
+    "answers": [
+      {
+        "description": "ŁASUCH",
+        "points": 28
+      },
+      {
+        "description": "PASIBRZUCH",
+        "points": 20
+      },
+      {
+        "description": "ŁAKOMCZUCH",
+        "points": 19
+      },
+      {
+        "description": "ŻARŁOK",
+        "points": 16
+      },
+      {
+        "description": "GŁODOMÓR",
+        "points": 10
+      },
+      {
+        "description": "OBŻARCIUCH",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "description": "Jak potocznie powiemy na samochód?",
+    "answers": [
+      {
+        "description": "AUTO",
+        "points": 31
+      },
+      {
+        "description": "FURA",
+        "points": 25
+      },
+      {
+        "description": "BRYKA",
+        "points": 19
+      },
+      {
+        "description": "WÓZ",
+        "points": 14
+      },
+      {
+        "description": "GABLOTA",
+        "points": 7
+      },
+      {
+        "description": "4 KÓŁKA",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "description": "Jaką plamę najtrudniej usunąć z ubrania?",
+    "answers": [
+      {
+        "description": "Z WINA",
+        "points": 23
+      },
+      {
+        "description": "Z OLEJU",
+        "points": 22
+      },
+      {
+        "description": "Z KRWI",
+        "points": 18
+      },
+      {
+        "description": "Z KAWY",
+        "points": 17
+      },
+      {
+        "description": "PO TRAWIE",
+        "points": 13
+      },
+      {
+        "description": "PO ATRAMENCIE",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "themes": ["favourite"],
+    "description": "Jaki kraj ma na fladze przynajmniej jedną gwiazdę?",
+    "answers": [
+      {
+        "description": "USA",
+        "points": 27
+      },
+      {
+        "description": "CHINY",
+        "points": 22
+      },
+      {
+        "description": "AUSTRALIA",
+        "points": 17
+      },
+      {
+        "description": "TURCJA",
+        "points": 14
+      },
+      {
+        "description": "IZRAEL",
+        "points": 11
+      },
+      {
+        "description": "BRAZYLIA",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "description": "Jaki może być urząd?",
+    "answers": [
+      {
+        "description": "SKARBOWY",
+        "points": 28
+      },
+      {
+        "description": "MIASTA",
+        "points": 23
+      },
+      {
+        "description": "STANU CYWILNEGO",
+        "points": 21
+      },
+      {
+        "description": "PRACY",
+        "points": 14
+      },
+      {
+        "description": "STATYSTYCZNY",
+        "points": 9
+      },
+      {
+        "description": "OCHRONY KONSUMENTA",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "description": "Jaki posiłek nauczyliśmy się przygotowywać jako pierwszy w życiu?",
+    "answers": [
+      {
+        "description": "JAJECZNICA",
+        "points": 26
+      },
+      {
+        "description": "KANAPKI",
+        "points": 23
+      },
+      {
+        "description": "PARÓWKI",
+        "points": 19
+      },
+      {
+        "description": "ZUPKA CHIŃSKA",
+        "points": 15
+      },
+      {
+        "description": "PŁATKI Z MLEKIEM",
+        "points": 11
+      },
+      {
+        "description": "NALEŚNIKI",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "description": "Jakie klawisze oprócz liter i cyfr znajdują się na klawiaturze komputerowej?",
+    "answers": [
+      {
+        "description": "ENTER",
+        "points": 25
+      },
+      {
+        "description": "SPACJA",
+        "points": 23
+      },
+      {
+        "description": "CTRL",
+        "points": 17
+      },
+      {
+        "description": "SHIFT",
+        "points": 15
+      },
+      {
+        "description": "ESC",
+        "points": 11
+      },
+      {
+        "description": "ALT",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "description": "Jaki kolor może miec róża?",
+    "answers": [
+      {
+        "description": "CZERWONY",
+        "points": 25
+      },
+      {
+        "description": "BIAŁY",
+        "points": 23
+      },
+      {
+        "description": "ŻÓŁTY",
+        "points": 17
+      },
+      {
+        "description": "POMARAŃCZOWY",
+        "points": 15
+      },
+      {
+        "description": "RÓŻOWY",
+        "points": 11
+      },
+      {
+        "description": "FIOLETOWY",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "description": "Jaka może być mąka?",
+    "answers": [
+      {
+        "description": "PSZENNA",
+        "points": 25
+      },
+      {
+        "description": "ŻYTNIA",
+        "points": 23
+      },
+      {
+        "description": "RAZOWA",
+        "points": 20
+      },
+      {
+        "description": "ZIEMNIACZANA",
+        "points": 17
+      },
+      {
+        "description": "KUKURYDZIANA",
+        "points": 9
+      },
+      {
+        "description": "PEŁNOZIARNISTA",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "description": "Jakie może być mleko?",
+    "answers": [
+      {
+        "description": "KROWIE",
+        "points": 29
+      },
+      {
+        "description": "ZSIADŁE",
+        "points": 20
+      },
+      {
+        "description": "KOZIE",
+        "points": 17
+      },
+      {
+        "description": "KOKOSOWE",
+        "points": 14
+      },
+      {
+        "description": "SOJOWE",
+        "points": 12
+      },
+      {
+        "description": "W PROSZKU",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "description": "Jakie owoce NIE rosną na drzewach?",
+    "answers": [
+      {
+        "description": "TRUSKAWKA",
+        "points": 27
+      },
+      {
+        "description": "MALINA",
+        "points": 17
+      },
+      {
+        "description": "JAGODA",
+        "points": 16
+      },
+      {
+        "description": "WINOGRONA",
+        "points": 15
+      },
+      {
+        "description": "ARBUZ",
+        "points": 13
+      },
+      {
+        "description": "ANANAS",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "description": "Jakie rodzaje świateł mamy w samochodzie?",
+    "answers": [
+      {
+        "description": "DROGOWE",
+        "points": 23
+      },
+      {
+        "description": "MIJANIA",
+        "points": 18
+      },
+      {
+        "description": "KIERUNKOWSKAZY",
+        "points": 17
+      },
+      {
+        "description": "STOPU",
+        "points": 16
+      },
+      {
+        "description": "POZYCYJNE",
+        "points": 14
+      },
+      {
+        "description": "PRZECIWMGIELNE",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "description": "Jaka może być gumka?",
+    "answers": [
+      {
+        "description": "RECEPTURKA",
+        "points": 24
+      },
+      {
+        "description": "DO MAZANIA",
+        "points": 20
+      },
+      {
+        "description": "DO WŁOSÓW",
+        "points": 16
+      },
+      {
+        "description": "PREZERWATYWA",
+        "points": 15
+      },
+      {
+        "description": "DO ŻUCIA",
+        "points": 13
+      },
+      {
+        "description": "DO GRY",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "description": "Jakie układy kart znajdują się w pokerze?",
+    "answers": [
+      {
+        "description": "POKER",
+        "points": 26
+      },
+      {
+        "description": "PARA",
+        "points": 20
+      },
+      {
+        "description": "KOLOR",
+        "points": 16
+      },
+      {
+        "description": "KARETA",
+        "points": 14
+      },
+      {
+        "description": "FULL",
+        "points": 13
+      },
+      {
+        "description": "TRÓJKA",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "description": "Jakie wady najbardziej nam przeszkadzają w innych ludziach?",
+    "answers": [
+      {
+        "description": "LENISTWO",
+        "points": 21
+      },
+      {
+        "description": "CHCIWOŚĆ",
+        "points": 19
+      },
+      {
+        "description": "NIEUCZCIWOŚĆ",
+        "points": 17
+      },
+      {
+        "description": "EGOIZM",
+        "points": 16
+      },
+      {
+        "description": "ZAZDROŚĆ",
+        "points": 14
+      },
+      {
+        "description": "BRAK CIERPLIWOŚCI",
+        "points": 13
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "themes": ["favourite"],
+    "description": "Podaj niemetryczną miarę długości?",
+    "answers": [
+      {
+        "description": "MILA",
+        "points": 29
+      },
+      {
+        "description": "JARD",
+        "points": 17
+      },
+      {
+        "description": "CAL",
+        "points": 16
+      },
+      {
+        "description": "ŁOKIEĆ",
+        "points": 15
+      },
+      {
+        "description": "STOPA",
+        "points": 12
+      },
+      {
+        "description": "KROK",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "themes": ["favourite"],
+    "description": "Jaki może być kodeks?",
+    "answers": [
+      {
+        "description": "DROGOWY",
+        "points": 31
+      },
+      {
+        "description": "CYWILNY",
+        "points": 24
+      },
+      {
+        "description": "PRACY",
+        "points": 19
+      },
+      {
+        "description": "KARNY",
+        "points": 16
+      },
+      {
+        "description": "HANDLOWY",
+        "points": 7
+      },
+      {
+        "description": "ULICY",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "description": "Podaj przykład zaklęcia z Harrego Pottera?",
+    "answers": [
+      {
+        "description": "AVADA KEDAVRA",
+        "points": 21
+      },
+      {
+        "description": "WINGARDIUM LEVIOSA",
+        "points": 20
+      },
+      {
+        "description": "ALOHOMORA",
+        "points": 18
+      },
+      {
+        "description": "EXPECTO PATRONUM",
+        "points": 17
+      },
+      {
+        "description": "LUMOS",
+        "points": 16
+      },
+      {
+        "description": "PETRYFICUS TOTALUS",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "description": "Podaj przykład nazwy kształtu pieczywa?",
+    "answers": [
+      {
+        "description": "BUŁKA",
+        "points": 29
+      },
+      {
+        "description": "ROGAL",
+        "points": 24
+      },
+      {
+        "description": "BOCHENEK",
+        "points": 19
+      },
+      {
+        "description": "BAGIETKA",
+        "points": 16
+      },
+      {
+        "description": "BAJGIEL",
+        "points": 9
+      },
+      {
+        "description": "OBWARZANEK",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "description": "Jak potocznie powiemy na zwróconą zawartość żołądka?",
+    "answers": [
+      {
+        "description": "RZYGI",
+        "points": 34
+      },
+      {
+        "description": "WYMIOCIONY",
+        "points": 29
+      },
+      {
+        "description": "PAW",
+        "points": 16
+      },
+      {
+        "description": "HAFT",
+        "points": 11
+      },
+      {
+        "description": "BEŁT",
+        "points": 8
+      },
+      {
+        "description": "TORSJE",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "description": "Jak potocznie powiemy na nauczyciela?",
+    "answers": [
+      {
+        "description": "BELFER",
+        "points": 41
+      },
+      {
+        "description": "PAN/PANI OD",
+        "points": 35
+      },
+      {
+        "description": "PROFESOR",
+        "points": 24
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "themes": ["wedding"],
+    "description": "Jak potocznie powiemy na lenia?",
+    "answers": [
+      {
+        "description": "OBIBOK",
+        "points": 27
+      },
+      {
+        "description": "NIERÓB",
+        "points": 24
+      },
+      {
+        "description": "LESER",
+        "points": 19
+      },
+      {
+        "description": "TRUTEŃ",
+        "points": 13
+      },
+      {
+        "description": "WAŁKOŃ",
+        "points": 10
+      },
+      {
+        "description": "BUMELANT",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "description": "Co określimy słowem sztuka?",
+    "answers": [
+      {
+        "description": "TWÓRCZOŚĆ ARTYSTYCZNA",
+        "points": 22
+      },
+      {
+        "description": "PORCJA",
+        "points": 20
+      },
+      {
+        "description": "SPEKTAKL",
+        "points": 17
+      },
+      {
+        "description": "ILOŚĆ",
+        "points": 15
+      },
+      {
+        "description": "COŚ OKAZAŁEGO",
+        "points": 14
+      },
+      {
+        "description": "ZDOLNOŚCI",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "themes": ["favourite"],
+    "description": "Co kupujemy mając nadzieję tego nigdy nie użyć?",
+    "answers": [
+      {
+        "description": "BROŃ",
+        "points": 25
+      },
+      {
+        "description": "APTECZKA",
+        "points": 24
+      },
+      {
+        "description": "GAŚNICA",
+        "points": 22
+      },
+      {
+        "description": "UBEZPIECZENIE",
+        "points": 18
+      },
+      {
+        "description": "GAZ PIEPRZOWY",
+        "points": 7
+      },
+      {
+        "description": "PARALIZATOR",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "description": "Jaka może być kostka?",
+    "answers": [
+      {
+        "description": "RUBIKA",
+        "points": 30
+      },
+      {
+        "description": "DO GRY",
+        "points": 17
+      },
+      {
+        "description": "LODU",
+        "points": 16
+      },
+      {
+        "description": "CUKRU",
+        "points": 15
+      },
+      {
+        "description": "ROSOŁOWA",
+        "points": 13
+      },
+      {
+        "description": "BRUKOWA",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "description": "Jakie są najpopularniejsze teleturnieje w Polsce?",
+    "answers": [
+      {
+        "description": "FAMILIADA",
+        "points": 28
+      },
+      {
+        "description": "MILIONERZY",
+        "points": 22
+      },
+      {
+        "description": "KOŁO FORTUNY",
+        "points": 18
+      },
+      {
+        "description": "1 Z 10",
+        "points": 16
+      },
+      {
+        "description": "JAKA TO MELODIA?",
+        "points": 11
+      },
+      {
+        "description": "POSTAW NA MILION",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "description": "Jakie są najpopularniejsze gry komputerowe wszechczasów?",
+    "answers": [
+      {
+        "description": "SUPER MARIO",
+        "points": 25
+      },
+      {
+        "description": "POKEMONY",
+        "points": 20
+      },
+      {
+        "description": "GTA",
+        "points": 18
+      },
+      {
+        "description": "COUNTER STRIKE",
+        "points": 15
+      },
+      {
+        "description": "MINECRAFT",
+        "points": 14
+      },
+      {
+        "description": "TETRIS",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "description": "Jakie są najmniej lubiane lektury szkolne?",
+    "answers": [
+      {
+        "description": "KRZYŻACY",
+        "points": 25
+      },
+      {
+        "description": "PAN TADEUSZ",
+        "points": 22
+      },
+      {
+        "description": "POTOP",
+        "points": 18
+      },
+      {
+        "description": "DZIADY",
+        "points": 16
+      },
+      {
+        "description": "LALKA",
+        "points": 12
+      },
+      {
+        "description": "NAD NIEMNEM",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "description": "Jakie są najczęsciej wybierane kierunki studiów?",
+    "answers": [
+      {
+        "description": "PRAWO",
+        "points": 25
+      },
+      {
+        "description": "MEDYCYNA",
+        "points": 20
+      },
+      {
+        "description": "ZARZĄDZANIE",
+        "points": 18
+      },
+      {
+        "description": "EKONOMIA",
+        "points": 16
+      },
+      {
+        "description": "INFORMATYKA",
+        "points": 12
+      },
+      {
+        "description": "PEDAGOGIKA",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "description": "Co można kolekcjonować?",
+    "answers": [
+      {
+        "description": "ZNACZKI",
+        "points": 25
+      },
+      {
+        "description": "MONETY",
+        "points": 22
+      },
+      {
+        "description": "KARTY",
+        "points": 18
+      },
+      {
+        "description": "MAGNESY",
+        "points": 16
+      },
+      {
+        "description": "ZDJĘCIA",
+        "points": 11
+      },
+      {
+        "description": "FIGURKI",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "description": "Jakie wzory najczęściej sobie tatuujemy?",
+    "answers": [
+      {
+        "description": "RÓŻA",
+        "points": 24
+      },
+      {
+        "description": "SERCE",
+        "points": 22
+      },
+      {
+        "description": "MOTYL",
+        "points": 18
+      },
+      {
+        "description": "TRIBAL",
+        "points": 16
+      },
+      {
+        "description": "CZASZKA",
+        "points": 12
+      },
+      {
+        "description": "PTAK",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "description": "Na czym można grać?",
+    "answers": [
+      {
+        "description": "KOMPUTERZE",
+        "points": 26
+      },
+      {
+        "description": "NERWACH",
+        "points": 22
+      },
+      {
+        "description": "TELEFONIE",
+        "points": 20
+      },
+      {
+        "description": "INSTRUMENCIE",
+        "points": 17
+      },
+      {
+        "description": "KONSOLI",
+        "points": 11
+      },
+      {
+        "description": "GIEŁDZIE",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "description": "Podaj przykład potrawy, której głównym składnikiem są ziemniaki?",
+    "answers": [
+      {
+        "description": "FRYTKI",
+        "points": 23
+      },
+      {
+        "description": "PLACKI",
+        "points": 22
+      },
+      {
+        "description": "KOPYTKA",
+        "points": 19
+      },
+      {
+        "description": "KLUSKI",
+        "points": 17
+      },
+      {
+        "description": "PYZY",
+        "points": 12
+      },
+      {
+        "description": "CHIPSY",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "themes": ["favourite"],
+    "description": "Podaj przykład mitycznego stworzenia, które jest pół człowiekiem pół zwierzęciem?",
+    "answers": [
+      {
+        "description": "SYRENA",
+        "points": 26
+      },
+      {
+        "description": "WILKOŁAK",
+        "points": 23
+      },
+      {
+        "description": "MINOTAUR",
+        "points": 16
+      },
+      {
+        "description": "CENTAUR",
+        "points": 13
+      },
+      {
+        "description": "FAUN",
+        "points": 12
+      },
+      {
+        "description": "HARPIA",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "description": "Jak potocznie powiemy na oszusta?",
+    "answers": [
+      {
+        "description": "KANCIARZ",
+        "points": 28
+      },
+      {
+        "description": "KRĘTACZ",
+        "points": 21
+      },
+      {
+        "description": "SZACHRAJ",
+        "points": 16
+      },
+      {
+        "description": "KŁAMCA",
+        "points": 15
+      },
+      {
+        "description": "SZARLATAN",
+        "points": 11
+      },
+      {
+        "description": "NACIĄGACZ",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "description": "Jak potocznie powiemy na ostrą kłótnię?",
+    "answers": [
+      {
+        "description": "AWANTURA",
+        "points": 30
+      },
+      {
+        "description": "AFERA",
+        "points": 19
+      },
+      {
+        "description": "DRAKA",
+        "points": 16
+      },
+      {
+        "description": "CHRYJA",
+        "points": 14
+      },
+      {
+        "description": "RABAN",
+        "points": 11
+      },
+      {
+        "description": "BURDA",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "themes": ["wedding"],
+    "description": "Jak potocznie powiemy na małą sprzeczkę?",
+    "answers": [
+      {
+        "description": "SPÓR",
+        "points": 30
+      },
+      {
+        "description": "KONFLIKT",
+        "points": 22
+      },
+      {
+        "description": "KWAS",
+        "points": 18
+      },
+      {
+        "description": "ZATARG",
+        "points": 15
+      },
+      {
+        "description": "ZWADA",
+        "points": 9
+      },
+      {
+        "description": "ZGRZYT",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "description": "Można być głupim jak?",
+    "answers": [
+      {
+        "description": "BUT",
+        "points": 43
+      },
+      {
+        "description": "OSIOŁ",
+        "points": 36
+      },
+      {
+        "description": "BARAN",
+        "points": 21
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "description": "Podaj przykład kwiata na literę P?",
+    "answers": [
+      {
+        "description": "PELARGONIA",
+        "points": 30
+      },
+      {
+        "description": "PAPROTKA",
+        "points": 22
+      },
+      {
+        "description": "PIWONIA",
+        "points": 18
+      },
+      {
+        "description": "PETUNIA",
+        "points": 15
+      },
+      {
+        "description": "PRZEBIŚNIEG",
+        "points": 9
+      },
+      {
+        "description": "PIERWIOSNEK",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "description": "Skąd najchętniej wracamy do domu?",
+    "answers": [
+      {
+        "description": "Z PRACY",
+        "points": 30
+      },
+      {
+        "description": "ZE SZKOŁY",
+        "points": 21
+      },
+      {
+        "description": "ZE SZPITALA",
+        "points": 19
+      },
+      {
+        "description": "Z WIĘZIENIA",
+        "points": 16
+      },
+      {
+        "description": "Z PODRÓŻY",
+        "points": 9
+      },
+      {
+        "description": "Z IMPREZY",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "description": "Podaj przykład kwaśnego owocu?",
+    "answers": [
+      {
+        "description": "CYTRYNA",
+        "points": 30
+      },
+      {
+        "description": "LIMONKA",
+        "points": 21
+      },
+      {
+        "description": "POMARAŃCZA",
+        "points": 16
+      },
+      {
+        "description": "KIWI",
+        "points": 13
+      },
+      {
+        "description": "PORZECZKA",
+        "points": 11
+      },
+      {
+        "description": "AGREST",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "description": "Podaj przykład kraju słynącego ze świetnej kuchni?",
+    "answers": [
+      {
+        "description": "WŁOCHY",
+        "points": 27
+      },
+      {
+        "description": "FRANCJA",
+        "points": 19
+      },
+      {
+        "description": "POLSKA",
+        "points": 17
+      },
+      {
+        "description": "TAJLANDIA",
+        "points": 16
+      },
+      {
+        "description": "CHINY",
+        "points": 12
+      },
+      {
+        "description": "INDIE",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "themes": ["favourite"],
+    "description": "Jak potocznie powiemy na duży brzuch?",
+    "answers": [
+      {
+        "description": "BEBZON",
+        "points": 27
+      },
+      {
+        "description": "BEBECH",
+        "points": 25
+      },
+      {
+        "description": "BĘBEN",
+        "points": 21
+      },
+      {
+        "description": "MACIEJ",
+        "points": 18
+      },
+      {
+        "description": "BOJLER",
+        "points": 6
+      },
+      {
+        "description": "MIĘSIEŃ PIWNY",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "themes": ["favourite"],
+    "description": "Jaki może być proces?",
+    "answers": [
+      {
+        "description": "SĄDOWY",
+        "points": 29
+      },
+      {
+        "description": "MYŚLOWY",
+        "points": 22
+      },
+      {
+        "description": "CHEMICZNY",
+        "points": 15
+      },
+      {
+        "description": "KOMPUTEROWY",
+        "points": 14
+      },
+      {
+        "description": "REKRUTACYJNY",
+        "points": 11
+      },
+      {
+        "description": "PRODUKCJI",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "description": "Podaj przykład luksusowej marki odzieżowej?",
+    "answers": [
+      {
+        "description": "LACOSTE",
+        "points": 21
+      },
+      {
+        "description": "CALVIN KLEIN",
+        "points": 19
+      },
+      {
+        "description": "HUGO BOSS",
+        "points": 18
+      },
+      {
+        "description": "TOMMY HILFIGER",
+        "points": 16
+      },
+      {
+        "description": "GUCCI",
+        "points": 15
+      },
+      {
+        "description": "GIORGIO ARMANI",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "themes": ["favourite"],
+    "description": "Podaj przykład marki produktu spożywczego, która ma polskie imię w nazwie?",
+    "answers": [
+      {
+        "description": "KUBUŚ",
+        "points": 27
+      },
+      {
+        "description": "GRZEŚKI",
+        "points": 23
+      },
+      {
+        "description": "PAWEŁEK",
+        "points": 17
+      },
+      {
+        "description": "MICHAŁKI",
+        "points": 14
+      },
+      {
+        "description": "LECH",
+        "points": 10
+      },
+      {
+        "description": "BASIA",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "description": "Do czego (oprócz picia) używamy alkoholu?",
+    "answers": [
+      {
+        "description": "DO CZYSZCZENIA",
+        "points": 40
+      },
+      {
+        "description": "DO CIASTA",
+        "points": 34
+      },
+      {
+        "description": "DO DEZYNFEKCJI",
+        "points": 26
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "description": "Jakie są najbardziej znienawidzone przedmioty szkolne?",
+    "answers": [
+      {
+        "description": "MATEMATYKA",
+        "points": 27
+      },
+      {
+        "description": "CHEMIA",
+        "points": 23
+      },
+      {
+        "description": "FIZYKA",
+        "points": 20
+      },
+      {
+        "description": "POLSKI",
+        "points": 15
+      },
+      {
+        "description": "HISTORIA",
+        "points": 10
+      },
+      {
+        "description": "NIEMIECKI",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "description": "Jaki może być pas?",
+    "answers": [
+      {
+        "description": "DO SPODNI",
+        "points": 24
+      },
+      {
+        "description": "RUCHU",
+        "points": 23
+      },
+      {
+        "description": "STARTOWY",
+        "points": 18
+      },
+      {
+        "description": "BEZPIECZEŃSTWA",
+        "points": 16
+      },
+      {
+        "description": "KARATE",
+        "points": 11
+      },
+      {
+        "description": "MISTRZOWSKI",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "description": "Jakie warzywa możemy znaleźć w puszcze?",
+    "answers": [
+      {
+        "description": "POMIDORY",
+        "points": 26
+      },
+      {
+        "description": "FASOLA",
+        "points": 23
+      },
+      {
+        "description": "KUKURYDZA",
+        "points": 19
+      },
+      {
+        "description": "GROSZEK",
+        "points": 15
+      },
+      {
+        "description": "CIECIERZYCA",
+        "points": 10
+      },
+      {
+        "description": "MARCHEWKA",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "description": "Jakie mogą być zęby?",
+    "answers": [
+      {
+        "description": "MLECZNE",
+        "points": 25
+      },
+      {
+        "description": "STAŁE",
+        "points": 22
+      },
+      {
+        "description": "KŁY",
+        "points": 18
+      },
+      {
+        "description": "TRZONOWE",
+        "points": 15
+      },
+      {
+        "description": "SIEKACZE",
+        "points": 11
+      },
+      {
+        "description": "SZTUCZNE",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "description": "Jak pieszczotliwie powiemy do partnera / partnerki?",
+    "answers": [
+      {
+        "description": "KOCHANIE",
+        "points": 24
+      },
+      {
+        "description": "SŁOŃCE",
+        "points": 20
+      },
+      {
+        "description": "SKARBIE",
+        "points": 19
+      },
+      {
+        "description": "MYSZKO",
+        "points": 15
+      },
+      {
+        "description": "ŻABKO",
+        "points": 12
+      },
+      {
+        "description": "RYBKO",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "description": "Czym oprócz u dłoni mogą być paluszki?",
+    "answers": [
+      {
+        "description": "PRZEKĄSKA",
+        "points": 40
+      },
+      {
+        "description": "BATERIE",
+        "points": 34
+      },
+      {
+        "description": "DANIE",
+        "points": 26
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "themes": ["favourite"],
+    "description": "Jakie mogą być godziny?",
+    "answers": [
+      {
+        "description": "SZCZYTU",
+        "points": 27
+      },
+      {
+        "description": "OTWARCIA",
+        "points": 23
+      },
+      {
+        "description": "LEKCYJNE",
+        "points": 19
+      },
+      {
+        "description": "NADLICZBOWE",
+        "points": 15
+      },
+      {
+        "description": "PRACY",
+        "points": 10
+      },
+      {
+        "description": "DLA SENIORÓW",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "description": "Jakie kategorie oprócz tytułowych znajdziemy w grze Państwa - Miasta?",
+    "answers": [
+      {
+        "description": "ROŚLINA",
+        "points": 29
+      },
+      {
+        "description": "ZWIERZĘ",
+        "points": 24
+      },
+      {
+        "description": "IMIĘ",
+        "points": 19
+      },
+      {
+        "description": "RZECZ",
+        "points": 14
+      },
+      {
+        "description": "KOLOR",
+        "points": 9
+      },
+      {
+        "description": "ZAWÓD",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "description": "Według kobiet, jakie części ciała powinni golić mężczyźni?",
+    "answers": [
+      {
+        "description": "KLATKA PIERSIOWA",
+        "points": 27
+      },
+      {
+        "description": "PLECY",
+        "points": 22
+      },
+      {
+        "description": "MIEJSCA INTYMNE",
+        "points": 18
+      },
+      {
+        "description": "BRZUCH",
+        "points": 14
+      },
+      {
+        "description": "PACHY",
+        "points": 11
+      },
+      {
+        "description": "STOPY",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "description": "Jakie chrupiące przekąski jemy do filmu?",
+    "answers": [
+      {
+        "description": "CHIPSY",
+        "points": 28
+      },
+      {
+        "description": "POPCORN",
+        "points": 23
+      },
+      {
+        "description": "PALUSZKI",
+        "points": 17
+      },
+      {
+        "description": "KRAKERSY",
+        "points": 13
+      },
+      {
+        "description": "ORZESZKI",
+        "points": 10
+      },
+      {
+        "description": "NACHOSY",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "description": "Jaki może być rachunek?",
+    "answers": [
+      {
+        "description": "SUMIENIA",
+        "points": 28
+      },
+      {
+        "description": "BANKOWY",
+        "points": 22
+      },
+      {
+        "description": "WYSOKI",
+        "points": 18
+      },
+      {
+        "description": "FISKALNY",
+        "points": 14
+      },
+      {
+        "description": "OTWARTY",
+        "points": 12
+      },
+      {
+        "description": "PRAWDOPODOBIEŃSTWA",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "themes": ["favourite"],
+    "description": "Jaki może być list?",
+    "answers": [
+      {
+        "description": "POLECONY",
+        "points": 30
+      },
+      {
+        "description": "MOTYWACYJNY",
+        "points": 24
+      },
+      {
+        "description": "MIŁOSNY",
+        "points": 18
+      },
+      {
+        "description": "PRIORYTETOWY",
+        "points": 14
+      },
+      {
+        "description": "GOŃCZY",
+        "points": 12
+      },
+      {
+        "description": "ELEKTRONICZNY",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "description": "Jaki może być egzamin?",
+    "answers": [
+      {
+        "description": "PISEMNY",
+        "points": 28
+      },
+      {
+        "description": "USTNY",
+        "points": 22
+      },
+      {
+        "description": "NA PRAWO JAZDY",
+        "points": 18
+      },
+      {
+        "description": "DOJRZAŁOŚCI",
+        "points": 14
+      },
+      {
+        "description": "ZAWODOWY",
+        "points": 10
+      },
+      {
+        "description": "KOMISYJNY",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "description": "Czym mogą być korki?",
+    "answers": [
+      {
+        "description": "ZATORAMI",
+        "points": 30
+      },
+      {
+        "description": "W BUTELCE",
+        "points": 24
+      },
+      {
+        "description": "W WANNIE",
+        "points": 18
+      },
+      {
+        "description": "BUTAMI",
+        "points": 14
+      },
+      {
+        "description": "KOREPETYCJAMI",
+        "points": 8
+      },
+      {
+        "description": "BEZPIECZNIKAMI",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "description": "Jaki może być dzwonek?",
+    "answers": [
+      {
+        "description": "DO DRZWI",
+        "points": 28
+      },
+      {
+        "description": "ROWEROWY",
+        "points": 21
+      },
+      {
+        "description": "W TELEFONIE",
+        "points": 19
+      },
+      {
+        "description": "INSTRUMENT",
+        "points": 14
+      },
+      {
+        "description": "SZKOLNY",
+        "points": 10
+      },
+      {
+        "description": "W KARTACH",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "description": "Jaka może być rakieta?",
+    "answers": [
+      {
+        "description": "TENISOWA",
+        "points": 37
+      },
+      {
+        "description": "POCISK",
+        "points": 33
+      },
+      {
+        "description": "ODRZUTOWA",
+        "points": 30
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "description": "Jaka może być pałka?",
+    "answers": [
+      {
+        "description": "DO OBRONY",
+        "points": 39
+      },
+      {
+        "description": "WODNA",
+        "points": 34
+      },
+      {
+        "description": "Z KURCZAKA",
+        "points": 27
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "description": "Jaka może być fajka?",
+    "answers": [
+      {
+        "description": "POKOJU",
+        "points": 27
+      },
+      {
+        "description": "DREWNIANA",
+        "points": 23
+      },
+      {
+        "description": "SZKLANA",
+        "points": 20
+      },
+      {
+        "description": "WODNA",
+        "points": 17
+      },
+      {
+        "description": "DO NURKOWANIA",
+        "points": 8
+      },
+      {
+        "description": "ELEKTRONICZNA",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "description": "Imię żeńskie kończące się na -ENA?",
+    "answers": [
+      {
+        "description": "MAGDALENA",
+        "points": 26
+      },
+      {
+        "description": "LENA",
+        "points": 22
+      },
+      {
+        "description": "MILENA",
+        "points": 19
+      },
+      {
+        "description": "HELENA",
+        "points": 14
+      },
+      {
+        "description": "MARLENA",
+        "points": 11
+      },
+      {
+        "description": "MARZENA",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "description": "Jaka litera w grze Scrabble jest warta 3 punkty?",
+    "answers": [
+      {
+        "description": "B",
+        "points": 28
+      },
+      {
+        "description": "G",
+        "points": 22
+      },
+      {
+        "description": "Ł",
+        "points": 18
+      },
+      {
+        "description": "U",
+        "points": 15
+      },
+      {
+        "description": "J",
+        "points": 10
+      },
+      {
+        "description": "H",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "description": "Na co można mieć alergię?",
+    "answers": [
+      {
+        "description": "KURZ",
+        "points": 31
+      },
+      {
+        "description": "SIERŚĆ",
+        "points": 24
+      },
+      {
+        "description": "PYŁKI",
+        "points": 21
+      },
+      {
+        "description": "SŁOŃCE",
+        "points": 12
+      },
+      {
+        "description": "ORZECHY",
+        "points": 10
+      },
+      {
+        "description": "LUDZI",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "description": "Marki jakich słodyczy najczęściej kupujemy na prezent?",
+    "answers": [
+      {
+        "description": "MERCI",
+        "points": 29
+      },
+      {
+        "description": "KINDER",
+        "points": 25
+      },
+      {
+        "description": "RAFAELLO",
+        "points": 21
+      },
+      {
+        "description": "FERRERO ROCHER",
+        "points": 14
+      },
+      {
+        "description": "LINDT",
+        "points": 7
+      },
+      {
+        "description": "MILKA",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "description": "Czym może być stoper?",
+    "answers": [
+      {
+        "description": "MIERNIKIEM CZASU",
+        "points": 40
+      },
+      {
+        "description": "ZATYCZKĄ DO USZU",
+        "points": 34
+      },
+      {
+        "description": "POZYCJĄ NA BOISKU",
+        "points": 26
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "description": "Przyczyny bólu głowy?",
+    "answers": [
+      {
+        "description": "KAC",
+        "points": 27
+      },
+      {
+        "description": "CHOROBA",
+        "points": 23
+      },
+      {
+        "description": "ZMĘCZENIE",
+        "points": 20
+      },
+      {
+        "description": "STRES",
+        "points": 15
+      },
+      {
+        "description": "GŁOŚNA MUZYKA",
+        "points": 9
+      },
+      {
+        "description": "BRAK OCHOTY NA SEKS",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "description": "Gdy coś nam idzie sprawnie, mówimy, że idzie jak?",
+    "answers": [
+      {
+        "description": "PO MAŚLE",
+        "points": 37
+      },
+      {
+        "description": "Z PŁATKA",
+        "points": 32
+      },
+      {
+        "description": "PO SZNURKU",
+        "points": 31
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "description": "Marki kosmetyków produkujących kremy?",
+    "answers": [
+      {
+        "description": "NIVEA",
+        "points": 36
+      },
+      {
+        "description": "VICHY",
+        "points": 29
+      },
+      {
+        "description": "ZIAJA",
+        "points": 13
+      },
+      {
+        "description": "GARNIER",
+        "points": 11
+      },
+      {
+        "description": "BIELENDA",
+        "points": 8
+      },
+      {
+        "description": "SORAYA",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "description": "Sporty, które uprawiają bogaci ludzie?",
+    "answers": [
+      {
+        "description": "GOLF",
+        "points": 28
+      },
+      {
+        "description": "NARCIARSTWO",
+        "points": 26
+      },
+      {
+        "description": "JAZDA KONNA",
+        "points": 23
+      },
+      {
+        "description": "TENIS",
+        "points": 14
+      },
+      {
+        "description": "POLO",
+        "points": 6
+      },
+      {
+        "description": "STRZELECTWO",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "description": "Czym faszerujemy pierogi?",
+    "answers": [
+      {
+        "description": "GRZYBAMI",
+        "points": 26
+      },
+      {
+        "description": "MIĘSEM",
+        "points": 23
+      },
+      {
+        "description": "TWAROGIEM",
+        "points": 20
+      },
+      {
+        "description": "ZIEMNIAKAMI",
+        "points": 19
+      },
+      {
+        "description": "OWOCAMI",
+        "points": 9
+      },
+      {
+        "description": "SOCZEWICĄ",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "description": "Podaj imię postaci z książki Krzyżacy",
+    "answers": [
+      {
+        "description": "ZBYSZKO",
+        "points": 26
+      },
+      {
+        "description": "JURAND",
+        "points": 23
+      },
+      {
+        "description": "DANUSIA",
+        "points": 21
+      },
+      {
+        "description": "JAGIENKA",
+        "points": 15
+      },
+      {
+        "description": "MAĆKO",
+        "points": 9
+      },
+      {
+        "description": "ROTGIER",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "description": "Jakie warzywa wchodzą w skład włoszczyzny?",
+    "answers": [
+      {
+        "description": "MARCHEWKA",
+        "points": 30
+      },
+      {
+        "description": "PIETRUSZKA",
+        "points": 24
+      },
+      {
+        "description": "SELER",
+        "points": 17
+      },
+      {
+        "description": "POR",
+        "points": 15
+      },
+      {
+        "description": "CEBULA",
+        "points": 9
+      },
+      {
+        "description": "KAPUSTA WŁOSKA",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "description": "Co może być drogowe?",
+    "answers": [
+      {
+        "description": "ZNAK",
+        "points": 29
+      },
+      {
+        "description": "PIRAT",
+        "points": 25
+      },
+      {
+        "description": "KOREK",
+        "points": 21
+      },
+      {
+        "description": "WYPADEK",
+        "points": 14
+      },
+      {
+        "description": "KODEKS",
+        "points": 7
+      },
+      {
+        "description": "ŚWIATŁA",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "description": "Jaki może być pirat?",
+    "answers": [
+      {
+        "description": "NA MORZU",
+        "points": 42
+      },
+      {
+        "description": "DROGOWY",
+        "points": 36
+      },
+      {
+        "description": "W INTERNECIE",
+        "points": 22
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "description": "Czego unikają mężczyźni?",
+    "answers": [
+      {
+        "description": "ODPOWIEDZIALNOŚCI",
+        "points": 28
+      },
+      {
+        "description": "PRAC DOMOWYCH",
+        "points": 27
+      },
+      {
+        "description": "ŚLUBU",
+        "points": 21
+      },
+      {
+        "description": "ZMIAN",
+        "points": 14
+      },
+      {
+        "description": "ZAKUPÓW",
+        "points": 6
+      },
+      {
+        "description": "TEŚCIÓW",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "description": "Coś ptasiego?",
+    "answers": [
+      {
+        "description": "GNIAZDO",
+        "points": 26
+      },
+      {
+        "description": "JAJKO",
+        "points": 23
+      },
+      {
+        "description": "MÓŻDŻEK",
+        "points": 19
+      },
+      {
+        "description": "MLECZKO",
+        "points": 14
+      },
+      {
+        "description": "GRYPA",
+        "points": 10
+      },
+      {
+        "description": "PIÓRO",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "description": "Coś abstrakcyjnego?",
+    "answers": [
+      {
+        "description": "MYŚLENIE",
+        "points": 40
+      },
+      {
+        "description": "POCZUCIE HUMORU",
+        "points": 33
+      },
+      {
+        "description": "MALARSTWO",
+        "points": 27
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "themes": ["favourite"],
+    "description": "Co można zbić, ale niczego nie tłukąc?",
+    "answers": [
+      {
+        "description": "GORĄCZKĘ",
+        "points": 27
+      },
+      {
+        "description": "PIĄTKĘ",
+        "points": 25
+      },
+      {
+        "description": "KRĘGLE",
+        "points": 19
+      },
+      {
+        "description": "FORTUNĘ",
+        "points": 14
+      },
+      {
+        "description": "PIONKA",
+        "points": 8
+      },
+      {
+        "description": "ARGUMENTY",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "themes": ["favourite"],
+    "description": "Co można wznieść?",
+    "answers": [
+      {
+        "description": "TOAST",
+        "points": 39
+      },
+      {
+        "description": "ALARM",
+        "points": 32
+      },
+      {
+        "description": "BUDOWLĘ",
+        "points": 29
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "themes": ["favourite"],
+    "description": "Co można łamać, ale niczego nie uszkodzić?",
+    "answers": [
+      {
+        "description": "PRAWO",
+        "points": 27
+      },
+      {
+        "description": "HASŁO",
+        "points": 25
+      },
+      {
+        "description": "ZASADY",
+        "points": 20
+      },
+      {
+        "description": "SOBIE GŁOWĘ",
+        "points": 13
+      },
+      {
+        "description": "JĘZYK",
+        "points": 8
+      },
+      {
+        "description": "4 ŚCIANĘ",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "description": "Podaj przykład potocznego wyrażenia, które nawiązuje do chrześcijańskich świętości",
+    "answers": [
+      {
+        "description": "MATKO ŚWIĘTA",
+        "points": 22
+      },
+      {
+        "description": "O PANIE",
+        "points": 21
+      },
+      {
+        "description": "NA LITOŚĆ BOSKĄ",
+        "points": 19
+      },
+      {
+        "description": "O BOŻE",
+        "points": 15
+      },
+      {
+        "description": "CHRYSTE",
+        "points": 13
+      },
+      {
+        "description": "JEZUS MARIA",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "description": "Podaj przykład kultowej gry systemowej",
+    "answers": [
+      {
+        "description": "PASJANS",
+        "points": 28
+      },
+      {
+        "description": "SAPER",
+        "points": 20
+      },
+      {
+        "description": "KIERKI",
+        "points": 19
+      },
+      {
+        "description": "PINBALL",
+        "points": 17
+      },
+      {
+        "description": "MAHJONG",
+        "points": 11
+      },
+      {
+        "description": "SZACHY",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "description": "Podaj przykład popularnej gry karcianej",
+    "answers": [
+      {
+        "description": "POKER",
+        "points": 26
+      },
+      {
+        "description": "MAKAO",
+        "points": 22
+      },
+      {
+        "description": "WOJNA",
+        "points": 19
+      },
+      {
+        "description": "TYSIĄC",
+        "points": 17
+      },
+      {
+        "description": "BRYDŻ",
+        "points": 9
+      },
+      {
+        "description": "BLACKJACK",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "description": "Coś co kojarzy nam się ze starożytnym Egiptem?",
+    "answers": [
+      {
+        "description": "PIRAMIDA",
+        "points": 28
+      },
+      {
+        "description": "FARAON",
+        "points": 21
+      },
+      {
+        "description": "SFINKS",
+        "points": 17
+      },
+      {
+        "description": "MUMIA",
+        "points": 14
+      },
+      {
+        "description": "HIEROGLIFY",
+        "points": 13
+      },
+      {
+        "description": "NIEWOLNICTWO",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "description": "Podaj przykład terminu matematycznego kojarzącego się z kołem",
+    "answers": [
+      {
+        "description": "POLE",
+        "points": 23
+      },
+      {
+        "description": "OBWÓD",
+        "points": 20
+      },
+      {
+        "description": "LICZBA PI",
+        "points": 18
+      },
+      {
+        "description": "PROMIEŃ",
+        "points": 15
+      },
+      {
+        "description": "ŚREDNICA",
+        "points": 14
+      },
+      {
+        "description": "CIĘCIWA",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "description": "Jak potocznie powiemy na skupisko handlowe na świeżym powietrzu?",
+    "answers": [
+      {
+        "description": "RYNEK",
+        "points": 24
+      },
+      {
+        "description": "TARGOWISKO",
+        "points": 21
+      },
+      {
+        "description": "GIEŁDA",
+        "points": 18
+      },
+      {
+        "description": "KIERMASZ",
+        "points": 16
+      },
+      {
+        "description": "JARMARK",
+        "points": 13
+      },
+      {
+        "description": "BAZAR",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "description": "Jak potocznie powiemy na niską osobę?",
+    "answers": [
+      {
+        "description": "KARZEŁ",
+        "points": 25
+      },
+      {
+        "description": "KURDUPEL",
+        "points": 23
+      },
+      {
+        "description": "KNYPEK",
+        "points": 17
+      },
+      {
+        "description": "KONUS",
+        "points": 15
+      },
+      {
+        "description": "KRASNAL",
+        "points": 14
+      },
+      {
+        "description": "LILIPUT",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "description": "Czym może być aplikacja?",
+    "answers": [
+      {
+        "description": "PROGRAMEM",
+        "points": 42
+      },
+      {
+        "description": "NA STANOWISKO",
+        "points": 35
+      },
+      {
+        "description": "UŻYCIEM CZEGOŚ",
+        "points": 23
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "description": "Jaki może być papier?",
+    "answers": [
+      {
+        "description": "TOALETOWY",
+        "points": 29
+      },
+      {
+        "description": "ŚCIERNY",
+        "points": 20
+      },
+      {
+        "description": "DO PIECZENIA",
+        "points": 19
+      },
+      {
+        "description": "PREZENTOWY",
+        "points": 14
+      },
+      {
+        "description": "WARTOŚCIOWY",
+        "points": 10
+      },
+      {
+        "description": "FOTOGRAFICZNY",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "description": "Jakie są najchętniej wybierane smaki lodów?",
+    "answers": [
+      {
+        "description": "ŚMIETANKOWE",
+        "points": 26
+      },
+      {
+        "description": "CZEKOLADOWE",
+        "points": 25
+      },
+      {
+        "description": "TRUSKAWKOWE",
+        "points": 19
+      },
+      {
+        "description": "SŁONY KARMEL",
+        "points": 13
+      },
+      {
+        "description": "PISTACJA",
+        "points": 12
+      },
+      {
+        "description": "WANILIOWE",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "description": "Podaj tytuł jednej z pierwszych 6 części gwiezdnych wojen?",
+    "answers": [
+      {
+        "description": "ATAK KLONÓW",
+        "points": 27
+      },
+      {
+        "description": "IMPERIUM KONTRATAKUJE",
+        "points": 23
+      },
+      {
+        "description": "POWRÓT JEDI",
+        "points": 19
+      },
+      {
+        "description": "NOWA NADZIEJA",
+        "points": 18
+      },
+      {
+        "description": "ZEMSTA SITHÓW",
+        "points": 10
+      },
+      {
+        "description": "MROCZNE WIDMO",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "description": "Jakie zwierzę spotkamy na safari?",
+    "answers": [
+      {
+        "description": "SŁOŃ",
+        "points": 30
+      },
+      {
+        "description": "LEW",
+        "points": 25
+      },
+      {
+        "description": "ŻYRAFA",
+        "points": 20
+      },
+      {
+        "description": "ZEBRA",
+        "points": 15
+      },
+      {
+        "description": "NOSOROŻEC",
+        "points": 7
+      },
+      {
+        "description": "BAWÓŁ",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "description": "Podaj przykład kształtu makaronu?",
+    "answers": [
+      {
+        "description": "SPAGHETTI",
+        "points": 26
+      },
+      {
+        "description": "PENNE",
+        "points": 23
+      },
+      {
+        "description": "FUSILLI",
+        "points": 20
+      },
+      {
+        "description": "LASAGNE",
+        "points": 12
+      },
+      {
+        "description": "TAGIATELLE",
+        "points": 10
+      },
+      {
+        "description": "FARFALLE",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "description": "Podaj przykład miasta, przez które przepływa rzeka Wisła",
+    "answers": [
+      {
+        "description": "WARSZAWA",
+        "points": 28
+      },
+      {
+        "description": "KRAKÓW",
+        "points": 25
+      },
+      {
+        "description": "TORUŃ",
+        "points": 19
+      },
+      {
+        "description": "GDAŃSK",
+        "points": 13
+      },
+      {
+        "description": "WISŁA",
+        "points": 9
+      },
+      {
+        "description": "BYDGOSZCZ",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "description": "Podaj przykład sklepu budowlanego w Polsce",
+    "answers": [
+      {
+        "description": "CASTORAMA",
+        "points": 32
+      },
+      {
+        "description": "MRÓWKA",
+        "points": 26
+      },
+      {
+        "description": "LEROY MERLIN",
+        "points": 17
+      },
+      {
+        "description": "OBI",
+        "points": 13
+      },
+      {
+        "description": "BRICOMARCHE",
+        "points": 7
+      },
+      {
+        "description": "BRICOMAN",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "description": "Podaj przykład owocu, z którego można zrobić wino",
+    "answers": [
+      {
+        "description": "WINOGRONA",
+        "points": 30
+      },
+      {
+        "description": "WIŚNIE",
+        "points": 24
+      },
+      {
+        "description": "JABŁKA",
+        "points": 18
+      },
+      {
+        "description": "MALINY",
+        "points": 12
+      },
+      {
+        "description": "TRUSKAWKI",
+        "points": 9
+      },
+      {
+        "description": "GRUSZKI",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "description": "Podaj przykład popularnego filmu z Tomem Hanksem",
+    "answers": [
+      {
+        "description": "FORREST GUMP",
+        "points": 27
+      },
+      {
+        "description": "ZIELONA MILA",
+        "points": 22
+      },
+      {
+        "description": "SZEREGOWIEC RYAN",
+        "points": 19
+      },
+      {
+        "description": "CAST AWAY – POZA ŚWIATEM",
+        "points": 15
+      },
+      {
+        "description": "APOLLO 13",
+        "points": 10
+      },
+      {
+        "description": "TERMINAL",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "description": "Jaki może być kredyt?",
+    "answers": [
+      {
+        "description": "HIPOTECZNY",
+        "points": 29
+      },
+      {
+        "description": "KONSUMENCKI",
+        "points": 25
+      },
+      {
+        "description": "INWESTYCYJNY",
+        "points": 17
+      },
+      {
+        "description": "KONSOLIDACYJNY",
+        "points": 13
+      },
+      {
+        "description": "ODNAWIALNY",
+        "points": 9
+      },
+      {
+        "description": "SAMOCHODOWY",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "themes": ["favourite"],
+    "description": "Jaki może być zegar?",
+    "answers": [
+      {
+        "description": "ŚCIENNY",
+        "points": 30
+      },
+      {
+        "description": "SŁONECZNY",
+        "points": 23
+      },
+      {
+        "description": "CYFROWY",
+        "points": 20
+      },
+      {
+        "description": "BIOLOGICZNY",
+        "points": 13
+      },
+      {
+        "description": "WAHADŁOWY",
+        "points": 9
+      },
+      {
+        "description": "PIASKOWY (KLEPSYDRA)",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "themes": ["favourite"],
+    "description": "Podaj przykład kraju, którego flaga jest podobna do Polskiej",
+    "answers": [
+      {
+        "description": "MONAKO",
+        "points": 30
+      },
+      {
+        "description": "INDONEZJA",
+        "points": 24
+      },
+      {
+        "description": "MALTA",
+        "points": 18
+      },
+      {
+        "description": "AUSTRIA",
+        "points": 12
+      },
+      {
+        "description": "CZECHY",
+        "points": 9
+      },
+      {
+        "description": "SINGAPUR",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "description": "Jak potocznie powiemy na słowo SŁOWO?",
+    "answers": [
+      {
+        "description": "WYRAZ",
+        "points": 26
+      },
+      {
+        "description": "OKREŚLENIE",
+        "points": 21
+      },
+      {
+        "description": "POJĘCIE",
+        "points": 18
+      },
+      {
+        "description": "HASŁO",
+        "points": 14
+      },
+      {
+        "description": "FRAZA",
+        "points": 11
+      },
+      {
+        "description": "TERMIN",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "description": "Podaj przykład owada, którego można spotkać na łące",
+    "answers": [
+      {
+        "description": "MOTYL",
+        "points": 26
+      },
+      {
+        "description": "KONIK POLNE",
+        "points": 22
+      },
+      {
+        "description": "PSZCZOŁA",
+        "points": 20
+      },
+      {
+        "description": "ŚWIERSZCZ",
+        "points": 15
+      },
+      {
+        "description": "MRÓWKA",
+        "points": 11
+      },
+      {
+        "description": "TRZMIEL",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "description": "Co pada?",
+    "answers": [
+      {
+        "description": "DESZCZ",
+        "points": 28
+      },
+      {
+        "description": "ŚNIEG",
+        "points": 25
+      },
+      {
+        "description": "NIEDALEKO JABŁKO OD JABŁONI",
+        "points": 19
+      },
+      {
+        "description": "CIEŃ",
+        "points": 12
+      },
+      {
+        "description": "ŚWIATŁO",
+        "points": 10
+      },
+      {
+        "description": "AKUMULATOR",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "description": "Podaj przykład czasownika ze słowem ROBIĆ",
+    "answers": [
+      {
+        "description": "ZROBIĆ",
+        "points": 29
+      },
+      {
+        "description": "ZAROBIĆ",
+        "points": 25
+      },
+      {
+        "description": "PRZEROBIĆ",
+        "points": 16
+      },
+      {
+        "description": "DOROBIĆ",
+        "points": 12
+      },
+      {
+        "description": "ODROBIĆ",
+        "points": 10
+      },
+      {
+        "description": "NADROBIĆ",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "themes": ["favourite"],
+    "description": "Podaj przykład kraju, którego nazwa składa się z trzech członów",
+    "answers": [
+      {
+        "description": "ZJEDNOCZONE EMIRATY ARABSKIE",
+        "points": 30
+      },
+      {
+        "description": "REPUBLIKA POŁUDNIOWEJ AFRYKI",
+        "points": 23
+      },
+      {
+        "description": "WYBRZEŻE KOŚCI SŁONIOWEJ",
+        "points": 18
+      },
+      {
+        "description": "DEMOKRATYCZNA REPUBLIKA KONGA",
+        "points": 14
+      },
+      {
+        "description": "BOŚNIA I HERCEGOWINA",
+        "points": 8
+      },
+      {
+        "description": "TRYNIDAD I TOBAGO",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "description": "Podaj przykład miodu spożywczego",
+    "answers": [
+      {
+        "description": "LIPOWY",
+        "points": 28
+      },
+      {
+        "description": "WIELOKWIATOWY",
+        "points": 23
+      },
+      {
+        "description": "RZEPAKOWY",
+        "points": 16
+      },
+      {
+        "description": "AKACJOWY",
+        "points": 14
+      },
+      {
+        "description": "SPADZIOWY",
+        "points": 11
+      },
+      {
+        "description": "GRYCZANY",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "description": "Podaj przykład kwiatu sygnalizującego przyjście wiosny",
+    "answers": [
+      {
+        "description": "PRZEBIŚNIEG",
+        "points": 30
+      },
+      {
+        "description": "PIERWIOSNEK",
+        "points": 21
+      },
+      {
+        "description": "KROKUS",
+        "points": 17
+      },
+      {
+        "description": "TULIPAN",
+        "points": 13
+      },
+      {
+        "description": "NARCYZ",
+        "points": 10
+      },
+      {
+        "description": "ZAWILEC",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "themes": ["favourite"],
+    "description": "Podaj przykład nazwy zwierzęcia, które jest jednocześnie nazwą przedmiotu",
+    "answers": [
+      {
+        "description": "MYSZKA",
+        "points": 29
+      },
+      {
+        "description": "ŻABKA",
+        "points": 23
+      },
+      {
+        "description": "WĄŻ",
+        "points": 20
+      },
+      {
+        "description": "MUSZKA",
+        "points": 18
+      },
+      {
+        "description": "ŻURAW",
+        "points": 8
+      },
+      {
+        "description": "KRÓWKA",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "description": "Jak potocznie powiemy na mikroorganizm powodujący choroby?",
+    "answers": [
+      {
+        "description": "BAKTERIA",
+        "points": 31
+      },
+      {
+        "description": "WIRUS",
+        "points": 30
+      },
+      {
+        "description": "ZARAZEK",
+        "points": 23
+      },
+      {
+        "description": "MIKROB",
+        "points": 11
+      },
+      {
+        "description": "BAKCYL",
+        "points": 4
+      },
+      {
+        "description": "DROBNOUSTRÓJ",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "description": "Jaki może być trójkąt?",
+    "answers": [
+      {
+        "description": "OSTRZEGAWCZY",
+        "points": 26
+      },
+      {
+        "description": "BERMUDZKI",
+        "points": 21
+      },
+      {
+        "description": "MUZYCZNY",
+        "points": 17
+      },
+      {
+        "description": "RÓWNOBOCZNY",
+        "points": 15
+      },
+      {
+        "description": "PROSTOKĄTNY",
+        "points": 11
+      },
+      {
+        "description": "RÓWNORAMIENNY",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "themes": ["favourite"],
+    "description": "Jak potocznie powiemy na policjanta?",
+    "answers": [
+      {
+        "description": "GLINA",
+        "points": 44
+      },
+      {
+        "description": "PIES",
+        "points": 26
+      },
+      {
+        "description": "SMERF",
+        "points": 14
+      },
+      {
+        "description": "MUNDUROWY",
+        "points": 9
+      },
+      {
+        "description": "SZERYF",
+        "points": 5
+      },
+      {
+        "description": "PAŁA",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "themes": ["favourite"],
+    "description": "Dotknięcie jakiej rośliny powoduje ból?",
+    "answers": [
+      {
+        "description": "POKRZYWA",
+        "points": 29
+      },
+      {
+        "description": "OSET",
+        "points": 25
+      },
+      {
+        "description": "KAKTUS",
+        "points": 19
+      },
+      {
+        "description": "RÓŻA",
+        "points": 18
+      },
+      {
+        "description": "BLUSZCZ",
+        "points": 5
+      },
+      {
+        "description": "JEŻYNA",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "description": "Jakie są najpopularniejsze bary szybkiej obsługi?",
+    "answers": [
+      {
+        "description": "MC DONALD",
+        "points": 30
+      },
+      {
+        "description": "KFC",
+        "points": 27
+      },
+      {
+        "description": "BURGER KING",
+        "points": 22
+      },
+      {
+        "description": "SUBWAY",
+        "points": 11
+      },
+      {
+        "description": "ORLEN",
+        "points": 6
+      },
+      {
+        "description": "ŻABKA",
+        "points": 4
+      }
+    ]
+  }
+]

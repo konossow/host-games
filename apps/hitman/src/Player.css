@@ -1,0 +1,32 @@
+.player {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    height: 100%;
+    align-content: center;
+    justify-content: center;
+}
+
+.player .ant-card-head {
+    text-align: center;
+    font-size: 18px;
+}
+
+.player .ant-card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
+    font-size: 18px;
+}
+
+.player h3 {
+    text-align: center;
+}
+
+.expose-modal {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: stretch;
+}

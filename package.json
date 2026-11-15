@@ -1,0 +1,34 @@
+{
+  "name": "host-games",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "check-types": "turbo run check-types",
+    "dev:mainstream": "turbo run dev --filter=@host/mainstream",
+    "dev:oszukac-przeznaiczenie": "turbo run dev --filter=@host/oszukac-przeznaiczenie",
+    "dev:hitman": "turbo run dev --filter=@host/hitman",
+    "dev:potoczna-potyczka": "turbo run dev --filter=@host/potoczna-potyczka",
+    "dev:turbo": "turbo run dev --filter=@host/turbo",
+    "build:mainstream": "turbo run build --filter=@host/mainstream",
+    "build:oszukac-przeznaiczenie": "turbo run build --filter=@host/oszukac-przeznaiczenie",
+    "build:hitman": "turbo run build --filter=@host/hitman",
+    "build:potoczna-potyczka": "turbo run build --filter=@host/potoczna-potyczka",
+    "build:turbo": "turbo run build --filter=@host/turbo",
+    "seed": "node --env-file=.env --env-file-if-exists=.env.local scripts/seed.js",
+    "check": "node --env-file=.env scripts/check.js",
+    "deploy:functions": "npx supabase functions deploy oszukac-przeznaiczenie --no-verify-jwt --project-ref wcbvmtlwcfecvbcqkicw"
+  },
+  "devDependencies": {
+    "@supabase/supabase-js": "2.117.0",
+    "turbo": "2.8.3"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "packageManager": "npm@11.11.0"
+}

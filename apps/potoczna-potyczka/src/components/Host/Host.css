@@ -1,0 +1,6 @@
+.host {
+  display: flex;
+  padding: 12px;
+  gap: 12px;
+  flex-direction: column;
+}

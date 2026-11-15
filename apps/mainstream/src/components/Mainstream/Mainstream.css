@@ -1,0 +1,260 @@
+.app-container {
+  display: flex;
+}
+
+.game-over {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  row-gap: 32px;
+  align-items: center;
+  justify-content: center;
+  font-size: 128px;
+  color: #24292E;
+  font-family: coolvetica;
+  text-align: center;
+}
+
+.timer {
+  font-size: 128px;
+  min-width: 250px;
+  font-weight: bold;
+  text-align: center;
+  font-family: digital;
+  color: #24292E;
+}
+
+
+.riddle {
+  position: relative;
+}
+
+.riddle img {
+  display: block;
+  height: 100vh;
+  object-fit: contain;
+  object-position: top;
+}
+
+.right-panel {
+  display: flex;
+  flex-direction: column;
+  padding: 48px;
+  flex-grow: 1;
+  gap: 48px;
+}
+
+.players {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.player {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  font-family: 'coolvetica';
+  font-size: 48px;
+  align-items: center;
+  text-transform: uppercase;
+  flex-wrap: wrap;
+  border: 2px solid #7DBDB5;
+  border-radius: 8px;
+  padding: 8px;
+  color: #24292E;
+  position: relative;
+}
+
+.player .hints {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  top: 0;
+  display: flex;
+  gap: 12px;
+}
+
+.player svg {
+  color: #EFD469;
+  background: #FAFBFC;
+}
+
+.player .name {
+  flex-grow: 1;
+  cursor: pointer;
+}
+
+.player .answer {
+  width: 100%;
+  text-align: center;
+  font-size: 64px;
+}
+
+.timestamp {
+  font-family: digital;
+  font-weight: bold;
+}
+
+.riddle-counter {
+  font-size: 128px;
+  font-weight: bold;
+  text-align: right;
+  font-family: digital;
+  color: #24292E;
+  align-self: end;
+  flex-grow: 1;
+  display: flex;
+  align-items: end;
+}
+
+.riddle-cover {
+  position: absolute;
+  display: block;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  transition: background-color, color .3s ease-in-out;
+  color: transparent;
+  text-align: center;
+}
+
+.riddle-cover.visible {
+  background: #7DBDB5;
+  opacity: 0.98;
+  display: flex;
+  color: white;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+  font-size: 80px;
+  font-family: 'coolvetica';
+  white-space: break-spaces;
+}
+
+.riddle-cover.visible svg {
+  font-size: 128px;
+}
+
+.riddle-cover.reveal {
+  background-color: #FAFBFC;
+  color: #24292E;
+  width: 100%;
+  height: min-content;
+  bottom: 0;
+  opacity: 1;
+  margin-top: auto;
+  margin-bottom: 10%;
+  gap: 0;
+  padding: 16px;
+}
+
+.player-view .riddle img {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.player-view .riddle-cover.visible {
+  font-size: 24px;
+}
+
+.player-view .riddle-cover.visible svg {
+  font-size: 48px;
+}
+
+.player-view .riddle-cover.reveal {
+  padding: 8px;
+}
+
+.player-view {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.player-view > *:not(.riddle, .riddle-cover) {
+  margin: 0 8px;
+}
+
+.player-view label {
+  font-family: 'coolvetica';
+  text-align: center;
+  text-transform: uppercase;
+  color: #24292E;
+}
+
+.error {
+  color: #D46A6A !important;
+}
+
+.player-view label:first-child {
+  margin-top: 24px;
+}
+
+.player-view textarea {
+  border-radius: 8px;
+  border: 2px dashed #7DBDB5;
+  padding: 8px;
+}
+
+.player-view textarea:focus-visible {
+  border-style: solid;
+  outline: none;
+}
+
+.player-view button {
+  font-size: 24px;
+}
+
+.host button {
+  font-size: 32px;
+}
+
+.qr {
+  position: fixed;
+  top: 8px;
+  right: 8px;
+  height: 90%;
+  width: auto;
+  transform: scale(0.05);
+  transform-origin: top right;
+  cursor: pointer;
+  z-index: 50;
+  border-radius: 4px;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.qr:hover {
+  box-shadow: 0 0 160px #7DBDB5, 0 0 15px rgba(173, 235, 179, 0.4);
+}
+
+.qr:focus {
+  box-shadow: 0 0 8px #7DBDB5, 0 0 15px rgba(173, 235, 179, 0.4);
+}
+
+.qr:focus {
+  scale: 1;
+  border-radius: 60px;
+  top: 5%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.host {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 8px;
+  justify-content: center;
+}
+
+
+.ant-modal .ant-btn-default {
+  display: none;
+}

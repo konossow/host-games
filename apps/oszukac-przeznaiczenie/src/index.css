@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+}
+
+#root {
+  background-color: #1B1414;
+  overflow: hidden;
+  user-select: none;
+  height: 100vh;
+  position: relative;
+}
+
+*  {
+  color: #adebb3;
+  font-family: Pixel Tandysoft !important;
+}
+
+@font-face {
+  font-family: "Pixel Tandysoft";
+  src: url("./assets/fonts/Pixel Tandysoft.otf");
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background:
+          linear-gradient(rgba(18,16,16,0) 50%, rgba(0,0,0,0.25) 50%), /* horizontal lines */
+          linear-gradient(90deg, rgba(255,0,0,0.06), rgba(0,255,0,0.02), rgba(0,0,255,0.06));
+  z-index: 100;
+  background-size: 100% 2px, 3px 100%;
+  pointer-events: none;
+}
+
+/* Flicker overlay */
+body::after {
+  content: "";
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(18,16,16,0.1);
+  opacity: 0;
+  z-index: 100;
+  pointer-events: none;
+  animation: flicker 0.15s infinite;
+}
+@keyframes flicker {
+  0%   { opacity: 0.2; }
+  50%  { opacity: 0.08; }
+  100% { opacity: 0.2; }
+}

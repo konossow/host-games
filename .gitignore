@@ -1,0 +1,9 @@
+node_modules
+dist
+.turbo
+.env.local
+.idea
+.qodo
+.DS_Store
+Thumbs.db
+supabase/.temp

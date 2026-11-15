@@ -1,0 +1,196 @@
+.player {
+    position: relative;
+    width: 100%;
+    padding-top: 100%; /* Makes it a square */
+    background: #f0f0f0; /* optional placeholder background */
+    animation: slideUp 2s linear;
+}
+
+.tooltip {
+    position: relative;
+}
+
+.presentation.tooltip {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.presentation.tooltip:after {
+    position: absolute;
+    font-size: 16px;
+    bottom: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    max-width: 80%;
+    left: 10%;
+}
+
+.tooltip:after {
+    border: 2px solid #adebb3;
+    box-shadow: 0 0 8px #adebb3, 0 0 15px rgba(173, 235, 179, 0.4);
+    content: attr(data-tooltip);
+    position: fixed;
+    top: 20%;
+    left: 20%;
+    max-width: 60%;
+    height: fit-content;
+    background-color: #1B1414;
+    padding: 6px 10px;
+    border-radius: 4px;
+    font-size: 32px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+    z-index: 10;
+}
+
+.tooltip:hover::after {
+    opacity: 1;
+}
+
+.player.loading h2 {
+    animation: pulse 2s ease-in-out infinite;
+}
+
+.image-wrapper {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    background-color: #1B1414;
+}
+
+.image-wrapper img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.4s ease;
+}
+
+.image-wrapper img.live {
+    animation: heartbeat 2s ease-in-out infinite;
+}
+
+.image-wrapper img.rip {
+    animation: shake 4s ease-in-out infinite;
+}
+
+/* Glitch animation applied to old image */
+.image-wrapper img.glitch-out {
+    animation: glitchOut 0.5s steps(2, end);
+    opacity: 0;
+}
+
+.player h1,
+.player h2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+    opacity: 1;
+    transition: opacity 0.2s ease;
+    margin-block: 0;
+}
+
+.player h1 {
+    top: 10%;
+}
+
+.tooltip:hover + h1 {
+    opacity: 0;
+}
+
+
+@keyframes slideUp {
+    0% {
+        opacity: 1;
+        margin-top: 200vh;
+        animation-timing-function: ease-out;
+    }
+    15% {
+        margin-top: -10vh;
+        animation-timing-function: ease-in;
+    }
+    18% {
+        margin-top: 5vh;
+        animation-timing-function: ease-out;
+    }
+    20% {
+        margin-top: 0px;
+        animation-timing-function: ease-in;
+    }
+    95% {
+        opacity: 1;
+        margin-top: 0px;
+        animation-timing-function: ease-in;
+    }
+    100% {
+        margin-top: 0px;
+        opacity: 1;
+        animation-timing-function: ease-out;
+    }
+}
+
+@keyframes pulse {
+    0% {
+        opacity: 0.8;
+    }
+    50% {
+        opacity: 0.5;
+    }
+    100% {
+        opacity: 0.8;
+    }
+}
+
+@keyframes heartbeat {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes shake {
+    0%   { transform: translateX(0); }
+    2%   { transform: translateX(-10px); }
+    4%   { transform: translateX(10px); }
+    6%   { transform: translateX(-8px); }
+    8%   { transform: translateX(8px); }
+    10%  { transform: translateX(0); }
+    100% { transform: translateX(0); }
+}
+
+@keyframes glitchOut {
+    0% {
+        transform: translate(0) skew(0deg);
+        opacity: 1;
+    }
+    20% {
+        transform: translate(-5px, 2px) skew(-5deg);
+    }
+    40% {
+        transform: translate(5px, -2px) skew(5deg);
+        clip-path: inset(30% 0 40% 0);
+    }
+    60% {
+        transform: translate(-3px, 1px) skew(-3deg);
+        clip-path: inset(60% 0 10% 0);
+    }
+    80% {
+        transform: translate(3px, -1px) skew(3deg);
+        clip-path: inset(10% 0 60% 0);
+    }
+    100% {
+        opacity: 0;
+        transform: translate(0) skew(0deg);
+        clip-path: none;
+    }
+}

@@ -1,0 +1,1125 @@
+[
+  {
+    "description": "Give an example of black and white animal",
+    "answers": [
+      {
+        "description": "Zebra",
+        "points": 78
+      },
+      {
+        "description": "Cow",
+        "points": 8
+      },
+      {
+        "description": "Penguin",
+        "points": 7
+      },
+      {
+        "description": "Panda",
+        "points": 4
+      },
+      {
+        "description": "Stork",
+        "points": 2
+      },
+      {
+        "description": "Skunk",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "description": "Give an example of a pirate attribute",
+    "answers": [
+      {
+        "description": "Eye patch",
+        "points": 54
+      },
+      {
+        "description": "Hook",
+        "points": 17
+      },
+      {
+        "description": "Wooden leg",
+        "points": 9
+      },
+      {
+        "description": "Parrot",
+        "points": 8
+      },
+      {
+        "description": "Saber",
+        "points": 7
+      },
+      {
+        "description": "Rum",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "description": "Name a color beginning with the letter 'G'",
+    "answers": [
+      {
+        "description": "Green",
+        "points": 85
+      },
+      {
+        "description": "Gray",
+        "points": 9
+      },
+      {
+        "description": "Gold",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "description": "Name a Greek God beginning with the letter 'H'",
+    "answers": [
+      {
+        "description": "Hades",
+        "points": 40
+      },
+      {
+        "description": "Hera",
+        "points": 19
+      },
+      {
+        "description": "Hermes",
+        "points": 16
+      },
+      {
+        "description": "Hephaestus",
+        "points": 12
+      },
+      {
+        "description": "Helios",
+        "points": 7
+      },
+      {
+        "description": "Hestia",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "description": "Give an example of the item on the cupboard next to the bed",
+    "answers": [
+      {
+        "description": "The lamp",
+        "points": 62
+      },
+      {
+        "description": "Telephone",
+        "points": 11
+      },
+      {
+        "description": "Alarm",
+        "points": 9
+      },
+      {
+        "description": "Book",
+        "points": 8
+      },
+      {
+        "description": "Glasses",
+        "points": 6
+      },
+      {
+        "description": "Tissues",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "description": "Where are we waiting in line?",
+    "answers": [
+      {
+        "description": "In the shop",
+        "points": 42
+      },
+      {
+        "description": "At the doctor's",
+        "points": 33
+      },
+      {
+        "description": "In city hall",
+        "points": 10
+      },
+      {
+        "description": "To toilet",
+        "points": 6
+      },
+      {
+        "description": "At the post office",
+        "points": 5
+      },
+      {
+        "description": "At an amusement park",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "description": "Give the name of the cheese that is white",
+    "answers": [
+      {
+        "description": "Cottage cheese",
+        "points": 48
+      },
+      {
+        "description": "Mozzarella",
+        "points": 24
+      },
+      {
+        "description": "Feta",
+        "points": 17
+      },
+      {
+        "description": "Mascarpone",
+        "points": 5
+      },
+      {
+        "description": "Kozi",
+        "points": 4
+      },
+      {
+        "description": "Camembert",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "description": "Name a chess piece",
+    "answers": [
+      {
+        "description": "Pawn",
+        "points": 50
+      },
+      {
+        "description": "Knight",
+        "points": 15
+      },
+      {
+        "description": "King",
+        "points": 14
+      },
+      {
+        "description": "Bishop",
+        "points": 8
+      },
+      {
+        "description": "Queen",
+        "points": 7
+      },
+      {
+        "description": "Rook",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "description": "Give an example of high-percentage alcohol",
+    "answers": [
+      {
+        "description": "Vodka",
+        "points": 62
+      },
+      {
+        "description": "Whiskey",
+        "points": 17
+      },
+      {
+        "description": "Absinthe",
+        "points": 9
+      },
+      {
+        "description": "Cognac",
+        "points": 5
+      },
+      {
+        "description": "Gin",
+        "points": 4
+      },
+      {
+        "description": "Rum",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "description": "Give an example of an optical instrument",
+    "answers": [
+      {
+        "description": "Eyepiece",
+        "points": 37
+      },
+      {
+        "description": "Magnifier",
+        "points": 33
+      },
+      {
+        "description": "Telescope",
+        "points": 11
+      },
+      {
+        "description": "Spyglass",
+        "points": 8
+      },
+      {
+        "description": "Binoculars",
+        "points": 7
+      },
+      {
+        "description": "Microscope",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "description": "In what unit can we express energy?",
+    "answers": [
+      {
+        "description": "Joule",
+        "points": 54
+      },
+      {
+        "description": "kWh",
+        "points": 32
+      },
+      {
+        "description": "Calorie",
+        "points": 14
+      }
+    ]
+  },
+  {
+    "description": "Give an example of a fruit that we eat with the skin on",
+    "answers": [
+      {
+        "description": "Apple",
+        "points": 68
+      },
+      {
+        "description": "Grape",
+        "points": 10
+      },
+      {
+        "description": "Plum",
+        "points": 7
+      },
+      {
+        "description": "Pear",
+        "points": 6
+      },
+      {
+        "description": "Cherry",
+        "points": 5
+      },
+      {
+        "description": "Nectarine",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "description": "Give an example of the fruit we eat without the skin",
+    "answers": [
+      {
+        "description": "Banana",
+        "points": 56
+      },
+      {
+        "description": "Orange",
+        "points": 14
+      },
+      {
+        "description": "Watermelon",
+        "points": 9
+      },
+      {
+        "description": "Kiwi",
+        "points": 8
+      },
+      {
+        "description": "Tangerine",
+        "points": 8
+      },
+      {
+        "description": "Pineapple",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "description": "Give an example of a comic book superhero",
+    "answers": [
+      {
+        "description": "Superman",
+        "points": 43
+      },
+      {
+        "description": "Batman",
+        "points": 24
+      },
+      {
+        "description": "Spider-Man",
+        "points": 23
+      },
+      {
+        "description": "Iron Man",
+        "points": 5
+      },
+      {
+        "description": "Thor",
+        "points": 3
+      },
+      {
+        "description": "Captain America",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "description": "Give an example of a sport that require precision",
+    "answers": [
+      {
+        "description": "Shooting",
+        "points": 35
+      },
+      {
+        "description": "Billiards",
+        "points": 26
+      },
+      {
+        "description": "Golf",
+        "points": 15
+      },
+      {
+        "description": "Dart",
+        "points": 11
+      },
+      {
+        "description": "Curling",
+        "points": 7
+      },
+      {
+        "description": "Boules",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "description": "Which items do we most often lose?",
+    "answers": [
+      {
+        "description": "Keys",
+        "points": 48
+      },
+      {
+        "description": "Wallet",
+        "points": 16
+      },
+      {
+        "description": "Telephone",
+        "points": 12
+      },
+      {
+        "description": "A sock",
+        "points": 9
+      },
+      {
+        "description": "Money",
+        "points": 8
+      },
+      {
+        "description": "Documents",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "description": "Give an example of a social media",
+    "answers": [
+      {
+        "description": "Facebook",
+        "points": 60
+      },
+      {
+        "description": "Instagram",
+        "points": 18
+      },
+      {
+        "description": "Twitter",
+        "points": 13
+      },
+      {
+        "description": "YouTube",
+        "points": 6
+      },
+      {
+        "description": "TikTok",
+        "points": 3
+      },
+      {
+        "description": "LinkedIn",
+        "points": 0
+      }
+    ]
+  },
+  {
+    "description": "Give an example of a green spice",
+    "answers": [
+      {
+        "description": "Oregano",
+        "points": 29
+      },
+      {
+        "description": "Basil",
+        "points": 27
+      },
+      {
+        "description": "Dill",
+        "points": 15
+      },
+      {
+        "description": "Marjoram",
+        "points": 11
+      },
+      {
+        "description": "Parsley",
+        "points": 10
+      },
+      {
+        "description": "Bay leaf",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "description": "What are we taking to the beach?",
+    "answers": [
+      {
+        "description": "Towel",
+        "points": 59
+      },
+      {
+        "description": "Swimsuit",
+        "points": 16
+      },
+      {
+        "description": "Fence",
+        "points": 8
+      },
+      {
+        "description": "Sunglasses",
+        "points": 7
+      },
+      {
+        "description": "Cream with filter",
+        "points": 6
+      },
+      {
+        "description": "Umbrella",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "description": "What do we most often give as a gift?",
+    "answers": [
+      {
+        "description": "Alcohol",
+        "points": 26
+      },
+      {
+        "description": "Money",
+        "points": 22
+      },
+      {
+        "description": "Flowers",
+        "points": 20
+      },
+      {
+        "description": "A chocolate box",
+        "points": 13
+      },
+      {
+        "description": "Voucher",
+        "points": 12
+      },
+      {
+        "description": "Mug",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "description": "Give an example of a thing that melts easily",
+    "answers": [
+      {
+        "description": "Ice-cream",
+        "points": 49
+      },
+      {
+        "description": "Butter",
+        "points": 21
+      },
+      {
+        "description": "Snow",
+        "points": 20
+      },
+      {
+        "description": "Chocolate",
+        "points": 6
+      },
+      {
+        "description": "Wax",
+        "points": 3
+      },
+      {
+        "description": "Plastic",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "description": "Name the motorcycle manufacturers",
+    "answers": [
+      {
+        "description": "Yamaha",
+        "points": 35
+      },
+      {
+        "description": "Harley-Davidson",
+        "points": 23
+      },
+      {
+        "description": "Kawasaki",
+        "points": 17
+      },
+      {
+        "description": "Suzuki",
+        "points": 15
+      },
+      {
+        "description": "Honda",
+        "points": 8
+      },
+      {
+        "description": "BMW",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "description": "Name the German car brands",
+    "answers": [
+      {
+        "description": "BMW",
+        "points": 36
+      },
+      {
+        "description": "Volkswagen",
+        "points": 25
+      },
+      {
+        "description": "Audi",
+        "points": 15
+      },
+      {
+        "description": "Mercedes-Benz",
+        "points": 14
+      },
+      {
+        "description": "Opel",
+        "points": 9
+      },
+      {
+        "description": "Porsche",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "description": "Name the character from the movie 'Order of the Phoenix'",
+    "answers": [
+      {
+        "description": "Harry Potter",
+        "points": 73
+      },
+      {
+        "description": "Hermione Granger",
+        "points": 10
+      },
+      {
+        "description": "Lord Voldemort",
+        "points": 6
+      },
+      {
+        "description": "Albus Dumbledore",
+        "points": 5
+      },
+      {
+        "description": "Sirius Black",
+        "points": 4
+      },
+      {
+        "description": "Rubeus Hagrid",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "description": "Give an example of ballroom dance",
+    "answers": [
+      {
+        "description": "Tango",
+        "points": 46
+      },
+      {
+        "description": "Waltz",
+        "points": 28
+      },
+      {
+        "description": "Samba",
+        "points": 10
+      },
+      {
+        "description": "Cha-cha",
+        "points": 8
+      },
+      {
+        "description": "Salsa",
+        "points": 5
+      },
+      {
+        "description": "Rumba",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "description": "What do we do in an awkward situation?",
+    "answers": [
+      {
+        "description": "We are ashamed",
+        "points": 44
+      },
+      {
+        "description": "We laugh",
+        "points": 19
+      },
+      {
+        "description": "We are stressed",
+        "points": 15
+      },
+      {
+        "description": "We change the subject",
+        "points": 10
+      },
+      {
+        "description": "We are silent",
+        "points": 7
+      },
+      {
+        "description": "We run away",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "description": "Name an exotic pet that can be kept at home",
+    "answers": [
+      {
+        "description": "Snake",
+        "points": 32
+      },
+      {
+        "description": "Parrot",
+        "points": 31
+      },
+      {
+        "description": "Lizard",
+        "points": 14
+      },
+      {
+        "description": "Spider",
+        "points": 12
+      },
+      {
+        "description": "Turtle",
+        "points": 6
+      },
+      {
+        "description": "Chameleon",
+        "points": 5
+      }]
+  },
+  {
+    "description": "Name a green vegetable",
+    "answers": [
+      {
+        "description": "Cucumber",
+        "points": 50
+      },
+      {
+        "description": "Broccoli",
+        "points": 23
+      },
+      {
+        "description": "Peas",
+        "points": 10
+      },
+      {
+        "description": "Zucchini",
+        "points": 7
+      },
+      {
+        "description": "Lettuce",
+        "points": 6
+      },
+      {
+        "description": "Pepper",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "description": "What do teenagers get detention from their parents for?",
+    "answers": [
+      {
+        "description": "Bad grades",
+        "points": 27
+      },
+      {
+        "description": "Dropping school",
+        "points": 26
+      },
+      {
+        "description": "Drugs",
+        "points": 20
+      },
+      {
+        "description": "Lying",
+        "points": 13
+      },
+      {
+        "description": "Swearing",
+        "points": 9
+      },
+      {
+        "description": "Arguing",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "description": "Name the country where English is the main language",
+    "answers": [
+      {
+        "description": "Great Britain",
+        "points": 50
+      },
+      {
+        "description": "USA",
+        "points": 27
+      },
+      {
+        "description": "Ireland",
+        "points": 9
+      },
+      {
+        "description": "Australia",
+        "points": 7
+      },
+      {
+        "description": "Canada",
+        "points": 6
+      },
+      {
+        "description": "South Africa",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "description": "Give an example of athletic sport",
+    "answers": [
+      {
+        "description": "100 m run",
+        "points": 31
+      },
+      {
+        "description": "Long jump",
+        "points": 23
+      },
+      {
+        "description": "Pole vault",
+        "points": 21
+      },
+      {
+        "description": "Javelin throw",
+        "points": 11
+      },
+      {
+        "description": "Hurdles",
+        "points": 9
+      },
+      {
+        "description": "Shot put",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "description": "What kind of pizza do we order most often?",
+    "answers": [
+      {
+        "description": "Margherita",
+        "points": 36
+      },
+      {
+        "description": "Capricciosa",
+        "points": 28
+      },
+      {
+        "description": "Pepperoni",
+        "points": 20
+      },
+      {
+        "description": "Hawaiian",
+        "points": 12
+      },
+      {
+        "description": "Quatro formaggi",
+        "points": 3
+      },
+      {
+        "description": "Funghi",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "description": "Give an example of a martial art",
+    "answers": [
+      {
+        "description": "Karate",
+        "points": 43
+      },
+      {
+        "description": "Box",
+        "points": 16
+      },
+      {
+        "description": "Judo",
+        "points": 15
+      },
+      {
+        "description": "Kung Fu",
+        "points": 13
+      },
+      {
+        "description": "Kickboxing",
+        "points": 8
+      },
+      {
+        "description": "Sumo",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "description": "Name the animated film company",
+    "answers": [
+      {
+        "description": "Walt Disney",
+        "points": 67
+      },
+      {
+        "description": "Pixar",
+        "points": 17
+      },
+      {
+        "description": "Warner Bros",
+        "points": 11
+      },
+      {
+        "description": "Dreamworks",
+        "points": 4
+      },
+      {
+        "description": "Sony Pictures",
+        "points": 1
+      },
+      {
+        "description": "MGM",
+        "points": 0
+      }
+    ]
+  },
+  {
+    "description": "Name the famous Pokemon",
+    "answers": [
+      {
+        "description": "Pikachu",
+        "points": 83
+      },
+      {
+        "description": "Charizard",
+        "points": 7
+      },
+      {
+        "description": "Bulbasaur",
+        "points": 4
+      },
+      {
+        "description": "Snorlax",
+        "points": 3
+      },
+      {
+        "description": "Psyduck",
+        "points": 2
+      },
+      {
+        "description": "Jigglypuff",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "description": "What we do not lend",
+    "answers": [
+      {
+        "description": "Money",
+        "points": 34
+      },
+      {
+        "description": "Partner",
+        "points": 24
+      },
+      {
+        "description": "Underwear",
+        "points": 19
+      },
+      {
+        "description": "Toothbrushes",
+        "points": 16
+      },
+      {
+        "description": "The car",
+        "points": 5
+      },
+      {
+        "description": "Fountain pen",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "description": "What cannot be bought with money?",
+    "answers": [
+      {
+        "description": "Happiness",
+        "points": 45
+      },
+      {
+        "description": "Love",
+        "points": 28
+      },
+      {
+        "description": "Health",
+        "points": 14
+      },
+      {
+        "description": "Time",
+        "points": 10
+      },
+      {
+        "description": "Friendship",
+        "points": 2
+      },
+      {
+        "description": "Respect",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "description": "Name the popular drink",
+    "answers": [
+      {
+        "description": "Sex On The Beach",
+        "points": 39
+      },
+      {
+        "description": "Pina Colada",
+        "points": 26
+      },
+      {
+        "description": "Mohito",
+        "points": 13
+      },
+      {
+        "description": "Cuba Libre",
+        "points": 9
+      },
+      {
+        "description": "Blood Mary",
+        "points": 8
+      },
+      {
+        "description": "Margarita",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "description": "Who you can ask to make your dreams come true?",
+    "answers": [
+      {
+        "description": "Golden fish",
+        "points": 57
+      },
+      {
+        "description": "Fairy",
+        "points": 31
+      },
+      {
+        "description": "Genie",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "description": "Give an example of a disposable item",
+    "answers": [
+      {
+        "description": "Tissue",
+        "points": 49
+      },
+      {
+        "description": "Matches",
+        "points": 20
+      },
+      {
+        "description": "Condome",
+        "points": 12
+      },
+      {
+        "description": "Cutlery",
+        "points": 8
+      },
+      {
+        "description": "Tampon",
+        "points": 6
+      },
+      {
+        "description": "The razor",
+        "points": 5
+      }
+    ]
+  }
+]

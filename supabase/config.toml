@@ -1,0 +1,5 @@
+project_id = "host-games"
+
+# Gry używają klucza publishable (nie-JWT), więc wbudowana weryfikacja JWT musi być wyłączona
+[functions.oszukac-przeznaiczenie]
+verify_jwt = false
